@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>NaviUP</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+<body>
+    <img class="backimg" src="images/y-so-serious-white.png" style="display: none;">
+    <img src="images/y-so-serious.png" style="display: none;">
+    <div class="navbar">
+        <a href="https://www.facebook.com/SKNGeodetow/" target="_blank">
+            <img class="skn" src="images/geodeci.png" >
+            <h1>SKN</h1>
+            <div>
+                <p>Geodetów</p>
+                <p>Uniwersytetu Przyrodniczego we Wrocławiu</p>
+            </div>
+           
+        </a>
+        <img class="logo" src="images/NAVIUP PNG.png">
+        <div>
+            <a href="https://www.igig.up.wroc.pl/?menu=Aktualnosci" target="_blank">
+                <img class="igig" src="images/IGG.png">
+            </a>
+            <a href="https://upwr.edu.pl/" target="_blank">
+                <img class="upwr" src="images/upwr-logotyp-pl-poziomy.png">
+            </a>
+        </div>
+    </div>
+    <div class="container">
+        <i class="fa-regular fa-moon darkModeButton"></i>
+        <div class="links hidden">
+            <ul>
+                <a href="#project"><li>O projekcie<p></p></li></a>
+                <a href="#about"><li>O nas<p></p></li></a>
+                <a href="#contact"><li>Kontakt<p></p></li></a>
+                <a href="#main"><li>Main<p></p></li></a>
+            </ul>
+            <img id="arrow" src="images/strzałka.png">
+        </div>
+        <div class = "tile">
+            <div class="main">
+                <div class="where">
+                    <div id="info">
+                    </div>
+                    <h1>Gdzie jesteś?</h1>
+                    <a class="chooseButton" data-data="people">Osoba</a>
+                    <a class="chooseButton" data-data="rooms">Pomieszczenie</a>
+                    <form autocomplete="off">
+                        <div class="autocomplete" data-data="">
+                            <input type="text" placeholder="Jestem w..." name="search" id="start" class="searchBox">                           
+                        </div>
+                    </form>
+                </div>
+                <div class="search nonVisible">
+                    <div id="info">
+                    </div>
+                    <h2>Czego szukasz?</h2>
+                    <a class="chooseButton" data-data="people">Osoba</a>
+                    <a class="chooseButton" data-data="rooms">Pomieszczenie</a>
+                    <form autocomplete="off">
+                        <div class="autocomplete" data-data="">
+                            <input type="text" placeholder="Szukam..." name="search" id="end" class="searchBox">
+                        </div>
+                    </form>
+                </div>
+                <a class="chooseButton searchButton nonVisible">Szukaj drogi</a>
+                <div id="bottom"></div>
+            </div>
+            <div class="flip">
+                <h3>Aby poprawnie wyświetlić stronę proszę obrócić telefon</h3>
+                <img src="images/flip.png">
+            </div>
+        </div>
+    </div>
+    <div id="model" data-orto="" data-start="" data-end="">
+        <div></div>
+        <div id="textHolder" class="nonVisible">
+            <p id="model3d">Model trójwymiarowy</p>
+            <p id="sideView">Widok pięter z boku</p>
+            <p id="mini3d">Model trójwymiarowy<span></span></p>
+            <p id="floorStart">Piętro startowe<span></span></p>
+            <p id="floorEnd">Piętro końcowe<span></span></p>
+        </div>
+    </div>
+    <footer>
+        SKN Geodetów Uniwersytetu Przyrodniczego we Wrocławiu &copy; 2022-2023. All rights reserved</br>
+    </footer>
+
+    <script id="main-template" type="text/x-handlebars-template">
+        <div class="main">
+            <div class="where">
+                <div id="info">
+                </div>
+                <h1>Gdzie jesteś?</h1>
+                <a class="chooseButton" data-data="people">Osoba</a>
+                <a class="chooseButton" data-data="rooms">Pomieszczenie</a>
+                <form autocomplete="off">
+                    <div class="autocomplete" data-data="">
+                        <input type="text" placeholder="Jestem w..." name="search" id="start" class="searchBox">
+                    </div>
+                </form>
+            </div>
+            <div class="search nonVisible">
+                <div id="info">
+                </div>
+                <h2>Czego szukasz?</h2>
+                <a class="chooseButton" data-data="people">Osoba</a>
+                <a class="chooseButton" data-data="rooms">Pomieszczenie</a>
+                <form autocomplete="off">
+                    <div class="autocomplete" data-data="">
+                        <input type="text" placeholder="Szukam..." name="search" id="end" class="searchBox">
+                    </div>
+                </form>
+            </div>
+            <a class="chooseButton searchButton nonVisible">Szukaj drogi</a>
+            <div id="bottom"></div>
+        </div>
+        <div class="flip">
+            <h3>Aby poprawnie wyświetlić stronę proszę obrócić telefon</h3>
+            <img src="images/flip.png">
+        </div>
+    </script>
+    <script id="project-template" type="text/x-handlebars-template">
+        <div class="project">
+            <h1>O projekcie</h1>   
+
+            <h4>Projekt NaviUP to inicjatywa członków Studenckiego Koła Naukowego Geodetów działającego przy Instytucie Geodezji i Geoinformatyki Uniwersytetu Przyrodniczego we Wrocławiu.</h4>
+            <p>Stworzyliśmy to narzędzie, aby ułatwić poruszanie się po obiekcie naszej uczelni, a w przyszłości chcemy rozwinąć projekt dla kolejnych budynków naszego kampusu. Planujemy równiez uwzględnić optymalne trasy przejść dla osób niepełnosprawnych oraz wyjścia ewakuacyjne.
+            <p>Jesteśmy przekonani, ze NaviUP poprawi mobilność całej społeczności akademickiej na naszym Uniwersytecie. </p>
+
+            <p>Projekt został dofinansowany przez Uniwersytet Przyrodniczy we Wrocławiu w ramach IV edycji konkursu „Projekty badawcze SKN” w roku 2022. </p>
+            <div>
+                <a href="https://upwr.edu.pl/studia/studencka-aktywnosc/studenckie-projekty-badawcze/projekty-badawcze-skn/zwyciezcy-iv-edycji-2022" target="_blank">Wyniki konkursu</a>
+                <i class="fa-solid fa-sack-dollar"></i>
+            </div>
+            <div>
+                <img src="images/upwr-logotyp-pl-poziomy.png" alt="logo upwr">
+            </div>
+        </div>
+    </script>
+    <script id="about-template" type="text/x-handlebars-template">
+        <div class="about">
+            <h1>O nas</h1> 
+            <p> Jako studenci naszego Uniwersytetu zaobserwowaliśmy problem, którym był brak narzędzia pozwalającego na szybkie odnajdywanie gabinetu wykładowcy bądź sali, w której mamy zajęcia. Prezentujemy Wam nowoczesną wyszukiwarkę połączeń między wybranymi pomieszczeniami dla części budynku C1. 
+            <p>Nasz projekt został wykonany z największą starannością: począwszy od wywiadu terenowego i pomiarów fizycznych, aż po zbudowanie modelu oraz wygenerowanie ścieżek nawigacyjnych. Dzięki nam bez problemu odnajdziecie się na uczelni.</p> 
+            <p>Nasz zespół to członkowie SKN Geodetów Uniwersytetu Przyrodniczego we Wrocławiu. NaviUP to efekt naszej wspólnej pracy i pierwszy krok w kierunku poprawy mobilności społeczności akademickiej.</p> 
+            <div class="aboutFlex">
+                <div id="care">
+                    <p><b>Opiekunowie naukowi projektu:</b></p>
+                    <p> dr inż. Paweł Bogusławski</p>
+                    <p> dr inż. Kamil Kaźmierski</p>
+                    <p> dr inż. Adrian Kaczmarek</p>
+                </div>
+                <div id="head">
+                    <p><b>Osoba od wektoryzacji</b></p>
+                    <p> Wiktoria Kowalczyk</p>
+                </div>
+                <div id="help">
+                    <p><b>Wsparcie dodatkowe:</b></p>
+                    <p> mgr inż. Adam Pałęcki</p>
+                    <p> mgr inż. Adrian Kulik</p>
+                    <p> mgr inż. Filip Gałdyn</p>
+                </div>
+                <div id="code">
+                    <p><b>Ekipa programistów:</b></p>
+                    <p> Konrad Kostrzanowski</p>
+                    <p> Mikołaj Janas</p>
+                    <p> Marysia Pięk</p>
+                    <p> Miłosz Olszewski</p>
+                    <p> Adam Skórski</p>
+                </div>
+                <div>
+                    <img id="mask" src="images/masks/care.png">
+                    <img id="aboutImg" src="images/team2.jpg">
+                </div>
+                <div id="art">
+                    <p><b>Drużynowy artysta:</b></p>
+                    <p> Maurycy Hechmann</p>
+                </div>
+                <div id="data">
+                    <p><b>Ludzie od danych:</b></p>
+                    <p> Julia Piszak</p>
+                    <p> Karol Błaszczok</p>
+                    <p> Wiktor Cholewa</p>
+                    <p> Adrianna Kieres</p>
+                    <p> Michaela Szłapa</p>
+                </div>
+                <div id="FME">
+                    <p><b>Osoba od algorytmów FME:</b></p>
+                    <p> Weronika Wysopal</p>
+                </div>
+            </div>
+            <embed hidden="true">
+                <audio loop autoplay src="../vendor/Jim Yosef - Stamp On The Ground.mp3" type="audio/mpeg"></audio>
+        </div>
+    </script>
+    <script id="contact-template" type="text/x-handlebars-template">
+        <div class="contact">
+            <h2>Kontakt</h2>
+            <p><strong><i class="fa-solid fa-envelope"></i></strong> skn_geodetow@upwr.edu.pl</p>
+            <p><i class="fa-solid fa-location-dot"></i> ul. Grunwaldzka 53, 50-357 Wrocław</p>
+            <h2><strong>Przewodniczący</strong></h2>
+            <h3>Maurycy Hechmann</h3>
+            <p><strong><i class="fa-solid fa-envelope"></i></strong> maurycyhechmann@gmail.com</p>
+            <p><strong><i class="fa-solid fa-phone"></i></strong> +48 697 592 660</p>
+            <h2><strong>Z-ca Przewodniczącego</strong></h2>
+            <h3>Wiktoria Kowalczyk</h3>
+            <p><strong><i class="fa-solid fa-envelope"></i></strong> wiktoriakowalczyk05@gmail.com</p>
+            <p><strong><i class="fa-solid fa-phone"></i></strong> +48 883 521 625</p>
+            <h2><strong>Członkini Zarządu</strong></h2>
+            <h3>Emilia Biczel</h3>
+            <p><strong><i class="fa-solid fa-envelope"></i></strong> emilia.biczel@gmail.com</p>
+        </div>
+    </script>
+    <script src="js/script.js" type="module"></script>
+    <script src="js/three.js" type="module"></script>
+    <script src="js/panolens.module.js"type="module" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+</body>
+</html>
