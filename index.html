@@ -33,7 +33,18 @@
         </div>
     </div>
     <div class="container">
-        <i class="fa-regular fa-moon darkModeButton"></i>
+        <div class="HUDButtonsContainer">
+            <button id="loginShowButton" onclick="login.showModal()">Zaloguj się</button>
+            <i class="fa-regular fa-moon darkModeButton"></i>
+        </div>
+        <dialog id="login">
+            <form method="dialog">
+                <h3>Potwierdź że jesteś z UPWR</h3>
+                <input formmethod="dialog" type="text" placeholder="Podaj mail uczelniany">
+            </form>
+            <button id="loginButton">Wprowadź</button>
+            <button id="closeButton" onclick="login.close()">Zamknij</button>
+        </dialog>
         <div class="links hidden">
             <ul>
                 <a href="#project"><li>O projekcie<p></p></li></a>

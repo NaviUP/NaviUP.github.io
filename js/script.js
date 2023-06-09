@@ -13,6 +13,7 @@ const currentLocation = window.location;
 let doneOneced = false;
 let button1 = false;
 const maxWidth = 1000;
+let logged = false;
 
 function initMain() {
     let button2 = false;
@@ -326,12 +327,17 @@ function initMain() {
     let peopleName = [];
     let roomsName = [];
 
-    // zamienić z powrotem na /NaviUP.github.io
-    function fetchData(){
-        fetch('../../db/app.json').then(function(rawResponse){
-        //fetch('../db/app.json').then(function(rawResponse){
+    // function fetchData(what = '../db/app.json'){
+    function fetchData(what = '../../db/app.json'){
+        if(logged){
+            // what = '../db/app2.json';
+            what = '../../db/app2.json';
+        }
+        fetch(what).then(function(rawResponse){
             return rawResponse.json();
         }).then(function(parsedResponse){
+            peopleName = [];
+            roomsName = [];
             for(let i = 0; i < parsedResponse['people'].length; i++){
                 peopleName.push(parsedResponse['people'][i]);
             }
@@ -510,7 +516,6 @@ function initMain() {
                 if(currentButton.parentElement.querySelector('input') && currentButton.parentElement.querySelector('input').value != ''){
                     currentButton.parentElement.querySelector('input').value = '';
                 }
-
                 
                 if (currentButton.parentElement.classList.contains('where') && !button1 && window.innerWidth > maxWidth){
                     autocomplete(currentButton.parentElement.querySelector('input'));
@@ -587,8 +592,8 @@ function initMain() {
             info.appendChild(email);
             info.appendChild(pan);
 
-            const panorama = new PANOLENS.ImagePanorama( '../../images/rooms/' + id['description']['panorama']);
-            //const panorama = new PANOLENS.ImagePanorama( '../images/rooms/' + id['description']['panorama']);
+            // const panorama = new PANOLENS.ImagePanorama( '../../images/rooms/' + id['description']['panorama']);
+            const panorama = new PANOLENS.ImagePanorama( '../images/rooms/' + id['description']['panorama']);
             const viewer = new PANOLENS.Viewer({
                 container: info.querySelector('div')
             });
@@ -759,12 +764,55 @@ function initMain() {
                 tile.innerHTML = html();
     
                 if(href == 'main'){
+                    button1 = false;
+                    button2 = false;
                     initMain();
                 }
 
                 teams();
             });
         }
+    const loginButton = document.getElementById('loginButton');
+    const login = document.getElementById('loginShowButton');
+
+    loginButton.parentElement.querySelector('h3').innerHTML = 'Potwierdź że jesteś z UPWR';
+
+    loginButton.parentElement.querySelector('input').addEventListener('keydown', (event) => {
+        if(event.key == 'Enter'){
+            event.preventDefault();
+            ValidateEmail(loginButton.parentElement.querySelector('input'));
+        }
+    });
+
+    function ValidateEmail(inputText) {
+        var mailformat = /[0-9]{6}@student.upwr.edu.pl/;
+        var mailformat2 = /[a-z].[a-z]@upwr.edu.pl/;
+        if(inputText.value.match(mailformat) || inputText.value.match(mailformat2)) {
+            // alert("Wpisany mail jest poprawny!");
+            //document.form1.text1.focus();
+            loginButton.parentElement.querySelector('h3').innerHTML = 'Wpisany mail jest prawidłowy!';
+            // fetchData('../db/app2.json');
+            fetchData('../../db/app2.json');
+            logged = true;
+            setTimeout(() => {
+                loginButton.parentElement.querySelector('button[id="closeButton"]').click();
+                login.innerHTML = 'Zalogowany!';
+                document.querySelector('.chosen').click();
+            }, 1500);
+        }
+        else {
+            loginButton.parentElement.querySelector('h3').innerHTML = 'Wpisany mail jest nieprawidłowy!';
+            // alert("Wpisany mail nies nieprawidłowy!");
+            //document.form1.text1.focus();
+            logged = false;
+            // fetchData('../db/app.json');
+            fetchData('../../db/app.json');
+        }
+    }
+
+    loginButton.addEventListener('click', () => {
+        ValidateEmail(loginButton.parentElement.querySelector('input'));
+    });
     }
     doneOneced = true;
 }
