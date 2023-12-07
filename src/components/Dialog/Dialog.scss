@@ -1,0 +1,49 @@
+@import '../../styles/settings.scss';
+
+.component {
+    opacity: 1;
+    scale: 1;
+    display: block;
+    transition: all 1s;
+    background-color: $base-color;
+    border-radius: 15px;
+    text-align: center;
+    width: 30%;
+
+    h3 {
+        margin: 5px;
+    }
+
+    input {
+        font-size: 16px;
+        margin: 5px;
+        border-radius: 20px;
+        border-color: $base-color;
+        width: 80%;
+    }
+
+    button {
+        cursor: pointer;
+        margin: 5px;
+        padding: 5px;
+        border: solid 1px $base-color;
+        border-radius: 20px;
+        transition: 1s ease;
+        
+    }
+
+    button:hover {
+        background-color: rgb(31, 162, 125);
+        border-color: aqua;
+    }
+    
+    button:active {
+        background-color: rgb(17, 97, 74);
+        transition: .1s;
+    }
+}
+
+dialog[open] {
+    scale: 1;
+    opacity: 1;
+}

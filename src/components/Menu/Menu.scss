@@ -1,0 +1,107 @@
+@import '../../styles/settings.scss';
+
+@keyframes arrow {
+    0% {transform: scale(1);}
+    50% {transform: scale(1.5);}
+    100% {transform: scale(1);}
+}
+
+.links {
+    font-weight: bold;
+    position: fixed;
+    left: 0%;
+    top: 5rem;
+    width: 100px;
+    height: 1px;
+    transition: left 0.5s ease;
+    z-index: 1;
+
+    img {
+        position: absolute;
+        top: -13px;
+        right: -12%;
+        rotate: 90deg;
+        cursor: pointer;
+        transition: rotate 0.5s ease;
+        animation: arrow 2s ease;
+    }
+
+    .turn {
+        rotate: -90deg;
+    }
+
+    >ul {
+        margin: auto;
+        padding: 5px 0;
+        background: $base-color;
+        border-bottom-right-radius: 20%;
+        list-style-type: none;
+        font-size: 14px;
+        position: absolute;
+        width: 85%;
+        height: auto;
+        overflow: hidden;
+        
+        a {
+            text-decoration: none;
+            width: inherit;
+
+            li {
+                box-sizing: content-box;
+                padding: 5px;
+                width: inherit;
+                color: white;
+                transition: color 1s ease;
+
+                p {
+                    margin: 0;
+                    position: absolute;
+                    content: '';
+                    background: white;
+                    height: 2px;
+                    width: inherit;
+                    left: -100%;
+                    transition: left 1s ease, background 1s ease;
+                }
+            }
+        }
+        
+        a:hover {
+            li {
+                color: gold;
+                
+                p {
+                    left: 0%;
+                    background: gold;
+                }
+            }
+
+        }
+
+    }
+}
+
+.links::before {
+    content: '';
+    width: 100px;
+    height: 25px;
+    background: $base-color;
+    position: absolute;
+    top: -10px;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+.hidden {
+    left: -5.3rem;
+}
+
+@media screen and (min-width: 1700px){
+    #arrow {
+        width: 36px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    
+}

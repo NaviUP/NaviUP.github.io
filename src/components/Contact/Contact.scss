@@ -1,0 +1,46 @@
+@import '../../styles/settings.scss';
+
+@keyframes move {
+    0% {transform: translate(-100%);}
+    100% {transform: translate(0%);}
+}
+
+
+.component {
+    // transition: max-height 2s ease;
+    color: #000000;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+
+    p {
+        margin: 5px 0;
+    }
+
+    h2 {
+        margin: 15px 0;
+    }
+
+    h3 {
+        margin: 10px 0;
+    }
+
+    p:last-of-type {
+        margin-bottom: 1000px;
+    }
+}
+
+.component {
+    h2 {
+        animation: move 1s ease-in-out;
+    }
+
+    h3 {
+        animation: move 1.5s ease-in-out;
+    }
+
+    p {
+        animation: move 2s ease-in-out;
+    }
+}

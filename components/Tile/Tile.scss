@@ -1,0 +1,61 @@
+@import '../../styles/settings.scss';
+
+@keyframes spread {
+    0% {max-height: 200px;}
+    100% {max-height: 4000px;}
+}
+
+.component {
+    margin: auto;
+    width: 75vw;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-bottom: 70px;
+    transition: width 2s, height 2s;
+    height: auto;
+}
+
+.tile {
+    width: 100%;
+    padding: 20px;
+    margin: 30px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    opacity: 0.8;
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 30px;
+    max-height: 200px;
+    //background: linear-gradient(50deg, #a032be, #0e0e6a);
+    transition: max-height 2s ease;
+    max-height: 4000px;
+    padding: 0;
+    // overflow: hidden;
+    animation: spread 4s ease-in-out;
+}
+
+@media screen and (min-width: 1700px) {
+    .tile {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .component {
+        width: 100vw;
+    }
+
+    .tile {
+        font-size: 16px;
+
+        .flip {
+            display: block;
+            color: black;
+        }
+    }
+}
