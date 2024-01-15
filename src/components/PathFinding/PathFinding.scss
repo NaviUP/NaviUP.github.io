@@ -1,0 +1,16 @@
+@import '../../styles/settings.scss';
+
+.component { 
+    width: 70%;
+    height: 50%;
+    margin: auto;
+    padding: 0px;
+    padding-top: 100px;
+}
+
+.component > a{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: white;
+}

@@ -43,19 +43,43 @@ form {
     border-color: #3131ed;
 }
 
-.searchBox:focus, .selectHeader:focus {
+.searchBox:focus, .selectHeader:focus, .buildingChooser:focus {
     transition: width 1s;
     border-color: aqua;
 }
 
-.searchBox:hover, .selectHeader:hover {
+.searchBox:hover, .selectHeader:hover, .buildingChooser:hover {
     border-color: aqua;
+}
+
+.buildingChooser {
+    width: 40%;
+    min-width: 40%;
+    max-width: 80%;
+    margin: 10px 0px;
+    border: 2px solid;
+    border-color: #3131ed;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 15px;
+
+    > p {
+        margin: 5px;
+        font-size: 16px;
+        font-weight: bold;
+    }
 }
 
 .autocomplete {
     position: relative;
     display: inline-block;
     width: 100%;
+}
+
+.buildingChooserContainer {
+    display: flex;
+    justify-content: center;
 }
 
 .autocompleteItems, .selectBox {
@@ -65,7 +89,7 @@ form {
     border-radius: 1.2em;
     z-index: 99;
     /*position the autocomplete items to be the same width as the container:*/
-    top: 70%;
+    top: 100%;
     left: 0;
     right: 0;
     max-height: 150px;
@@ -88,16 +112,12 @@ form {
     background: linear-gradient(50deg, #a032be, #0e0e6a);
     border-bottom: 1px solid #d4d4d4;
 }
-
-.selectBox div {
-    padding: 5px;
-}
   
 .autocompleteItems div:hover {
     background-color: #46caee; 
 }
 
-.autocompleteItems div a{
+.autocompleteItems div a, .autocompleteItems div div{
     color: white;
     text-decoration: none;
     display: block;

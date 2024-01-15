@@ -18,20 +18,25 @@ class Main extends React.Component {
         idStart: 0,
         idEnd: 0,
         currentFocus: 0,
+        buildingList: []
     }
 
     autocomplete = where => {
         let startId, endId;
-
+        
         let inp = document.getElementById(where);
 
         var a, b, i, value = inp.value;
         let arr;
 
+        let buttonName = ''
+
         if(where == 'start'){
             arr = this.state.from[0];
+            buttonName = this.state.fromButton;
         }else {
             arr = this.state.to[0];
+            buttonName = this.state.toButton;
         }
 
         closeAllLists();
@@ -77,14 +82,22 @@ class Main extends React.Component {
             // wrapperVisibility(true, inp.getAttribute('id'));
             // resizeMe.call(inp);
         }
-
+        console.log(this.state.fromButton)
         for(i = 0; i < arr.length; i++){
-            if(arr[i]['name'].substr(0, value.length).toUpperCase() == value.toUpperCase()){
+            let names = '';
+            
+            if(buttonName == 'buildings'){
+                names = Object.keys(arr[i])[0];
+            }else {
+                names = arr[i]['name'];
+            }
+
+            if(names.substr(0, value.length).toUpperCase() == value.toUpperCase()){
                 b = document.createElement('DIV');
                 b.setAttribute('id', arr[i]['id']);
                 
-                b.innerHTML = '<a><strong>' + arr[i]['name'].substr(0, value.length) + 
-                '</strong>'+ arr[i]['name'].substr(value.length) + '<input type="hidden" value="' + arr[i]['name'] + '"></a>';
+                b.innerHTML = '<a><strong>' + names.substr(0, value.length) + 
+                '</strong>'+ names.substr(value.length) + '<input type="hidden" value="' + names + '"></a>';
 
                 const self = this;
                 b.addEventListener('click', function(event){
@@ -116,10 +129,12 @@ class Main extends React.Component {
         
         function closeAllLists(elements){
             var x = document.getElementsByClassName(styles.autocompleteItems);
-
+            
             for(let i = 0; i < x.length; i++){
-                if(elements != x[i] && elements != inp){
-                    x[i].parentNode.removeChild(x[i]);
+                if(elements) {
+                    if(elements != x[i] && elements != inp && elements.parentElement.className != styles.buildingChooser){
+                        x[i].parentNode.removeChild(x[i]);
+                    }
                 }
             }
         }
@@ -129,9 +144,91 @@ class Main extends React.Component {
         });
     }
 
+    chooseBuilding = (where, place) => {
+        let inp = document.querySelector('[data-begining=' + place + ']');
+        var a, b;
+        let arr;
+        console.log(this.state.from);
+        if(inp.querySelector('[id="autocomplete-list"]')){
+            inp.querySelector('[id="autocomplete-list"]').remove();
+            console.log('work work')
+        }
+        console.log(this.state.buildingList)
+        if(where == 'start'){
+            arr = this.state.buildingList[0];
+        }else {
+            arr = this.state.buildingList[0];
+        }
+
+        a = document.createElement('div');
+        a.setAttribute('id', inp.id + 'autocomplete-list');
+        a.setAttribute('class', styles.autocompleteItems);
+
+        inp.appendChild(a);
+
+        b = document.createElement('div');
+        a.appendChild(b);
+        console.log(inp)
+        console.log(a)
+        for(let i = 0; i < arr.length; i++){
+            let newPlace =  document.createElement('div');
+            newPlace.innerHTML = Object.keys(arr[i])[0];
+
+            newPlace.addEventListener('click', (e) => {
+                // b.style.width = newPlace.innerHTML.length + 'ch';
+                e.stopPropagation();
+
+                if(inp.getAttribute('data-begining') == 'from'){
+                    this.setState({from: [arr[i][newPlace.innerHTML]]})
+                    this.setState({fromButton: 'rooms'})
+                    // idStart = Object.keys(arr[i])[0]['id'];
+                }else{
+                    this.setState({to: [arr[i][newPlace.innerHTML]]})
+                    this.setState({toButton: 'rooms'})
+                    // idEnd = Object.keys(arr[i])[0]['id'];
+                }
+
+                inp.querySelector('p').innerHTML = newPlace.innerHTML;
+
+                setTimeout(() => {
+                    document.getElementById('autocomplete-list').remove();
+                }, 0);
+                    
+            });
+            b.appendChild(newPlace);
+        }
+    }
+
+    addLogic = where => {
+        const buildingListContainer = document.querySelector("[data-begining=" + where + "]");
+        let a, b;
+
+        if(buildingListContainer.childElementCount > 0){
+            buildingListContainer.innerHTML = '';
+        }
+
+        setTimeout(() => {           
+            a = document.createElement('DIV');
+            a.className = styles.buildingChooser;
+            
+            b = document.createElement('p');
+            b.innerHTML = 'W jakim budynku?';
+            
+            a.appendChild(b)
+            
+            buildingListContainer.appendChild(a);
+            
+            a.addEventListener('click', () => {
+                this.chooseBuilding('start', where);
+            })
+        }, 10);
+
+    }
+
     focus = place => {
-        document.getElementById(place).focus();
-        document.getElementById(place).select();
+        const input = document.getElementById(place);
+        input.focus();
+        input.select();
     }
 
     manualSearch = (id, e) => {
@@ -186,28 +283,104 @@ class Main extends React.Component {
     }
 
     show = (type, where) => {
-        let data = [];
-        const logged = document.querySelector('dialog').getAttribute('data-login');
-        
-        if(logged == 'false'){
-            fetch('src/data/app.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])});
-        }else {
-            fetch('src/data/app2.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])});
-        }
-        
-        where == 'from' ? this.setState({from: data}) && this.setState({fromButton: type}) : this.setState({to: data}) && this.setState({toButton: type});
-    
         const chooseButtons = document.querySelectorAll('.' + styles.chooseButton);
+        const inputs = document.querySelectorAll('[data-data=""]');
         
         for(let i = 0; i < chooseButtons.length; i++){
             const currentButton = chooseButtons[i];
 
             if(currentButton.getAttribute('data-place') == where && currentButton.getAttribute('data-data') == type){
-                currentButton.classList.toggle(styles.chosen);
+                currentButton.classList.add(styles.chosen);
             }else if(currentButton.getAttribute('data-place') == where && currentButton.getAttribute('data-data') != type){
                 currentButton.classList.remove(styles.chosen);
             }
         }
+
+        if(chooseButtons[2].classList.contains(styles.chosen)){
+            // data = []
+            // fetch('src/data/B&R.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])})
+            // console.log(data)
+            // this.setState({from: data});
+            chooseButtons[3].classList.add(styles.nonVisible);
+            chooseButtons[4].classList.add(styles.nonVisible);
+
+            chooseButtons[5].classList.remove(styles.nonVisible);
+        }else {
+            chooseButtons[3].classList.remove(styles.nonVisible);
+            chooseButtons[4].classList.remove(styles.nonVisible);
+            
+            chooseButtons[5].classList.add(styles.nonVisible);
+            chooseButtons[5].classList.remove(styles.chosen);
+        }
+
+        if(type == 'buildings'){
+            inputs.forEach(el => {
+                if(el.querySelector('[id="start"]') && where == 'from'){
+                    el.className = [el.className, styles.nonVisible].join(' ');
+                }else if(el.querySelector('[id="end"]') && where == 'to'){
+                    el.className = [el.className, styles.nonVisible].join(' ');
+                }
+            });
+        }else {
+            inputs.forEach(el => {
+                if(el.querySelector('[id="start"]') && where == 'from'){
+                    el.className = styles.autoComplete;
+                }else if(el.querySelector('[id="end"]') && where == 'to'){
+                    el.className = styles.autoComplete;
+                }
+            });
+
+            if(type == 'people'){
+                inputs.forEach(el => {
+                    if(el.querySelector('[id="start"]') && where == 'from' && el.parentElement.firstChild.hasChildNodes()){
+                        el.parentElement.firstChild.firstChild.remove();
+                    }else if(el.querySelector('[id="end"]') && where == 'to' && el.parentElement.firstChild.hasChildNodes()){
+                        el.parentElement.firstChild.firstChild.remove();
+                    }
+                });
+            }
+        }
+
+        // console.log(input.parentElement.parentElement.firstChild.hasChildNodes())
+        // if(input.parentElement.parentElement.firstChild.hasChildNodes()){
+        //     input.parentElement.parentElement.firstChild.firstChild.remove();
+        //     console.log('work work')
+        // }
+
+        let data = [];
+        const logged = document.querySelector('dialog').getAttribute('data-login');
+        
+        let whatToFetch = ''
+
+        if(type == 'people'){
+            whatToFetch = 'people';
+        }else {
+            whatToFetch = 'B&R';
+            type = 'buildings';
+        }
+        
+        fetch('src/data/' + whatToFetch + '.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])});
+        
+        // if(logged == 'false'){
+        //     fetch('src/data/B&R.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])});
+        // }else {
+        //     fetch('src/data/app2.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse[type])});
+        // }
+        
+        // where == 'from' ? this.setState({from: data}) && this.setState({fromButton: type}) : this.setState({to: data}) && this.setState({toButton: type});
+
+        if(where == 'from'){
+            this.setState({from: data});
+            this.setState({fromButton: type});
+        }else {
+            this.setState({to: data});
+            this.setState({toButton: type});
+        }
+        
+        if(type == 'buildings'){
+            this.setState({buildingList: data});
+        }
+
     }
 
     showModel = () => {
@@ -227,6 +400,7 @@ class Main extends React.Component {
         const tileHeight = document.getElementById('main');
         const howMany = document.querySelectorAll('.' + styles.chosen);
         const inputs = document.querySelectorAll('input');
+        const buildings = document.querySelectorAll('[data-begining]');
 
         if(howMany.length > 0){
             tileHeight.style.overflow = 'initial';
@@ -244,6 +418,12 @@ class Main extends React.Component {
             inputs.forEach(element => {
                 element.value = '';
             });
+
+            buildings.forEach(el => {
+                let building = el.firstChild;
+                console.log(building);
+                el.removeChild(building)
+            })
         }
     }
 
@@ -256,8 +436,11 @@ class Main extends React.Component {
                         </div>
                         <h1>Gdzie jesteś?</h1>
                         <a onClick={() => {this.show('people', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="people">Osoba</a>
-                        <a onClick={() => {this.show('rooms', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="rooms">Pomieszczenie</a>
+                        <a onClick={() => {this.show('rooms', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="rooms">Pomieszczenie</a>
+                        <a onClick={() => {this.show('buildings', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="buildings">Budynek</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
+                            <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="from">                           
+                            </div>
                             <div className = {styles.autocomplete} data-data="">
                                 <input onKeyDown={e => this.manualSearch('start', e)} onClick={() => this.focus('start')} onInput = {() => this.autocomplete('start')} type="text" placeholder="Jestem u/w np. Kaczmarek Adrian, 202-Sala dydaktyczna" name="search" id="start" className = {styles.searchBox} />                           
                             </div>
@@ -268,8 +451,11 @@ class Main extends React.Component {
                         </div>
                         <h2>Czego szukasz?</h2>
                         <a onClick={() => {this.show('people', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="people">Osoba</a>
-                        <a onClick={() => {this.show('rooms', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="rooms">Pomieszczenie</a>
+                        <a onClick={() => {this.show('rooms', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="rooms">Pomieszczenie</a>
+                        <a onClick={() => {this.show('buildings', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="buildings">Budynek</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
+                            <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="to">                           
+                            </div>
                             <div className = {styles.autocomplete} data-data="">
                                 <input onKeyDown={e => this.manualSearch('end', e)} onClick={() => this.focus('end')} onInput = {() => this.autocomplete('end')} type="text" placeholder="Szukam np. Kaczmarek Adrian, 202-Sala dydaktyczna" name="search" id="end" className = {styles.searchBox} />
                             </div>
