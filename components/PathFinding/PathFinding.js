@@ -94,10 +94,11 @@ class PathFinding extends React.Component {
         const rayCaster = new THREE.Raycaster();
         const clickMouse = new THREE.Vector2();
         container.childNodes[1].addEventListener('click', event => {
-            console.log((event.clientX / window.innerWidth) * 2 - 1);
-            console.log((event.clientX / container.clientWidth) * 2 - 1.05)
-            clickMouse.x = (event.clientX / container.clientWidth) * 2 - 1.42;
-            clickMouse.y = -(event.clientY / container.clientHeight) * 2 + 1.12;
+            console.log(window.innerHeight)
+            console.log(event.clientY, container.clientHeight);
+            console.log(-(event.clientY / (container.clientHeight - 100)) * 2 + 1.3)
+            clickMouse.x = ((event.clientX - window.innerWidth * 0.15) / container.clientWidth) * 2 - 1;
+            clickMouse.y = -(event.clientY / (container.clientHeight - 100)) * 2 + 1.3;
             rayCaster.setFromCamera(clickMouse, camera);
             const found = rayCaster.intersectObjects(scene.children);
 
