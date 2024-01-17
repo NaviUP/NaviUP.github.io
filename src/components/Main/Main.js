@@ -374,9 +374,11 @@ class Main extends React.Component {
         // where == 'from' ? this.setState({from: data}) && this.setState({fromButton: type}) : this.setState({to: data}) && this.setState({toButton: type});
 
         if(where == 'from'){
+            this.setState({idStart: ''});
             this.setState({from: data});
             this.setState({fromButton: type});
         }else {
+            this.setState({idEnd: ''});
             this.setState({to: data});
             this.setState({toButton: type});
         }
