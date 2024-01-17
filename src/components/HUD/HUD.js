@@ -6,6 +6,7 @@ import Login from '../Login/Login';
 import Footer from '../Footer/Footer';
 import { pageContents, heroData } from '../../data/dataStore';
 import Model from '../Model/Model';
+import Map from '../Map/Map';
 
 // class HUD extends React.Component {
 //   render() {
@@ -28,6 +29,7 @@ const HUD = ({children}) => (
     <Footer title = {pageContents.footer} />
     {children}
     <Model />
+    <Map />
   </div>
 );
 

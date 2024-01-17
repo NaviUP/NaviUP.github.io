@@ -1,7 +1,7 @@
 {
     "buildings": [
         {
-            "C1": [
+            "C1 GEODEZJA": [
                 {
                     "name": "01-Serwerownia",
                     "id": 1,
@@ -477,12 +477,12 @@
             ]
         },
         {
-            "C2": [
+            "C2 MELIORACJA": [
 
             ]
         },
         {
-            "C3": [
+            "C3 CENTRUM DYDAKTYCZNO NAUKOWE (AKWARIUM :D)": [
 
             ]
         },
@@ -492,7 +492,7 @@
             ]
         },
         {
-            "C5": [
+            "C5 GEOINFOHYDRO": [
 
             ]
         },
@@ -500,6 +500,48 @@
             "SJO": [
 
             ]
+        },
+        {
+            "A2 REKTORAT": [
+
+            ]
+        },
+        {
+            "A3 WETERYNARIA": [
+
+            ]
         }
-    ]
+    ],
+    "buildingsPathing": [
+        {
+            "C2 MELIORACJA": [
+
+            ]
+        },
+        {
+            "C3 CENTRUM DYDAKTYCZNO NAUKOWE (AKWARIUM :D)": [
+
+            ]
+        },
+        {
+            "C5 GEOINFOHYDRO": [
+
+            ]
+        },
+        {
+            "SJO": [
+
+            ]
+        },
+        {
+            "A2 REKTORAT": [
+
+            ]
+        },
+        {
+            "A3 WETERYNARIA": [
+
+            ]
+        }
+    ] 
 }

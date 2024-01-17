@@ -19,7 +19,7 @@ class Model extends React.Component {
         }
 
         const canvas = document.querySelector('canvas');
-        document.getElementById('model').style.display = 'block';
+        
         if(canvas){
             canvas.remove();
         }
@@ -98,13 +98,27 @@ class Model extends React.Component {
                 
                 scene.add(gltf.scene);
                 //animate();
-            },
+                },
             //function (xhr) {
               //  console.log((xhr.loaded/xhr.total * 100) + '% loaded');
             //}
-        );
+                );
+            document.getElementById('model').style.display = 'block';
+        }else if(splitedID[0] == splitedID[1]){
+            let b = document.createElement('dialog');
+            b.innerHTML = "<h1>Jesteś już w pomieszczeniu do którego chcesz dotrzeć więc jesteś już na miejscu! \\(@^0^@)/</h1>";
+            document.getElementById('mapHolder').appendChild(b);
+
+            b.showModal();
+
+            setTimeout(() => {
+                b.close();
+                b.remove();
+            }, 2000);
+
+            return
         }else {
-    
+            document.getElementById('model').style.display = 'block';
             //loader2.load( '../../NaviUP.github.io/vendor/three/examples/fonts/Advent Pro_Regular.json', function ( font ) {
             loader2.load( 'src/vendor/three/examples/fonts/Advent Pro_Regular.json', function ( font ) {
             let textMesh1, materials;
@@ -227,6 +241,7 @@ class Model extends React.Component {
 
         const renderer = new THREE.WebGLRenderer({antialias:true});
         //renderer.setPixelRatio(window.devicePixelRatio);
+        // eslint-disable-next-line no-restricted-globals
         renderer.setSize(innerWidth, innerHeight);
         //renderer.domElement.id = 'model';
         //document.body.appendChild(container);

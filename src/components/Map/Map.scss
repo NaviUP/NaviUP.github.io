@@ -1,0 +1,253 @@
+@import '../../styles/settings.scss';
+
+.mapContainer {
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    padding: 0px;
+    margin-bottom: 100px;
+    color: $base-color;
+
+    >div {
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        touch-action: none;
+        font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+        font-size: 0.75rem;
+        line-height: 1.5;
+        background: #ddd;
+        outline-offset: 1px;
+        cursor: grab;
+        overflow: hidden;
+
+        >div:first-of-type {
+            z-index: 400;
+            position: absolute;
+            left: 0;
+            top: 0;
+
+            >div:first-of-type {
+                z-index: 200;
+                position: absolute;
+                left: 0;
+                top: 0;
+
+                >div {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+
+                    >div {
+                        pointer-events: none;
+                        transform-origin: 0 0;
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+
+                        >img::selection {
+                            background: transparent;
+                        }
+
+                        >img {
+                            mix-blend-mode: plus-lighter;
+                            max-width: none !important;
+                            max-height: none !important;
+                            padding: 0;
+                            visibility: inherit;
+                            filter: inherit;
+                            user-select: none;
+                            position: absolute;
+                            left: 0;
+                            top: 0;
+                        }
+                    }
+                }
+            }
+
+            >div:nth-of-type(2) {
+                z-index: 400;
+                position: absolute;
+                left: 0;
+                top: 0;
+
+                >div {
+                    >svg {
+                        max-width: none !important;
+                        max-height: none !important;
+                        will-change: transform;
+                        z-index: 200;
+                        -moz-user-select: none;
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        -webkit-transform-origin: 0 0;
+                        -ms-transform-origin: 0 0;
+                        transform-origin: 0 0;
+
+                        >g {
+                            >path {
+                                pointer-events: visiblePainted;
+                                pointer-events: none;
+                                pointer-events: auto;
+                                cursor: pointer;
+                            }
+                        }
+                    }
+                }
+            }
+
+            >div:nth-of-type(3) {
+                z-index: 500;
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+
+            >div:nth-of-type(4) {
+                z-index: 600;
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+
+            >div:nth-of-type(5) {
+                z-index: 650;
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+
+            >div:nth-of-type(6) {
+                cursor: auto;
+                z-index: 700;
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+
+            >div:last-of-type {
+                transform-origin: 0 0;
+            }
+        }
+
+        >div:last-of-type {
+
+            >div {
+                position: absolute;
+                z-index: 1000;
+                pointer-events: none;
+            }
+
+            >div:first-of-type {
+                left: 0;
+                top: 0;
+
+                >div {
+                    border: 2px solid rgba(0, 0, 0, 0.2);
+                    background-clip: padding-box;
+                    box-shadow: none;
+                    margin-left: 10px;
+                    margin-top: 10px;
+                    border-radius: 4px;
+                    cursor: auto;
+                    float: left;
+                    clear: both;
+                    position: relative;
+                    z-index: 800;
+                    pointer-events: auto;
+
+                    >a:first-of-type {
+                        border-top-left-radius: 2px;
+                        border-top-right-radius: 2px;
+                        width: 30px;
+                        height: 30px;
+                        line-height: 30px;
+                        font-size: 22px;
+                        background-position: 50% 50%;
+                        background-repeat: no-repeat;
+                        display: block;
+                        background-color: #fff;
+                        border-bottom: 1px solid #ccc;
+                        text-align: center;
+                        text-decoration: none;
+                        color: black;
+                        font: bold 18px 'Lucida Console', Monaco, monospace;
+                        font-size: 18px;
+                        line-height: normal;
+                        text-indent: 1px;
+                    }
+
+                    >a:last-of-type {
+                        border-bottom-left-radius: 2px;
+                        border-bottom-right-radius: 2px;
+                        width: 30px;
+                        height: 30px;
+                        line-height: 30px;
+                        border-bottom: none;
+                        font-size: 22px;
+                        background-position: 50% 50%;
+                        background-repeat: no-repeat;
+                        display: block;
+                        background-color: #fff;
+                        text-align: center;
+                        text-decoration: none;
+                        color: black;
+                        font: bold 18px 'Lucida Console', Monaco, monospace;
+                        font-size: 18px;
+                        line-height: normal;
+                        text-indent: 1px;
+                    }
+                }
+            }
+
+            >div:nth-of-type(2) {
+                right: 0;
+                top: 0;
+            }
+
+            >div:nth-of-type(3) {
+                left: 0;
+                bottom: 0;
+            }
+
+            >div:last-of-type {
+                bottom: 0;
+                right: 0;
+
+                >div {
+                    box-shadow: none;
+                    background: rgba(255, 255, 255, 0.8);
+                    margin: 0;
+                    float: right;
+                    padding: 0 5px;
+                    color: #333;
+                    line-height: 1.4;
+                    cursor: auto;
+                    float: left;
+                    clear: both;
+                    position: relative;
+                    z-index: 800;
+                    pointer-events: auto;
+
+                    >a {
+                        text-decoration: none;
+                        color: #0078A8;
+
+                        >svg {
+                            display: inline !important;
+                            vertical-align: baseline !important;
+                            width: 1em;
+                            height: 0.6669em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.noDimensions {
+    width: 0;
+    height: 0;
+}

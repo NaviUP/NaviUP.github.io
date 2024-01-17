@@ -18,7 +18,9 @@ class Main extends React.Component {
         idStart: 0,
         idEnd: 0,
         currentFocus: 0,
-        buildingList: []
+        buildingList: [],
+        buildingFrom: '',
+        buildingTo: '',
     }
 
     autocomplete = where => {
@@ -82,11 +84,11 @@ class Main extends React.Component {
             // wrapperVisibility(true, inp.getAttribute('id'));
             // resizeMe.call(inp);
         }
-        console.log(this.state.fromButton)
+
         for(i = 0; i < arr.length; i++){
             let names = '';
             
-            if(buttonName == 'buildings'){
+            if(buttonName == 'buildings' || buttonName == 'buildingsPathing'){
                 names = Object.keys(arr[i])[0];
             }else {
                 names = arr[i]['name'];
@@ -148,12 +150,12 @@ class Main extends React.Component {
         let inp = document.querySelector('[data-begining=' + place + ']');
         var a, b;
         let arr;
-        console.log(this.state.from);
+        
         if(inp.querySelector('[id="autocomplete-list"]')){
             inp.querySelector('[id="autocomplete-list"]').remove();
             console.log('work work')
         }
-        console.log(this.state.buildingList)
+        
         if(where == 'start'){
             arr = this.state.buildingList[0];
         }else {
@@ -168,8 +170,7 @@ class Main extends React.Component {
 
         b = document.createElement('div');
         a.appendChild(b);
-        console.log(inp)
-        console.log(a)
+
         for(let i = 0; i < arr.length; i++){
             let newPlace =  document.createElement('div');
             newPlace.innerHTML = Object.keys(arr[i])[0];
@@ -179,12 +180,14 @@ class Main extends React.Component {
                 e.stopPropagation();
 
                 if(inp.getAttribute('data-begining') == 'from'){
-                    this.setState({from: [arr[i][newPlace.innerHTML]]})
-                    this.setState({fromButton: 'rooms'})
+                    this.setState({from: [arr[i][newPlace.innerHTML]]});
+                    this.setState({fromButton: 'rooms'});
+                    this.setState({buildingFrom: newPlace.innerHTML});
                     // idStart = Object.keys(arr[i])[0]['id'];
                 }else{
-                    this.setState({to: [arr[i][newPlace.innerHTML]]})
-                    this.setState({toButton: 'rooms'})
+                    this.setState({to: [arr[i][newPlace.innerHTML]]});
+                    this.setState({toButton: 'rooms'});
+                    this.setState({buildingTo: newPlace.innerHTML});
                     // idEnd = Object.keys(arr[i])[0]['id'];
                 }
 
@@ -279,7 +282,6 @@ class Main extends React.Component {
 
     setNewState = () => {
         this.setState({idStart: 25});
-        console.log(this.state.idStart, this.state.idEnd);
     }
 
     show = (type, where) => {
@@ -313,7 +315,7 @@ class Main extends React.Component {
             chooseButtons[5].classList.remove(styles.chosen);
         }
 
-        if(type == 'buildings'){
+        if(type == 'buildings' || type == 'buildingsPathing'){
             inputs.forEach(el => {
                 if(el.querySelector('[id="start"]') && where == 'from'){
                     el.className = [el.className, styles.nonVisible].join(' ');
@@ -354,6 +356,8 @@ class Main extends React.Component {
 
         if(type == 'people'){
             whatToFetch = 'people';
+        }else if(type == 'buildingsPathing'){
+            whatToFetch = 'B&R';
         }else {
             whatToFetch = 'B&R';
             type = 'buildings';
@@ -377,7 +381,7 @@ class Main extends React.Component {
             this.setState({toButton: type});
         }
         
-        if(type == 'buildings'){
+        if(type == 'buildings' || type == 'buildingsPathing'){
             this.setState({buildingList: data});
         }
 
@@ -385,14 +389,27 @@ class Main extends React.Component {
 
     showModel = () => {
         setTimeout(() => {
-            const modelHolder = document.getElementById('showModel');
-            modelHolder.click();
+            if(this.state.idStart != ''){
+                const modelHolder = document.getElementById('showModel');
+                modelHolder.click();
+            }else {
+                const map = document.getElementById('mapHolder');
+                map.click();
+            }
+            
         }, 100);
     }
 
     generateLink = () => {
-        const link = this.state.idStart + '_' + this.state.idEnd;
-        window.location.hash = link;
+        let link = '';
+        if(this.state.idStart != ''){
+            link = this.state.idStart + '_' + this.state.idEnd;
+            window.location.hash = link;
+        }else {
+            link = this.state.buildingFrom + '-' + this.state.buildingTo;
+            window.location.hash = link;
+        }
+
         return link;
     }
     
@@ -421,8 +438,10 @@ class Main extends React.Component {
 
             buildings.forEach(el => {
                 let building = el.firstChild;
-                console.log(building);
-                el.removeChild(building)
+
+                if(building){
+                    el.removeChild(building)
+                }
             })
         }
     }
@@ -437,7 +456,7 @@ class Main extends React.Component {
                         <h1>Gdzie jesteś?</h1>
                         <a onClick={() => {this.show('people', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="people">Osoba</a>
                         <a onClick={() => {this.show('rooms', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="rooms">Pomieszczenie</a>
-                        <a onClick={() => {this.show('buildings', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="buildings">Budynek</a>
+                        <a onClick={() => {this.show('buildingsPathing', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="buildingsPathing">Budynek</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
                             <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="from">                           
                             </div>
@@ -452,7 +471,7 @@ class Main extends React.Component {
                         <h2>Czego szukasz?</h2>
                         <a onClick={() => {this.show('people', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="people">Osoba</a>
                         <a onClick={() => {this.show('rooms', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="rooms">Pomieszczenie</a>
-                        <a onClick={() => {this.show('buildings', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="buildings">Budynek</a>
+                        <a onClick={() => {this.show('buildingsPathing', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="buildingsPathing">Budynek</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
                             <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="to">                           
                             </div>
