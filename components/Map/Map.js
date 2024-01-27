@@ -117,7 +117,7 @@ class Map extends React.Component {
     
             var polyline = L.polyline(points[0], { color: 'blue', smoothFactor: 1.5 }).addTo(mymap);
 
-        }, 250);
+        }, 1000);
     }
 
     render() {

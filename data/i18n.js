@@ -144,6 +144,16 @@ i18n
             buildingSame: 'Searching path to the building you are already in is not really smart<br> ༼ つ ◕_◕ ༽つ',
             buildingConnected: 'Buildings are connected<br>so try searching in Rooms<br>ヾ(•ω•`)o',
             roomSame: 'You are already in the room you are searching for so there is no need searching path to it!<br> \\(@^0^@)/'
+          },
+          infoData: {
+            title: 'Academic degree',
+            email: 'E-mail adress',
+            institute: 'The university unit to which this person belongs'
+          },
+          modelData: {
+            sideView: 'Floors side view',
+            startFloor: 'Starting floor',
+            endFloor: 'Final floor'
           }
         }
       },
@@ -274,6 +284,16 @@ i18n
             buildingSame: 'Szukanie drogi do budynku w którym się już znajdujesz nie jest zbyt inteligentne<br> ༼ つ ◕_◕ ༽つ',
             buidlingConnected: 'Budunki są ze sobą połączone.<br>Spróbuj poszukać w Pomieszczeniach<br>ヾ(•ω•`)o',
             roomSame: 'Jesteś już w pomieszczeniu do którego chcesz dotrzeć więc jesteś już na miejscu! \\(@^0^@)/'
+          },
+          infoData: {
+            title: 'Stopień naukowy',
+            email: 'Adres e-mail',
+            institute: 'Jednostka uczelniana do której ta osoba przynależy'
+          },
+          modelData: {
+            sideView: 'Widok pięter z boku',
+            startFloor: 'Piętro startowe',
+            endFloor: 'Piętro końcowe'
           }
         }
       }

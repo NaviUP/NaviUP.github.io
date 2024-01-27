@@ -166,26 +166,41 @@ form {
 }
 
 /* Info */
-.info {
+.info > div {
     position: absolute; /* Floating above */
     transition: transform 0.23s; /* Sticking effect */
     pointer-events: all; /* Allow clicking trough the div */
-    width: 80%;
+    width: auto;
     left: 15%;
     top: -10%;
-    height: 500px;
+    height: auto;
     background-color: $base-color;
     border-radius: 20px;
     z-index: 1;
 }
 
-.info-icon {
+.infoIcon {
     position: absolute;
     display: block;
     font-size: 24px;
+    border: solid 1px black;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: $base-color;
     left: 4%;
-    top: 60%;
+    top: 50%;
     cursor: pointer;
+}
+
+.infoIcon:hover {
+    transition: .5s;
+    background-color: rgb(31, 162, 125);
+    border-color: aqua;
+}
+
+.infoIcon:active {
+    background-color: rgb(17, 97, 74);
+    transition: .5s;
 }
 
 #panorama {
@@ -224,6 +239,12 @@ form {
     .component[data-height = 'long'] {
         max-height: 430px;
     }
+
+    .infoIcon {
+        top: 40%;
+        left: 5%;
+        font-size: 16px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -248,5 +269,11 @@ form {
 
     .searchBox {
         width: 100%;
+    }
+
+    .infoIcon {
+        top: 35%;
+        left: -5%;
+        font-size: 14px;
     }
 }

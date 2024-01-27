@@ -1,7 +1,9 @@
 import React from "react";
 import styles from './Main.scss';
 import Tile from "../Tile/Tile";
+import Info from "../Info/Info";
 import { withTranslation } from "react-i18next";
+import { render } from "react-dom";
 
 class Main extends React.Component {
     state = {
@@ -120,6 +122,24 @@ class Main extends React.Component {
                     /*console.log(idStart);
                     console.log(idEnd);
                     console.log(inp.getAttribute('id'));*/
+                    for(let i = 0; i < arr.length; i++){
+                        if(arr[i]['description'] && arr[i]['name'] == inp.value){
+                            const info = document.querySelector('[data-info=' + inp.id + ']');
+                            info.firstElementChild.classList.remove(styles.nonVisible);
+                            
+                            if(info.children.length > 1){
+                                info.lastChild.remove();
+                            }
+
+                            let z = document.createElement('div');
+                            z.setAttribute('class', styles.nonVisible);
+                            info.appendChild(z);
+                
+                            render(<Info title={arr[i]['description']['title']} email={arr[i]['description']['email']} institute={arr[i]['description']['institute']} />, z);
+                            return
+                        }
+                    }
+
                     closeAllLists();
                     // wrapperVisibility(true, inp.getAttribute('id'));
                     // resizeMe.call(inp);
@@ -423,6 +443,7 @@ class Main extends React.Component {
         const howMany = document.querySelectorAll('.' + styles.chosen);
         const inputs = document.querySelectorAll('input');
         const buildings = document.querySelectorAll('[data-begining]');
+        const infos = document.querySelectorAll('[data-info]');
 
         if(howMany.length > 0){
             tileHeight.style.overflow = 'initial';
@@ -447,6 +468,13 @@ class Main extends React.Component {
                 if(building){
                     el.removeChild(building)
                 }
+            });
+
+            infos.forEach(el => {
+                if(el.children.length > 1) {
+                    el.firstElementChild.classList.add(styles.nonVisible);
+                    el.lastChild.remove();
+                }
             })
         }
     }
@@ -457,7 +485,8 @@ class Main extends React.Component {
             <Tile>
                 <div id = 'main' className = {styles.component} data-height = ''>
                     <div className = {styles.where}>
-                        <div id = {styles.info}>
+                        <div className = {styles.info} data-info = 'start'>
+                            <i className = {["fa fa-question", styles.infoIcon, styles.nonVisible].join(' ')} onClick={() => {if(document.querySelector('[data-info=start] > div')){document.querySelector('[data-info=start] > div').classList.toggle(styles.nonVisible)}}} />
                         </div>
                         <h1>{t('mainData.whereAreYou')}</h1>
                         <a onClick={() => {this.show('people', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="people">{t('mainData.person1')}</a>
@@ -472,7 +501,8 @@ class Main extends React.Component {
                         </form>
                     </div>
                     <div id="search" className = {[styles.search].join(' ')}>
-                        <div id={styles.info}>
+                        <div className = {styles.info} data-info = 'end'>
+                            <i className = {["fa fa-question", styles.infoIcon, styles.nonVisible].join(' ')} onClick={() => {if(document.querySelector('[data-info=end] > div')){document.querySelector('[data-info=end] > div').classList.toggle(styles.nonVisible)}}} />
                         </div>
                         <h2>{t('mainData.whereAreYouGoing')}</h2>
                         <a onClick={() => {this.show('people', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="people">{t('mainData.person2')}</a>

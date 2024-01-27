@@ -8,6 +8,7 @@ import { TextGeometry } from '../../vendor/three/examples/jsm/geometries/TextGeo
 import Flip from '../Flip/Flip';
 import { Trans } from 'react-i18next';
 import { render } from 'react-dom';
+import { withTranslation } from 'react-i18next';
 
 class Model extends React.Component {
     state = {
@@ -354,16 +355,17 @@ class Model extends React.Component {
     };
 
     render() {
+        const {t} = this.props;
         return (
             <div id = 'model' style={{display: 'none'}} className = {styles.model}>
                 <Flip />
                 <div />
                 <div  id="textHolder" className = {styles.nonVisible}>
-                    <p className = {styles.model3d}>Model trójwymiarowy</p>
-                    <p className = {styles.sideView}>Widok pięter z boku</p>
-                    <p className = {styles.mini3d}>Model trójwymiarowy<span></span></p>
-                    <p className = {styles.floorStart}>Piętro startowe<span></span></p>
-                    <p className = {styles.floorEnd}>Piętro końcowe<span></span></p>
+                    <p className = {styles.model3d}>Model 3D</p>
+                    <p className = {styles.sideView}>{t('modelData.sideView')}</p>
+                    <p className = {styles.mini3d}>Model 3D<span></span></p>
+                    <p className = {styles.floorStart}>{t('modelData.startFloor')}<span></span></p>
+                    <p className = {styles.floorEnd}>{t('modelData.endFloor')}<span></span></p>
                 </div>
                 <a id = 'showModel' onClick = {() => this.loadPath()}>Model</a>
                 <a onClick = {() => this.loadPath(true)}>Orto</a>
@@ -372,4 +374,4 @@ class Model extends React.Component {
     }
 }
 
-export default Model;
+export default withTranslation()(Model);
