@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './Map.scss';
 import * as L from 'leaflet';
+import { Trans } from 'react-i18next';
+import { render } from 'react-dom';
 
 class Map extends React.Component {
     state = {
@@ -23,18 +25,18 @@ class Map extends React.Component {
             return
         }
 
-        if(this.state.removedAdded == false){
-            this.setState({removedAdded: true});
-            const tile = document.getElementById('main').firstChild;
+        // if(this.state.removedAdded == false){
+        //     this.setState({removedAdded: true});
+        //     const tile = document.getElementById('main').firstChild;
 
-            tile.addEventListener('click', () => {
-                if(mapHolder.hasChildNodes()) {
-                    mapHolder.classList = [styles.mapContainer, styles.noDimensions].join(' ');
-                    mapHolder.firstChild.remove();
-                }
-            });
-        }
-
+        //     tile.addEventListener('click', () => {
+        //         if(mapHolder.hasChildNodes()) {
+        //             mapHolder.classList = [styles.mapContainer, styles.noDimensions].join(' ');
+        //             mapHolder.firstChild.remove();
+        //         }
+        //     });
+        // }
+        mapHolder.style.height = '100vh';
         const badNames = ['C2', 'C3', 'C5']
 
         let id = hash.split('-');
@@ -42,8 +44,9 @@ class Map extends React.Component {
 
         if(id[0].split('%20')[0] == id[1].split('%20')[0]){
             let b = document.createElement('dialog');
-            b.innerHTML = "<h1>Szukanie drogi do budynku w którym się już znajdujesz nie jest zbyt inteligentne ༼ つ ◕_◕ ༽つ</h1>";
-            mapHolder.appendChild(b);
+            document.getElementById('mapHolder').appendChild(b);
+
+            render(<Trans i18nKey='funnyTexts.buildingSame' />, b);
 
             b.showModal();
 
@@ -57,8 +60,9 @@ class Map extends React.Component {
 
         if(badNames.includes(id[0].split('%20')[0]) && badNames.includes(id[1].split('%20')[0])){
             let b = document.createElement('dialog');
-            b.innerHTML = "<h1>Budunki są ze sobą połączone.<br>Spróbuj poszukać w Pomieszczeniach<br>ヾ(•ω•`)o</h1>";
-            mapHolder.appendChild(b);
+            document.getElementById('mapHolder').appendChild(b);
+
+            render(<Trans i18nKey='funnyTexts.buildingConnected' />, b);
 
             b.showModal();
 
@@ -88,6 +92,7 @@ class Map extends React.Component {
         fetch('src/data/buildings.json').then(function(rawResponse){return rawResponse.json()}).then(function(parsedResponse){data.push(parsedResponse['paths'])});
 
         setTimeout(() => {
+            console.log(data[0])
             data[0].forEach(el => {
                 if(Object.keys(el)[0] == newHash){
                     points.push(el[newHash]);
@@ -112,7 +117,7 @@ class Map extends React.Component {
     
             var polyline = L.polyline(points[0], { color: 'blue', smoothFactor: 1.5 }).addTo(mymap);
 
-        }, 150);
+        }, 250);
     }
 
     render() {

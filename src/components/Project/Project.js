@@ -1,26 +1,28 @@
 import React from "react";
 import styles from './Project.scss';
 import Tile from "../Tile/Tile";
-import ReactHtmlParser from 'react-html-parser';
-import { projectData } from "../../data/dataStore";
+import { useTranslation } from "react-i18next";
 
-const Project = () => (
-    <Tile>
-        <div className = {styles.component}>
-            <h1>{ReactHtmlParser(projectData.title)}</h1>   
-            <h4>{ReactHtmlParser(projectData.paragraphs.h4)}</h4>
-            <p>{ReactHtmlParser(projectData.paragraphs.p1)}</p>
-            <p>{ReactHtmlParser(projectData.paragraphs.p2)}</p>
-            <p>{ReactHtmlParser(projectData.paragraphs.p3)}</p>
-            <div>
-                <a href = {projectData.konkursLink} target="_blank">{ReactHtmlParser(projectData.konkursText)}</a>
-                <i className="fa-solid fa-sack-dollar"></i>
+function Project() {
+    const { t } = useTranslation();
+    return (
+        <Tile>
+            <div className={styles.component}>
+                <h1>{t('projectData.title')}</h1>
+                <h4>{t('projectData.paragraphs.h4')}</h4>
+                <p>{t('projectData.paragraphs.p1')}</p>
+                <p>{t('projectData.paragraphs.p2')}</p>
+                <p>{t('projectData.paragraphs.p3')}</p>
+                <div>
+                    <a href={t('projectData.konkursLink')} target="_blank">{t('projectData.konkursText')}</a>
+                    <i className="fa-solid fa-sack-dollar"></i>
+                </div>
+                <div>
+                    <img src={t('projectData.image')} alt="logo upwr" />
+                </div>
             </div>
-            <div>
-                <img src = {projectData.image} alt="logo upwr" />
-            </div>        
-        </div>
-    </Tile>
-);
+        </Tile>
+    )
+}
 
 export default Project;

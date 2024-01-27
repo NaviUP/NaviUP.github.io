@@ -1,21 +1,22 @@
 @import '../../styles/settings.scss';
 
 .darkMode {
-    background-image: url('/src/images/y-so-serious-white.png');
+    background-image: url('../../images/y-so-serious-white.png');
 }
 
 .component {
     position: fixed;
     right: 0%;
     font-size: 24px;
-    top: 4vw;
+    top: 5rem;
     width: 100%;
+    z-index: 1;
 
     *, ::before, ::after {
         box-sizing: unset;
     }
 
-    > button {
+    > button, > div > button {
         // color: grey;
         //position: absolute;
         color: black;
@@ -31,7 +32,15 @@
         right: 0%;
     }
 
-    > button:hover {
+    > div > button:first-of-type {
+        top: 5rem;
+    }
+
+    > div > button:last-of-type {
+        top: 7.5rem;
+    }
+
+    > button:hover, > div > button:hover {
         background-color: rgb(31, 162, 125);
         border-color: aqua;
     }
@@ -39,7 +48,7 @@
     i {
         color: grey;
         position: absolute;
-        top: 40px;
+        top: 2.5rem;
         right: 1%;
         cursor: pointer;
         font-size: 36px;

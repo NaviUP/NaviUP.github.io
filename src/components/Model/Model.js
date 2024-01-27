@@ -6,7 +6,8 @@ import { FontLoader } from '../../vendor/three/examples/jsm/loaders/FontLoader.j
 import { GLTFLoader } from '../../vendor/three/examples/jsm/loaders/GLTFLoader.js';
 import { TextGeometry } from '../../vendor/three/examples/jsm/geometries/TextGeometry.js';
 import Flip from '../Flip/Flip';
-
+import { Trans } from 'react-i18next';
+import { render } from 'react-dom';
 
 class Model extends React.Component {
     state = {
@@ -106,8 +107,9 @@ class Model extends React.Component {
             document.getElementById('model').style.display = 'block';
         }else if(splitedID[0] == splitedID[1]){
             let b = document.createElement('dialog');
-            b.innerHTML = "<h1>Jesteś już w pomieszczeniu do którego chcesz dotrzeć więc jesteś już na miejscu! \\(@^0^@)/</h1>";
             document.getElementById('mapHolder').appendChild(b);
+
+            render(<Trans i18nKey='funnyTexts.roomSame' />, b);
 
             b.showModal();
 

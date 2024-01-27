@@ -2,6 +2,7 @@ import React from "react";
 import styles from './About.scss';
 import Tile from "../Tile/Tile";
 import { aboutData } from "../../data/dataStore";
+import { withTranslation } from "react-i18next";
 
 class About extends React.Component {
     state ={
@@ -45,17 +46,18 @@ class About extends React.Component {
     }
 
     render() {
+        const { t } = this.props;
         return (
             <Tile>
                 <div onLoad = {this.teams} className = {styles.component} style={{maxHeight: '2000px'}}>
-                <h1>{this.state.data.title}</h1> 
-                <p>{this.state.data.paragraphs.p1}</p> 
-                <p>{this.state.data.paragraphs.p2}</p> 
-                <p>{this.state.data.paragraphs.p3}</p> 
+                <h1>{t('aboutData.title')}</h1> 
+                <p>{t('aboutData.paragraphs.p1')}</p> 
+                <p>{t('aboutData.paragraphs.p2')}</p> 
+                <p>{t('aboutData.paragraphs.p3')}</p> 
                 <div className = {styles.aboutFlex}>
-                    {this.state.data.firstBlocks.map(({key, id, groupName}) => (
+                    {this.state.data.firstBlocks.map(({key, id}) => (
                         <div key={key} id = {styles[id]}>
-                            <p><b>{groupName}</b></p>
+                            <p><b>{t('aboutData.firstBlocks.'+ key + '.groupName')}</b></p>
                             {this.state.data.firstBlocks[key].people.map(({key, name}) => (
                                 <p key={key}>{name}</p>
                             ))}
@@ -65,9 +67,9 @@ class About extends React.Component {
                         <img id="mask" src="" />
                         <img id="aboutImg" src = {this.state.data.imfSource} />
                     </div>
-                    {this.state.data.secondBlocks.map(({key, id, groupName}) => (
+                    {this.state.data.secondBlocks.map(({key, id}) => (
                         <div key={key} id = {styles[id]}>
-                            <p><b>{groupName}</b></p>
+                            <p><b>{t('aboutData.secondBlocks.'+ key + '.groupName')}</b></p>
                             {this.state.data.secondBlocks[key].people.map(({key, name}) => (
                                 <p key={key}>{name}</p>
                             ))}
@@ -82,4 +84,4 @@ class About extends React.Component {
     };
 };
 
-export default About;
+export default withTranslation()(About);

@@ -1,12 +1,7 @@
 import React from "react";
 import styles from './Main.scss';
 import Tile from "../Tile/Tile";
-
-// TO DO
-// fetchData DONE
-// autocomplete WIP
-// list DONE
-// resize
+import { withTranslation } from "react-i18next";
 
 class Main extends React.Component {
     state = {
@@ -21,6 +16,8 @@ class Main extends React.Component {
         buildingList: [],
         buildingFrom: '',
         buildingTo: '',
+        floorStart: 0,
+        floorEnd: 0
     }
 
     autocomplete = where => {
@@ -97,6 +94,7 @@ class Main extends React.Component {
             if(names.substr(0, value.length).toUpperCase() == value.toUpperCase()){
                 b = document.createElement('DIV');
                 b.setAttribute('id', arr[i]['id']);
+                b.setAttribute('data-floor', arr[i]['level'])
                 
                 b.innerHTML = '<a><strong>' + names.substr(0, value.length) + 
                 '</strong>'+ names.substr(value.length) + '<input type="hidden" value="' + names + '"></a>';
@@ -108,11 +106,13 @@ class Main extends React.Component {
                     if(inp.id == 'start'){
                         startId = this.id;
                         self.setState({idStart: startId});
+                        self.setState({floorStart: this.getAttribute('data-floor')});
                         //setNewState();
                         // placeInfo(inp, startId, arr);
                     } else{
                         endId = this.id;
                         self.setState({idEnd: endId});
+                        self.setState({floorEnd: this.getAttribute('data-floor')});
                         //setNewState();
                         // placeInfo(inp, endId, arr);
                         //buttons[0].click();
@@ -392,7 +392,10 @@ class Main extends React.Component {
     showModel = () => {
         setTimeout(() => {
             if(this.state.idStart != ''){
+                const model = document.getElementById('model');
                 const modelHolder = document.getElementById('showModel');
+                model.setAttribute('data-start', this.state.floorStart);
+                model.setAttribute('data-end', this.state.floorEnd);
                 modelHolder.click();
             }else {
                 const map = document.getElementById('mapHolder');
@@ -449,40 +452,41 @@ class Main extends React.Component {
     }
 
     render() {
+        const { t } = this.props;
         return (
             <Tile>
                 <div id = 'main' className = {styles.component} data-height = ''>
                     <div className = {styles.where}>
                         <div id = {styles.info}>
                         </div>
-                        <h1>Gdzie jesteś?</h1>
-                        <a onClick={() => {this.show('people', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="people">Osoba</a>
-                        <a onClick={() => {this.show('rooms', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="rooms">Pomieszczenie</a>
-                        <a onClick={() => {this.show('buildingsPathing', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="buildingsPathing">Budynek</a>
+                        <h1>{t('mainData.whereAreYou')}</h1>
+                        <a onClick={() => {this.show('people', 'from'); this.count()}} className = {styles.chooseButton} data-place='from' data-data="people">{t('mainData.person1')}</a>
+                        <a onClick={() => {this.show('rooms', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="rooms">{t('mainData.room1')}</a>
+                        <a onClick={() => {this.show('buildingsPathing', 'from'); this.count(); this.addLogic('from')}} className = {styles.chooseButton} data-place='from' data-data="buildingsPathing">{t('mainData.building1')}</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
                             <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="from">                           
                             </div>
                             <div className = {styles.autocomplete} data-data="">
-                                <input onKeyDown={e => this.manualSearch('start', e)} onClick={() => this.focus('start')} onInput = {() => this.autocomplete('start')} type="text" placeholder="Jestem u/w np. Kaczmarek Adrian, 202-Sala dydaktyczna" name="search" id="start" className = {styles.searchBox} />                           
+                                <input onKeyDown={e => this.manualSearch('start', e)} onClick={() => this.focus('start')} onInput = {() => this.autocomplete('start')} type="text" placeholder={t('mainData.description1')} name="search" id="start" className = {styles.searchBox} />                           
                             </div>
                         </form>
                     </div>
                     <div id="search" className = {[styles.search].join(' ')}>
                         <div id={styles.info}>
                         </div>
-                        <h2>Czego szukasz?</h2>
-                        <a onClick={() => {this.show('people', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="people">Osoba</a>
-                        <a onClick={() => {this.show('rooms', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="rooms">Pomieszczenie</a>
-                        <a onClick={() => {this.show('buildingsPathing', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="buildingsPathing">Budynek</a>
+                        <h2>{t('mainData.whereAreYouGoing')}</h2>
+                        <a onClick={() => {this.show('people', 'to'); this.count()}} className = {styles.chooseButton} data-place='to' data-data="people">{t('mainData.person2')}</a>
+                        <a onClick={() => {this.show('rooms', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="rooms">{t('mainData.room2')}</a>
+                        <a onClick={() => {this.show('buildingsPathing', 'to'); this.count(); this.addLogic('to')}} className = {styles.chooseButton} data-place='to' data-data="buildingsPathing">{t('mainData.building2')}</a>
                         <form autoComplete="off" onSubmit={e => e.preventDefault()}>
                             <div className = {[styles.autocomplete, styles.buildingChooserContainer].join(' ')} data-begining="to">                           
                             </div>
                             <div className = {styles.autocomplete} data-data="">
-                                <input onKeyDown={e => this.manualSearch('end', e)} onClick={() => this.focus('end')} onInput = {() => this.autocomplete('end')} type="text" placeholder="Szukam np. Kaczmarek Adrian, 202-Sala dydaktyczna" name="search" id="end" className = {styles.searchBox} />
+                                <input onKeyDown={e => this.manualSearch('end', e)} onClick={() => this.focus('end')} onInput = {() => this.autocomplete('end')} type="text" placeholder={t('mainData.description2')} name="search" id="end" className = {styles.searchBox} />
                             </div>
                         </form>
                     </div>
-                    <a id="searchButton" onClick = {() => {this.showModel(); this.generateLink(); this.count(true)}} className = {[styles.chooseButton, styles.searchButton].join(' ')}>Szukaj drogi</a>
+                    <a id="searchButton" onClick = {() => {this.showModel(); this.generateLink(); this.count(true)}} className = {[styles.chooseButton, styles.searchButton].join(' ')}>{t('mainData.search')}</a>
                     <div id = {styles.bottom}></div>       
                 </div>
             </Tile>
@@ -491,4 +495,4 @@ class Main extends React.Component {
 
 };
 
-export default Main;
+export default withTranslation()(Main);

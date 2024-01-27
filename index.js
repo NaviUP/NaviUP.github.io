@@ -5,6 +5,8 @@ import ReactDOM from 'react-dom';
 import App from './components/App/App';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 
+import './data/i18n';
+
 ReactDOM.render(
     <React.StrictMode>
         <HashRouter basename='/'>
