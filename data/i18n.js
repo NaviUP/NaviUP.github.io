@@ -116,9 +116,6 @@ i18n
                 text: 'Search'
               },
               {
-                text: 'View model'
-              },
-              {
                 text: 'About project'
               },
               {
@@ -126,9 +123,6 @@ i18n
               },
               {
                 text: 'Contact'
-              },
-              {
-                text: 'PathFinding'
               }
             ],
             login: {
@@ -256,9 +250,6 @@ i18n
                 text: 'Wyszukiwarka'
               },
               {
-                text: 'Zobacz model'
-              },
-              {
                 text: 'O projekcie'
               },
               {
@@ -266,9 +257,6 @@ i18n
               },
               {
                 text: 'Kontakt'
-              },
-              {
-                text: 'PathFinding'
               }
             ],
             login: {
