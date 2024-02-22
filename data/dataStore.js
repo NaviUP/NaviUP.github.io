@@ -103,7 +103,7 @@ export const aboutData = {
       ]
     },
   ],
-  imfSource: 'src/images/team2.jpg',
+  imfSource: './images/team2.jpg',
   secondBlocks: [
     {
       key: 0,
@@ -152,7 +152,7 @@ export const aboutData = {
       ]
     },
   ],
-  music: 'src/vendor/Jim Yosef - Stamp On The Ground.mp3',
+  music: './vendor/Jim Yosef - Stamp On The Ground.mp3',
 }
 
 export const heroData = {
@@ -160,7 +160,7 @@ export const heroData = {
     {
       href: 'https://www.facebook.com/SKNGeodetow/',
       shortcut: 'SKN',
-      image: 'src/images/geodeci.png',
+      image: './images/geodeci.png',
       p1: 'Geodetów',
       p2: 'Uniwersytetu Przyrodniczego we Wrocławiu',
     }
@@ -171,7 +171,7 @@ export const heroData = {
       href: 'https://www.igig.up.wroc.pl/?menu=Aktualnosci',
       image: {
           className: 'igig',
-          src: 'src/images/IGG.png',
+          src: './images/IGG.png',
         },
     },
     {
@@ -179,8 +179,8 @@ export const heroData = {
       href: 'https://upwr.edu.pl/',
       image: {
           className: 'upwr',
-          src: 'src/images/upwr-logotyp-pl-poziomy.png',
-          srcSmall: 'src/images/upwr-logotyp.png',
+          src: './images/upwr-logotyp-pl-poziomy.png',
+          srcSmall: './images/upwr-logotyp.png',
         },
     },
   ],

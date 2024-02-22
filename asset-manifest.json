@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.67988016.css",
-    "main.js": "/static/js/main.53a764e1.js",
-    "static/media/cursor.png": "/static/media/cursor.6696c6c77f87ea307ea7.png",
-    "index.html": "/index.html",
-    "main.67988016.css.map": "/static/css/main.67988016.css.map",
-    "main.53a764e1.js.map": "/static/js/main.53a764e1.js.map"
+    "main.css": "/NaviUP/NaviUP.github.io/static/css/main.9b74f0c6.css",
+    "main.js": "/NaviUP/NaviUP.github.io/static/js/main.05d8a06b.js",
+    "static/js/592.e2d16320.chunk.js": "/NaviUP/NaviUP.github.io/static/js/592.e2d16320.chunk.js",
+    "static/media/cursor.png": "/NaviUP/NaviUP.github.io/static/media/cursor.6696c6c77f87ea307ea7.png",
+    "index.html": "/NaviUP/NaviUP.github.io/index.html",
+    "main.9b74f0c6.css.map": "/NaviUP/NaviUP.github.io/static/css/main.9b74f0c6.css.map",
+    "main.05d8a06b.js.map": "/NaviUP/NaviUP.github.io/static/js/main.05d8a06b.js.map",
+    "592.e2d16320.chunk.js.map": "/NaviUP/NaviUP.github.io/static/js/592.e2d16320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67988016.css",
-    "static/js/main.53a764e1.js"
+    "static/css/main.9b74f0c6.css",
+    "static/js/main.05d8a06b.js"
   ]
 }

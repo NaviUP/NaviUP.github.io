@@ -3,545 +3,3522 @@
         {
             "C1 GEODEZJA": [
                 {
-                    "name": "01-Serwerownia",
+                    "name": "-1.23-Gabinet-Skn Geodetow",
                     "id": 1,
                     "level": -1
                 },
                 {
-                    "name": "02-Laboratorium",
+                    "name": "-1.24-Warsztat",
                     "id": 2,
                     "level": -1
                 },
                 {
-                    "name": "03-Laboratorium",
+                    "name": "-1.25-Magazyn",
                     "id": 3,
                     "level": -1
                 },
                 {
-                    "name": "04-Magazyn sprzętu geodezyjnego-Wiktor Żukowski",
+                    "name": "-1.1-Serwerownia",
                     "id": 4,
                     "level": -1
                 },
                 {
-                    "name": "05-Laboratorium",
+                    "name": "-1.2-Laboratorium",
                     "id": 5,
                     "level": -1
                 },
                 {
-                    "name": "06-Magazyn",
+                    "name": "-1.3-Gabinet-Kazimierz Ćmielewski",
                     "id": 6,
                     "level": -1
                 },
                 {
-                    "name": "07-Toaleta",
+                    "name": "-1.4-Magazyn sprzętu geodezyjnego",
                     "id": 7,
                     "level": -1
                 },
                 {
-                    "name": "021a-Węzeł cieplny",
+                    "name": "-1.5-Gabinet-Janusz Kuchmister",
+                    "id": 8,
+                    "level": -1
+                },
+                {
+                    "name": "-1.6-Pomieszczenie socjalne",
+                    "id": 9,
+                    "level": -1
+                },
+                {
+                    "name": "-1.9-Laboratorium",
+                    "id": 10,
+                    "level": -1
+                },
+                {
+                    "name": "-1.10-Laboratorium",
+                    "id": 11,
+                    "level": -1
+                },
+                {
+                    "name": "-1.11-Laboratorium",
+                    "id": 12,
+                    "level": -1
+                },
+                {
+                    "name": "-1.11-Magazyn szkła laboaratoryjnego",
+                    "id": 13,
+                    "level": -1
+                },
+                {
+                    "name": "-1.13-Ucieralnia",
+                    "id": 14,
+                    "level": -1
+                },
+                {
+                    "name": "-1.14-Magazyn",
+                    "id": 15,
+                    "level": -1
+                },
+                {
+                    "name": "-1.15-Pomieszczenie pomocnicze",
                     "id": 16,
                     "level": -1
                 },
                 {
-                    "name": "021b-Pomieszczenie gospodarcze",
+                    "name": "-1.16-Pomieszczenie pomocnicze",
+                    "id": 17,
+                    "level": -1
+                },
+                {
+                    "name": "-1.17-Węzeł cieplny",
                     "id": 18,
                     "level": -1
                 },
                 {
-                    "name": "022-Warsztat naprawy sprzętów geodezyjnych-Wiktor Żukowski",
+                    "name": "-1.18-Rozdzielnia główna",
                     "id": 19,
                     "level": -1
                 },
                 {
-                    "name": "023-Gabinet SKN Geodetów",
+                    "name": "-1.19-Destylatornia",
                     "id": 20,
-                    "level": -1,
-                    "description": {
-                        "panorama": "Test.jpg"
-                    }
+                    "level": -1
                 },
                 {
-                    "name": "024-Magazyn",
+                    "name": "-1.20-Suszarnia roslin",
+                    "id": 21,
+                    "level": -1
+                },
+                {
+                    "name": "-1.21-Węzeł cieplny",
                     "id": 22,
                     "level": -1
                 },
                 {
-                    "name": "025-Magazyn",
+                    "name": "-1.22-Warsztat",
                     "id": 23,
                     "level": -1
                 },
                 {
-                    "name": "1-Gabinet-dr hab. inż. Marek Trojanowicz, prof. UPWr",
+                    "name": "-1-Hol",
                     "id": 24,
-                    "level": 0
+                    "level": -1
                 },
                 {
-                    "name": "2-Serwerownia",
-                    "id": 25,
-                    "level": 0
-                },
-                {
-                    "name": "3-Laboratorium",
-                    "id": 26,
-                    "level": 0
-                },
-                {
-                    "name": "4-Pokój gospodarczy",
-                    "id": 27,
-                    "level": 0
-                },
-                {
-                    "name": "5-Toaleta męska",
+                    "name": "-1.8-Laboratorium",
                     "id": 28,
+                    "level": -1
+                },
+                {
+                    "name": "11-Autoklawy",
+                    "id": 31,
                     "level": 0
                 },
                 {
-                    "name": "6-Toaleta damska",
+                    "name": "12-Toaleta",
+                    "id": 32,
+                    "level": 0
+                },
+                {
+                    "name": "13-Pokój laboratoryjny",
+                    "id": 33,
+                    "level": 0
+                },
+                {
+                    "name": "15-Sala seminaryjna",
+                    "id": 34,
+                    "level": 0
+                },
+                {
+                    "name": "18-Gabinet-Elżbieta Magnucka, Małgorzata Oksińska",
                     "id": 35,
                     "level": 0
                 },
                 {
-                    "name": "22-Gabinet",
-                    "id": 41,
+                    "name": "1G-Gabinet",
+                    "id": 36,
                     "level": 0
                 },
                 {
-                    "name": "23-Gabinet-dr hab. inż. Piotr Gołuch, prof. UPWr",
-                    "id": 40,
-                    "level": 0
-                },
-                {
-                    "name": "25-Gabinet-mgr inż. Mateusz Karpina",
+                    "name": "2G-Serwerownia",
                     "id": 37,
                     "level": 0
                 },
                 {
-                    "name": "24-Gabinet-dr hab. Kazimierz Ćmielewski, dr inż. Janusz Kuchmister",
-                    "id": 39,
-                    "level": 0
-                },
-                {
-                    "name": "25a-Gabinet-dr inż. Izabela Wilczyńska, mgr inż. Wojciech Sowa",
+                    "name": "3G-Laboratrorium",
                     "id": 38,
                     "level": 0
                 },
                 {
-                    "name": "100-Biblioteka IGIG",
-                    "id": 55,
-                    "level": 1
+                    "name": "4G-Pokój gospodarczy",
+                    "id": 39,
+                    "level": 0
                 },
                 {
-                    "name": "101-Serwerownia/Gabinet-mgr inż. Jan Sierny, mgr inż. Magdalena Owczarek-Wesołowska",
-                    "id": 54,
-                    "level": 1
+                    "name": "6G-Toaleta damska",
+                    "id": 40,
+                    "level": 0
                 },
                 {
-                    "name": "102-Sala dydaktyczna",
+                    "name": "5G-Toaleta męska",
+                    "id": 41,
+                    "level": 0
+                },
+                {
+                    "name": "9-Gabinet-Elżbieta Gęborowska",
+                    "id": 42,
+                    "level": 0
+                },
+                {
+                    "name": "10-Pożywkarnia",
+                    "id": 43,
+                    "level": 0
+                },
+                {
+                    "name": "16-Pokój genetyczny",
+                    "id": 44,
+                    "level": 0
+                },
+                {
+                    "name": "17-Gabinet-Stanisław Pietr",
+                    "id": 45,
+                    "level": 0
+                },
+                {
+                    "name": "19-Gabinet-Jolanta Kucińska",
+                    "id": 46,
+                    "level": 0
+                },
+                {
+                    "name": "20-Laboratorium",
+                    "id": 47,
+                    "level": 0
+                },
+                {
+                    "name": "21-Pokój magistrantów",
+                    "id": 48,
+                    "level": 0
+                },
+                {
+                    "name": "14-Sekretariat",
+                    "id": 49,
+                    "level": 0
+                },
+                {
+                    "name": "25G-Laboratorium multisensoryki-Adrian Kaczmarek, Wojciech Sowa, Mateusz Karpina",
+                    "id": 50,
+                    "level": 0
+                },
+                {
+                    "name": "25a-Gabinet-Wojciech Sowa",
+                    "id": 51,
+                    "level": 0
+                },
+                {
+                    "name": "24G-Gabinet-Halina Klimczak",
+                    "id": 52,
+                    "level": 0
+                },
+                {
+                    "name": "22G-Izolatka",
                     "id": 53,
+                    "level": 0
+                },
+                {
+                    "name": "23G-Gabinet-Piotr Gołuch",
+                    "id": 54,
+                    "level": 0
+                },
+                {
+                    "name": "13a-Termostat",
+                    "id": 55,
+                    "level": 0
+                },
+                {
+                    "name": "13b-Boks",
+                    "id": 56,
+                    "level": 0
+                },
+                {
+                    "name": "7-Pracownia bakteriologiczna-Karolina Budek",
+                    "id": 60,
+                    "level": 0
+                },
+                {
+                    "name": "8-Pokój apartury",
+                    "id": 61,
+                    "level": 0
+                },
+                {
+                    "name": "8a-Gabinet-Anna Kmieć",
+                    "id": 62,
+                    "level": 0
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 63,
+                    "level": 0
+                },
+                {
+                    "name": "104-Toaleta damska",
+                    "id": 64,
                     "level": 1
                 },
                 {
                     "name": "103-Toaleta męska",
-                    "id": 52,
+                    "id": 65,
                     "level": 1
                 },
                 {
-                    "name": "104-Toaleta damska",
-                    "id": 44,
+                    "name": "123-Gabinet-Adam Cegła, Damian Tondas",
+                    "id": 66,
                     "level": 1
                 },
                 {
-                    "name": "121-Gabinet-Saqib Mehdi, dr Saeid Haji Aghajany",
-                    "id": 63,
+                    "name": "121-Gabinet-Mehdi Haji Aghajany",
+                    "id": 67,
                     "level": 1
                 },
                 {
-                    "name": "122-Gabinet-dr inż. Sylwia Porucznik, dr inż. Teresa Dzikowska",
-                    "id": 62,
+                    "name": "122-Gabinet-Sylwia Porucznik, Teresa Dzikowska",
+                    "id": 68,
                     "level": 1
                 },
                 {
-                    "name": "123-Gabinet-mgr inż. Adam Cegła, mgr inż. Damian Tondaś",
-                    "id": 61,
+                    "name": "127-Gabinet-Ugeo",
+                    "id": 69,
                     "level": 1
                 },
                 {
-                    "name": "124-Gabinet-mgr inż. Estera Trzcina, mgr inż. Barbara Hordyniec",
-                    "id": 60,
+                    "name": "124-Gabinet-Estera Trzcina, Barbara Hordyniec",
+                    "id": 70,
                     "level": 1
                 },
                 {
-                    "name": "125-Gabinet-dr inż. Kamil Smolak, dr inż. Pawel Hordyniec",
-                    "id": 59,
+                    "name": "126-Sekretariat igig-Wojciech Dach",
+                    "id": 72,
                     "level": 1
                 },
                 {
-                    "name": "126-Gabinet-mgr inż. Wojciech Dach",
-                    "id": 57,
+                    "name": "126a-Gabinet-Witold Rohm",
+                    "id": 73,
                     "level": 1
                 },
                 {
-                    "name": "126a-Gabinet-prof. dr hab. inż. Witold Rohm",
-                    "id": 58,
+                    "name": "125-Gabinet-Kamil Smolak, Pawel Hordyniec",
+                    "id": 74,
                     "level": 1
                 },
                 {
-                    "name": "127-Gabinet",
-                    "id": 56,
-                    "level": 1
-                },
-                {
-                    "name": "200a-Gabinet-dr inż. Paweł Bogusławski",
-                    "id": 81,
-                    "level": 2
-                },
-                {
-                    "name": "200b-Gabinet-dr hab. inż. Adam Iwaniak",
-                    "id": 80,
-                    "level": 2
-                },
-                {
-                    "name": "200c-Gabinet-dr hab. inż. Grzegorz Jóźków prof. UPWr, dr inż. Przemysław Tymków",
-                    "id": 78,
-                    "level": 2
-                },
-                {
-                    "name": "201-Pomieszczenie socjalne",
-                    "id": 77,
-                    "level": 2
-                },
-                {
-                    "name": "202-Sala dydaktyczna",
+                    "name": "101-Gabinet-Magdalena Owczarek-Wesołowska, Jan Sierny",
                     "id": 76,
+                    "level": 1
+                },
+                {
+                    "name": "102-Laboratorium gis",
+                    "id": 77,
+                    "level": 1
+                },
+                {
+                    "name": "1-Hol",
+                    "id": 78,
+                    "level": 1
+                },
+                {
+                    "name": "100-Biblioteka igig-Igig",
+                    "id": 79,
+                    "level": 1
+                },
+                {
+                    "name": "105-Sala ćwiczeń",
+                    "id": 80,
+                    "level": 1
+                },
+                {
+                    "name": "107-Gabinet-Adam Bogacz",
+                    "id": 81,
+                    "level": 1
+                },
+                {
+                    "name": "108-Gabinet-Zbigniew Perlak",
+                    "id": 82,
+                    "level": 1
+                },
+                {
+                    "name": "109-Toaleta",
+                    "id": 83,
+                    "level": 1
+                },
+                {
+                    "name": "111-Laboratorium minearologiczne",
+                    "id": 84,
+                    "level": 1
+                },
+                {
+                    "name": "110-Gabinet-Rafał Tyszka, Aleksandra Kot",
+                    "id": 85,
+                    "level": 1
+                },
+                {
+                    "name": "106-Pokój socjalny",
+                    "id": 86,
+                    "level": 1
+                },
+                {
+                    "name": "112-Gabinet-Cezary Kabała",
+                    "id": 87,
+                    "level": 1
+                },
+                {
+                    "name": "113-Sekretariat",
+                    "id": 88,
+                    "level": 1
+                },
+                {
+                    "name": "114-Gabinet-Jarosław Kaszubkiewicz",
+                    "id": 89,
+                    "level": 1
+                },
+                {
+                    "name": "115-Gabinet-Elżbieta Jamroz",
+                    "id": 90,
+                    "level": 1
+                },
+                {
+                    "name": "116-Gabinet-Dorota Kawałko",
+                    "id": 91,
+                    "level": 1
+                },
+                {
+                    "name": "117-Laboratorium spektroskopii związków organicznych",
+                    "id": 92,
+                    "level": 1
+                },
+                {
+                    "name": "118-Gabinet-Agnieszka Medyńska-Juraszek",
+                    "id": 93,
+                    "level": 1
+                },
+                {
+                    "name": "119-Gabinet-Irmina Ćwieląg- Piasecka",
+                    "id": 94,
+                    "level": 1
+                },
+                {
+                    "name": "120-Pracownia mikrobiologii",
+                    "id": 95,
+                    "level": 1
+                },
+                {
+                    "name": "204-Toaleta damska",
+                    "id": 98,
                     "level": 2
                 },
                 {
                     "name": "203-Toaleta męska",
-                    "id": 75,
+                    "id": 99,
                     "level": 2
                 },
                 {
-                    "name": "204-Toaleta damska",
-                    "id": 68,
-                    "level": 2
-                },
-                {
-                    "name": "219-Gabinet-prof. dr hab. inż. Bernard Kontny",
-                    "id": 89,
-                    "level": 2
-                },
-                {
-                    "name": "220-Gabinet-dr inż. Olgierd Jamroz, mgr inż. Michał Piotrowicz, mgr inż. Jerzy Biegalski",
-                    "id": 87,
-                    "level": 2
-                },
-                {
-                    "name": "221-Gabinet-dr inż. Adam Michalski",
-                    "id": 86,
-                    "level": 2
-                },
-                {
-                    "name": "222-Gabinet-dr inż. Edyta Hadaś, dr inż. Agata Walicka",
-                    "id": 85,
-                    "level": 2
-                },
-                {
-                    "name": "223-Gabinet-dr inż. Maya Ilieva",
-                    "id": 88,
-                    "level": 2
-                },
-                {
-                    "name": "224-Gabinet-dr inż. Malgorzata Jarząbek-Rychard, dr inż. Kamila Pawłuszek-Filipak",
-                    "id": 84,
-                    "level": 2
-                },
-                {
-                    "name": "225-Gabinet-mgr inż. Natalia Wielgocka, mgr inż. Krzysztof Stasch",
-                    "id": 83,
-                    "level": 2
-                },
-                {
-                    "name": "226-Stacja GPS",
-                    "id": 82,
-                    "level": 2
-                },
-                {
-                    "name": "300-Gabinet-dr hab. inż. Jan Kapłon, prof. UPWr",
-                    "id": 107,
-                    "level": 3
-                },
-                {
-                    "name": "301-Gabinet-prof. dr hab. inż. Krzysztof Sośnica",
-                    "id": 106,
-                    "level": 3
-                },
-                {
-                    "name": "302-Gabinet-dr hab. inż. Tomasz Hadaś, prof. UPWr",
-                    "id": 104,
-                    "level": 3
-                },
-                {
-                    "name": "303-Gabinet-prof. dr hab. inż. Jarosław Bosy",
-                    "id": 103,
-                    "level": 3
-                },
-                {
-                    "name": "304-Sala seminaryjna",
-                    "id": 102,
-                    "level": 3
-                },
-                {
-                    "name": "305-Gabinet (katedra matematyki)",
+                    "name": "202-Sala ćwiczeń",
                     "id": 101,
-                    "level": 3
+                    "level": 2
                 },
                 {
-                    "name": "306-Toaleta damska",
-                    "id": 93,
-                    "level": 3
+                    "name": "2-Hol",
+                    "id": 101,
+                    "level": 2
                 },
                 {
-                    "name": "307-Toaleta męska",
-                    "id": 100,
-                    "level": 3
+                    "name": "205-Laboratorium podstawowych analiz fizykochemicznych gleb-Szymon Jędrzejewski",
+                    "id": 102,
+                    "level": 2
                 },
                 {
-                    "name": "324-Gabinet-dr inż. Adrian Kaczmarek, dr inż. Mateusz Drożdżewski",
-                    "id": 114,
-                    "level": 3,
-                    "description": {
-                        "panorama": "Kaczmarek.jpg"
-                    }
+                    "name": "206-Laboratorium spektrofotometrii-Michalina Swoboda",
+                    "id": 103,
+                    "level": 2
                 },
                 {
-                    "name": "325-Gabinet-mgr inż. Marcin Mikoś, mgr inż. Filip Gałdyn",
-                    "id": 115,
-                    "level": 3
+                    "name": "208-Magazyn próbek",
+                    "id": 104,
+                    "level": 2
                 },
                 {
-                    "name": "326-Gabinet-dr inż. Kamil Kaźmierski, mgr inż. Grzegorz Marut",
-                    "id": 113,
-                    "level": 3,
-                    "description": {
-                        "panorama": "Kaźmierski.jpg"
-                    }
+                    "name": "207-Pokój spalań",
+                    "id": 106,
+                    "level": 2
                 },
                 {
-                    "name": "327-Gabinet-mgr inż. Joanna Najder, dr inż.  Grzegorz Bury",
-                    "id": 112,
-                    "level": 3
-                },
-                {
-                    "name": "328-Gabinet-dr inż. Radosław Zajdel, dr inż. Dariusz Strugarek",
-                    "id": 111,
-                    "level": 3
-                },
-                {
-                    "name": "329-Kuchnia",
-                    "id": 109,
-                    "level": 3
-                },
-                {
-                    "name": "329a-Sala Konferencyjna",
-                    "id": 110,
-                    "level": 3
-                },
-                {
-                    "name": "330-Magazyn",
+                    "name": "209a-Gabinet-Bhakti Jadhav, Dariusz Gruszka, Justyna Załuska",
                     "id": 108,
+                    "level": 2
+                },
+                {
+                    "name": "209b-Gabinet-Jerzy Weber",
+                    "id": 109,
+                    "level": 2
+                },
+                {
+                    "name": "218-Laboratorium ekotoksygologiczne",
+                    "id": 110,
+                    "level": 2
+                },
+                {
+                    "name": "217-Gabinet-Magdalena Dębicka ",
+                    "id": 111,
+                    "level": 2
+                },
+                {
+                    "name": "216-Gabinet-Beata Łabaz",
+                    "id": 112,
+                    "level": 2
+                },
+                {
+                    "name": "215-Pracownia oznaczania węgla, azotu, siarki-Jarosław Szadorski ",
+                    "id": 113,
+                    "level": 2
+                },
+                {
+                    "name": "214-Pracowania badań ilościowych materii organicznej",
+                    "id": 114,
+                    "level": 2
+                },
+                {
+                    "name": "213-Gabinet-Katarzyna Szopka",
+                    "id": 115,
+                    "level": 2
+                },
+                {
+                    "name": "212-Gabinet-Andrzej Kocowicz",
+                    "id": 116,
+                    "level": 2
+                },
+                {
+                    "name": "211a-Gabinet-Paweł Jezierski ",
+                    "id": 117,
+                    "level": 2
+                },
+                {
+                    "name": "211-Gabinet-Jaroslaw Waroszewski",
+                    "id": 118,
+                    "level": 2
+                },
+                {
+                    "name": "210a-Gabinet-Joanna Kowalska",
+                    "id": 119,
+                    "level": 2
+                },
+                {
+                    "name": "210-Gabinet-Jakub Bekier",
+                    "id": 120,
+                    "level": 2
+                },
+                {
+                    "name": "201-Pomieszczenie socjalne",
+                    "id": 122,
+                    "level": 2
+                },
+                {
+                    "name": "200c-Gabinet-Grzegorz Jóźków",
+                    "id": 124,
+                    "level": 2
+                },
+                {
+                    "name": "200b-Gabinet-Adam Iwaniak",
+                    "id": 125,
+                    "level": 2
+                },
+                {
+                    "name": "200a-Gabinet-Paweł Bogusławski, Barbara Kasieczka",
+                    "id": 126,
+                    "level": 2
+                },
+                {
+                    "name": "226-Stacja gps",
+                    "id": 127,
+                    "level": 2
+                },
+                {
+                    "name": "225-Gabinet-Krzysztof Stasch, Amin Jiech",
+                    "id": 128,
+                    "level": 2
+                },
+                {
+                    "name": "224-Gabinet-Kamila Pawłuszek-Filipiak",
+                    "id": 129,
+                    "level": 2
+                },
+                {
+                    "name": "223-Gabinet-Maya Ilieva",
+                    "id": 130,
+                    "level": 2
+                },
+                {
+                    "name": "222-Gabinet-Edyta Hadaś, Natalia Wielgocka",
+                    "id": 131,
+                    "level": 2
+                },
+                {
+                    "name": "221-Gabinet-Adam Michalski, Michał Piotrowicz",
+                    "id": 132,
+                    "level": 2
+                },
+                {
+                    "name": "220-Gabinet-Olgierd Jamroz",
+                    "id": 133,
+                    "level": 2
+                },
+                {
+                    "name": "219-Gabinet",
+                    "id": 134,
+                    "level": 2
+                },
+                {
+                    "name": "307-Toaleta damska",
+                    "id": 136,
                     "level": 3
                 },
                 {
-                    "name": "400a-Gabinet",
-                    "id": 133,
-                    "level": 4
-                },
-                {
-                    "name": "400b-Gabinet",
-                    "id": 134,
-                    "level": 4
-                },
-                {
-                    "name": "401-Gabinet",
-                    "id": 132,
-                    "level": 4
-                },
-                {
-                    "name": "402a-Gabinet",
-                    "id": 130,
-                    "level": 4
-                },
-                {
-                    "name": "402b-Gabinet",
-                    "id": 129,
-                    "level": 4
-                },
-                {
-                    "name": "403-Sala dydaktyczna",
-                    "id": 128,
-                    "level": 4
-                },
-                {
-                    "name": "404-Toaleta męska",
-                    "id": 127,
-                    "level": 4
-                },
-                {
-                    "name": "405-Toaleta damska",
-                    "id": 120,
-                    "level": 4
-                },
-                {
-                    "name": "418-Gabinet",
-                    "id": 142,
-                    "level": 4
-                },
-                {
-                    "name": "419-Gabinet",
-                    "id": 141,
-                    "level": 4
-                },
-                {
-                    "name": "420-Gabinet",
-                    "id": 140,
-                    "level": 4
-                },
-                {
-                    "name": "421-Gabinet",
-                    "id": 139,
-                    "level": 4
-                },
-                {
-                    "name": "422-Gabinet",
-                    "id": 138,
-                    "level": 4
-                },
-                {
-                    "name": "423-Gabinet",
+                    "name": "306-Toaleta męska",
                     "id": 137,
-                    "level": 4
+                    "level": 3
                 },
                 {
-                    "name": "424-Gabinet",
-                    "id": 136,
-                    "level": 4
+                    "name": "326-Gabinet-Kamil Kaźmierski, Grzegorz Marut",
+                    "id": 138,
+                    "level": 3
                 },
                 {
-                    "name": "425-Gabinet",
-                    "id": 135,
-                    "level": 4
+                    "name": "324-Gabinet-Adrian Kaczmarek, Mateusz Drożdżewski",
+                    "id": 139,
+                    "level": 3
                 },
                 {
-                    "name": "It's him",
-                    "id": 999,
-                    "level": 9,
-                    "description": {
-                        "panorama": "duck.png"
-                    }
+                    "name": "325-Gabinet-Marek Trojanowicz",
+                    "id": 140,
+                    "level": 3
                 },
                 {
-                    "name": "Bob",
-                    "id": 78,
-                    "level": 2
-                },
-                {
-                    "name": "-1-hol",
-                    "id": 141,
-                    "level": -1
-                },
-                {
-                    "name": "0-hol",
+                    "name": "300-Gabinet-Jan Kapłon",
                     "id": 142,
-                    "level": 0
+                    "level": 3
                 },
                 {
-                    "name": "1-hol",
+                    "name": "301-Gabinet-Krzysztof Sośnica",
                     "id": 143,
-                    "level": 1
+                    "level": 3
                 },
                 {
-                    "name": "2-hol",
+                    "name": "303-Gabinet-Iwona Kudłacik",
                     "id": 144,
-                    "level": 2
+                    "level": 3
                 },
                 {
-                    "name": "3-hol",
+                    "name": "327-Gabinet-Joanna Najder, Grzegorz Bury",
                     "id": 145,
                     "level": 3
                 },
                 {
-                    "name": "4-hol",
+                    "name": "328-Gabinet-Radosław Zajdel, Dariusz Strugarek",
                     "id": 146,
+                    "level": 3
+                },
+                {
+                    "name": "329-Pokój socjalny",
+                    "id": 147,
+                    "level": 3
+                },
+                {
+                    "name": "330-Magazyn",
+                    "id": 148,
+                    "level": 3
+                },
+                {
+                    "name": "331-Gabinet-Filip Gałdyn, Marcin Mikos, Adrian Nowak",
+                    "id": 150,
+                    "level": 3
+                },
+                {
+                    "name": "3-Hol",
+                    "id": 151,
+                    "level": 3
+                },
+                {
+                    "name": "302-Gabinet-Tomasz Hadaś",
+                    "id": 152,
+                    "level": 3
+                },
+                {
+                    "name": "305-Katedra matematyki",
+                    "id": 154,
+                    "level": 3
+                },
+                {
+                    "name": "304-Sala seminaryjna",
+                    "id": 155,
+                    "level": 3
+                },
+                {
+                    "name": "308-Pracownia hplc",
+                    "id": 156,
+                    "level": 3
+                },
+                {
+                    "name": "313-Toaleta",
+                    "id": 157,
+                    "level": 3
+                },
+                {
+                    "name": "309-Fitotron",
+                    "id": 158,
+                    "level": 3
+                },
+                {
+                    "name": "310-Gabinet-Renata Ryl",
+                    "id": 159,
+                    "level": 3
+                },
+                {
+                    "name": "311-Gabinet-Krzysztof Godiga",
+                    "id": 160,
+                    "level": 3
+                },
+                {
+                    "name": "312-Pracownia spektrometrii",
+                    "id": 161,
+                    "level": 3
+                },
+                {
+                    "name": "314-Sala seminaryjna",
+                    "id": 163,
+                    "level": 3
+                },
+                {
+                    "name": "315-Magazyn",
+                    "id": 164,
+                    "level": 3
+                },
+                {
+                    "name": "316-Sekretariat-Teresa Rafalska",
+                    "id": 165,
+                    "level": 3
+                },
+                {
+                    "name": "317-Pokój socjalny",
+                    "id": 166,
+                    "level": 3
+                },
+                {
+                    "name": "318-Magazyn",
+                    "id": 167,
+                    "level": 3
+                },
+                {
+                    "name": "323-Laboratorium",
+                    "id": 168,
+                    "level": 3
+                },
+                {
+                    "name": "322-Gabinet-Piotr Stępien",
+                    "id": 169,
+                    "level": 3
+                },
+                {
+                    "name": "321-Gabinet-Elżbieta Sacała",
+                    "id": 170,
+                    "level": 3
+                },
+                {
+                    "name": "320-Magazyn",
+                    "id": 171,
+                    "level": 3
+                },
+                {
+                    "name": "319-Laboratorium",
+                    "id": 172,
+                    "level": 3
+                },
+                {
+                    "name": "318-Magazyn",
+                    "id": 173,
+                    "level": 3
+                },
+                {
+                    "name": "405-Toaleta damska",
+                    "id": 175,
+                    "level": 4
+                },
+                {
+                    "name": "404-Toaleta męska",
+                    "id": 176,
+                    "level": 4
+                },
+                {
+                    "name": "420-Gabinet-Ewa Diakowska",
+                    "id": 177,
+                    "level": 4
+                },
+                {
+                    "name": "418-Gabinet-Ewa Skuza",
+                    "id": 178,
+                    "level": 4
+                },
+                {
+                    "name": "419-Gabinet-Joanna Kaminska",
+                    "id": 179,
+                    "level": 4
+                },
+                {
+                    "name": "400a-Gabinet-Jacek Leśny",
+                    "id": 182,
+                    "level": 4
+                },
+                {
+                    "name": "421-Pokój emerytów",
+                    "id": 183,
+                    "level": 4
+                },
+                {
+                    "name": "422-Gabinet-Jan Jelowicki",
+                    "id": 184,
+                    "level": 4
+                },
+                {
+                    "name": "423-Gabinet-Dorota Smolis",
+                    "id": 185,
+                    "level": 4
+                },
+                {
+                    "name": "425-Pokój socjalny",
+                    "id": 186,
+                    "level": 4
+                },
+                {
+                    "name": "424-Gabinet-Adrian Dacko, Kamil Dyba, Sylwester Rzeszut, Michał Wójcik",
+                    "id": 188,
+                    "level": 4
+                },
+                {
+                    "name": "403-Sala dydaktyczna-Leszek Kuchar",
+                    "id": 189,
+                    "level": 4
+                },
+                {
+                    "name": "4-Hol",
+                    "id": 190,
+                    "level": 4
+                },
+                {
+                    "name": "401-Gabinet-Mateusz Boczar Malgorzata Wnetrzak",
+                    "id": 191,
+                    "level": 4
+                },
+                {
+                    "name": "400-Gabinet-Hanna Okrasińska-Płociniczak, Wiesław Szulczewski",
+                    "id": 192,
+                    "level": 4
+                },
+                {
+                    "name": "402b-Gabinet-Malgorzata Głogowska, Agnieszka Mruklik, Bogdan Roszak",
+                    "id": 194,
+                    "level": 4
+                },
+                {
+                    "name": "402a-Gabinet-Gabriela Biel, Teresa Jakubczyk",
+                    "id": 195,
+                    "level": 4
+                },
+                {
+                    "name": "417-Analizy gleb",
+                    "id": 197,
+                    "level": 4
+                },
+                {
+                    "name": "416-Analizy roślin",
+                    "id": 198,
+                    "level": 4
+                },
+                {
+                    "name": "414a-Gabinet-Grzegorz Kulczycki",
+                    "id": 199,
+                    "level": 4
+                },
+                {
+                    "name": "414-Gabinet-Kamila Stępień, Magdalena Ossowska",
+                    "id": 200,
+                    "level": 4
+                },
+                {
+                    "name": "413a-Laboratorium",
+                    "id": 201,
+                    "level": 4
+                },
+                {
+                    "name": "411-Laboratorium",
+                    "id": 204,
+                    "level": 4
+                },
+                {
+                    "name": "426-Magazyn",
+                    "id": 205,
+                    "level": 4
+                },
+                {
+                    "name": "410-Sala dydaktyczna",
+                    "id": 206,
+                    "level": 4
+                },
+                {
+                    "name": "409-Toaleta",
+                    "id": 207,
+                    "level": 4
+                },
+                {
+                    "name": "408-Laboratorium",
+                    "id": 208,
+                    "level": 4
+                },
+                {
+                    "name": "407-Sala dydaktyczna",
+                    "id": 209,
+                    "level": 4
+                },
+                {
+                    "name": "406-Sala dydaktyczna",
+                    "id": 210,
                     "level": 4
                 }
             ]
         },
         {
             "C2 MELIORACJA": [
-
+                {
+                    "name": "018m-Sala dydaktyczna",
+                    "id": 212,
+                    "level": -1
+                },
+                {
+                    "name": "-1-Hol",
+                    "id": 213,
+                    "level": -1
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 216,
+                    "level": 0
+                },
+                {
+                    "name": "6-Gabinet-paweł filipiak",
+                    "id": 217,
+                    "level": 0
+                },
+                {
+                    "name": "7-Centrum zasobów i Wsparcia Dydaktyki",
+                    "id": 218,
+                    "level": 0
+                },
+                {
+                    "name": "8-Laboratorium technologii materiałów i konstrukcji budowlanych",
+                    "id": 221,
+                    "level": 0
+                },
+                {
+                    "name": "8c-Pokój",
+                    "id": 222,
+                    "level": 0
+                },
+                {
+                    "name": "10-Pokój-michał drzazga",
+                    "id": 223,
+                    "level": 0
+                },
+                {
+                    "name": "11-Pokój",
+                    "id": 224,
+                    "level": 0
+                },
+                {
+                    "name": "12-Pokój-małgorzata meissner, anna rawska-skotniczy",
+                    "id": 225,
+                    "level": 0
+                },
+                {
+                    "name": "13-Pokój-wojciech kilan",
+                    "id": 226,
+                    "level": 0
+                },
+                {
+                    "name": "14-Pokój-Robert Świerzko",
+                    "id": 227,
+                    "level": 0
+                },
+                {
+                    "name": "15-Pokój",
+                    "id": 228,
+                    "level": 0
+                },
+                {
+                    "name": "111-Pokój-jerzy sobota",
+                    "id": 229,
+                    "level": 1
+                },
+                {
+                    "name": "112a-Pokój-Maciej Gruszczyński",
+                    "id": 230,
+                    "level": 1
+                },
+                {
+                    "name": "112-Sala seminaryjna",
+                    "id": 231,
+                    "level": 1
+                },
+                {
+                    "name": "113-Pokój-Radosław Stodolak",
+                    "id": 232,
+                    "level": 1
+                },
+                {
+                    "name": "114-Pokój-sławomir nowak, piotr kaluga",
+                    "id": 233,
+                    "level": 1
+                },
+                {
+                    "name": "115-Pokój",
+                    "id": 234,
+                    "level": 1
+                },
+                {
+                    "name": "117-Pokój-Stanisław Czaban",
+                    "id": 235,
+                    "level": 1
+                },
+                {
+                    "name": "109-Gabinet-łukarz gruss, paweł tomczyk",
+                    "id": 236,
+                    "level": 1
+                },
+                {
+                    "name": "107-Pokój-robert kasperek",
+                    "id": 237,
+                    "level": 1
+                },
+                {
+                    "name": "106-Pokój-Robert Głowski",
+                    "id": 238,
+                    "level": 1
+                },
+                {
+                    "name": "105-Pokój-beata malczwewska",
+                    "id": 239,
+                    "level": 1
+                },
+                {
+                    "name": "104-Pokój",
+                    "id": 240,
+                    "level": 1
+                },
+                {
+                    "name": "103-Sekretariat-katarzyna suszek, katarzyna lisińska",
+                    "id": 241,
+                    "level": 1
+                },
+                {
+                    "name": "102-Pokój-Krzysztof Lejcuś",
+                    "id": 242,
+                    "level": 1
+                },
+                {
+                    "name": "100-Pokój-Wiesław Fiałkiewicz",
+                    "id": 243,
+                    "level": 1
+                },
+                {
+                    "name": "101-Pokój-joanna markowska",
+                    "id": 244,
+                    "level": 1
+                },
+                {
+                    "name": "1-Korytarz",
+                    "id": 247,
+                    "level": 1
+                },
+                {
+                    "name": "116-Toaleta męska",
+                    "id": 248,
+                    "level": 1
+                },
+                {
+                    "name": "116a-Toaleta dla niepełnosprawnych",
+                    "id": 249,
+                    "level": 1
+                },
+                {
+                    "name": "116b-Toaleta damska",
+                    "id": 250,
+                    "level": 1
+                },
+                {
+                    "name": "108-Gabinet-mirosław wiatowski",
+                    "id": 253,
+                    "level": 1
+                },
+                {
+                    "name": "110-Gabinet-Tomasz Tymiński",
+                    "id": 254,
+                    "level": 1
+                },
+                {
+                    "name": "118-Sala dydaktyczna",
+                    "id": 255,
+                    "level": 1
+                },
+                {
+                    "name": "120-Gabinet-kamil pawłowski, agata włóka",
+                    "id": 256,
+                    "level": 1
+                },
+                {
+                    "name": "121-Gabinet-renata nogaj",
+                    "id": 257,
+                    "level": 1
+                },
+                {
+                    "name": "122-Sala seminaryjna",
+                    "id": 258,
+                    "level": 1
+                },
+                {
+                    "name": "123-Gabinet-melisa tasan",
+                    "id": 259,
+                    "level": 1
+                },
+                {
+                    "name": "124-Gabinet-jarosław dabrowski",
+                    "id": 260,
+                    "level": 1
+                },
+                {
+                    "name": "125-Gabinet-wlodzimierz białas, grzegorz antoniszyn, julia nowak",
+                    "id": 261,
+                    "level": 1
+                },
+                {
+                    "name": "126-Gabinet-edward hutnik, jan kempiński",
+                    "id": 262,
+                    "level": 1
+                },
+                {
+                    "name": "127-Gabinet-radosław tatko",
+                    "id": 263,
+                    "level": 1
+                },
+                {
+                    "name": "211-Gabinet-Marian Żuber",
+                    "id": 264,
+                    "level": 2
+                },
+                {
+                    "name": "212-Gabinet-Krystyna Woźniakowska",
+                    "id": 265,
+                    "level": 2
+                },
+                {
+                    "name": "213-Laboratorium badań środowiskowych",
+                    "id": 266,
+                    "level": 2
+                },
+                {
+                    "name": "214-Pokój/laboratorium modelowania procesów środowiskowych i ergonomi",
+                    "id": 267,
+                    "level": 2
+                },
+                {
+                    "name": "215-Gabinet-Ryszard Pokładek",
+                    "id": 268,
+                    "level": 2
+                },
+                {
+                    "name": "209-Gabinet-Paweł Dąbek",
+                    "id": 269,
+                    "level": 2
+                },
+                {
+                    "name": "207-Pokój-Łukasz Kuta",
+                    "id": 270,
+                    "level": 2
+                },
+                {
+                    "name": "206-Pokój-Justyna Hachoł",
+                    "id": 271,
+                    "level": 2
+                },
+                {
+                    "name": "205-Pokój-aleksandra wdowczyk",
+                    "id": 272,
+                    "level": 2
+                },
+                {
+                    "name": "204-Pokój-Arkadiusz Głogowski",
+                    "id": 273,
+                    "level": 2
+                },
+                {
+                    "name": "203-Pokój",
+                    "id": 274,
+                    "level": 2
+                },
+                {
+                    "name": "202-Pokój-Małgorzata Biniak- Pieróg",
+                    "id": 275,
+                    "level": 2
+                },
+                {
+                    "name": "201-Pokój socjalny",
+                    "id": 276,
+                    "level": 2
+                },
+                {
+                    "name": "200-Pokój-andrzej żyromski",
+                    "id": 277,
+                    "level": 2
+                },
+                {
+                    "name": "2-Korytarz",
+                    "id": 279,
+                    "level": 2
+                },
+                {
+                    "name": "216-Toaleta męska",
+                    "id": 280,
+                    "level": 2
+                },
+                {
+                    "name": "216a-Toaleta dla niepełnosprawnych",
+                    "id": 281,
+                    "level": 2
+                },
+                {
+                    "name": "216b-Toaleta damska",
+                    "id": 282,
+                    "level": 2
+                },
+                {
+                    "name": "208-Gabinet-józef hulboj, rafał wójcik",
+                    "id": 283,
+                    "level": 2
+                },
+                {
+                    "name": "210-Gabinet-beata olszewska, wojciech łyczko",
+                    "id": 284,
+                    "level": 2
+                },
+                {
+                    "name": "217-Sala dydaktyczna",
+                    "id": 285,
+                    "level": 2
+                },
+                {
+                    "name": "218-Sala dydaktyczna",
+                    "id": 286,
+                    "level": 2
+                },
+                {
+                    "name": "219-Gabinet-wojciech orzepkowski",
+                    "id": 287,
+                    "level": 2
+                },
+                {
+                    "name": "220-Gabinet-grzegorz pęczkowski, katarzyna szwernoga",
+                    "id": 288,
+                    "level": 2
+                },
+                {
+                    "name": "221-Gabinet-stanislaw kostrzewa",
+                    "id": 289,
+                    "level": 2
+                },
+                {
+                    "name": "224-Gabinet-tomasz kowalczyk",
+                    "id": 290,
+                    "level": 2
+                },
+                {
+                    "name": "222-Gabinet",
+                    "id": 291,
+                    "level": 2
+                },
+                {
+                    "name": "223-Gabinet-magdalena dzwonek",
+                    "id": 292,
+                    "level": 2
+                },
+                {
+                    "name": "300-Gabinet-daniel garlikowski",
+                    "id": 295,
+                    "level": 3
+                },
+                {
+                    "name": "301-Gabinet-michał spitalniak",
+                    "id": 296,
+                    "level": 3
+                },
+                {
+                    "name": "302-Gabinet-bogna buta, maksymilian połomski, michał tymcio",
+                    "id": 297,
+                    "level": 3
+                },
+                {
+                    "name": "303-Gabinet-daria marczak kuba misiewicz",
+                    "id": 298,
+                    "level": 3
+                },
+                {
+                    "name": "304-Gabinet-ahmed tamma",
+                    "id": 299,
+                    "level": 3
+                },
+                {
+                    "name": "305-Gabinet-Krzysztof Lejcuś",
+                    "id": 300,
+                    "level": 3
+                },
+                {
+                    "name": "306-Gabinet-justyna kubicz",
+                    "id": 301,
+                    "level": 3
+                },
+                {
+                    "name": "307-Gabinet-alicja czamara",
+                    "id": 302,
+                    "level": 3
+                },
+                {
+                    "name": "308-Gabinet-andrzej moryl",
+                    "id": 303,
+                    "level": 3
+                },
+                {
+                    "name": "309-Gabinet-Agata Szymańska- Pulikowska",
+                    "id": 304,
+                    "level": 3
+                },
+                {
+                    "name": "310-Sala dydaktyczna",
+                    "id": 305,
+                    "level": 3
+                },
+                {
+                    "name": "314-Laboratorium",
+                    "id": 306,
+                    "level": 3
+                },
+                {
+                    "name": "313-Laboratorium",
+                    "id": 307,
+                    "level": 3
+                },
+                {
+                    "name": "312-Laboratoirum badania gruntów",
+                    "id": 308,
+                    "level": 3
+                },
+                {
+                    "name": "311-Gabinet-ireneusz krajewski, michał dziedzic",
+                    "id": 309,
+                    "level": 3
+                },
+                {
+                    "name": "317-Sala dydaktyczna",
+                    "id": 310,
+                    "level": 3
+                },
+                {
+                    "name": "319-Sala dydaktyczna",
+                    "id": 311,
+                    "level": 3
+                },
+                {
+                    "name": "320-Gabinet-Anna Uciechowska-Grakowicz",
+                    "id": 312,
+                    "level": 3
+                },
+                {
+                    "name": "321-Gabinet-rafal idzikowski, filip zakęś",
+                    "id": 313,
+                    "level": 3
+                },
+                {
+                    "name": "322-Gabinet-matylda tankiewicz",
+                    "id": 314,
+                    "level": 3
+                },
+                {
+                    "name": "323-Gabinet-Jolanta Dąbrowska",
+                    "id": 315,
+                    "level": 3
+                },
+                {
+                    "name": "324-Gabinet-Zofia Zięba",
+                    "id": 316,
+                    "level": 3
+                },
+                {
+                    "name": "325-Gabinet-Maciej Kaźmierowski",
+                    "id": 317,
+                    "level": 3
+                },
+                {
+                    "name": "316a-Toaleta męska",
+                    "id": 318,
+                    "level": 3
+                },
+                {
+                    "name": "316-Toaleta damska",
+                    "id": 319,
+                    "level": 3
+                },
+                {
+                    "name": "315-Toaleta dla niepełnosprawnych",
+                    "id": 320,
+                    "level": 3
+                },
+                {
+                    "name": "3-Hol",
+                    "id": 322,
+                    "level": 3
+                },
+                {
+                    "name": "411-Gabinet-krzysztof kuczewski",
+                    "id": 324,
+                    "level": 4
+                },
+                {
+                    "name": "412-Gabinet-Magdalena Domańska",
+                    "id": 325,
+                    "level": 4
+                },
+                {
+                    "name": "413-Gabinet",
+                    "id": 326,
+                    "level": 4
+                },
+                {
+                    "name": "414-Pokój magistrantów",
+                    "id": 327,
+                    "level": 4
+                },
+                {
+                    "name": "415-Magzyn",
+                    "id": 328,
+                    "level": 4
+                },
+                {
+                    "name": "416-Laboratorium instalacji sanitarnych",
+                    "id": 329,
+                    "level": 4
+                },
+                {
+                    "name": "417b-Toaleta męska",
+                    "id": 330,
+                    "level": 4
+                },
+                {
+                    "name": "417a-Toaleta damska",
+                    "id": 331,
+                    "level": 4
+                },
+                {
+                    "name": "417-Toaleta dla niepełnosprawnych",
+                    "id": 332,
+                    "level": 4
+                },
+                {
+                    "name": "418-Sala dydaktyczna",
+                    "id": 333,
+                    "level": 4
+                },
+                {
+                    "name": "419-Sala dydaktyczna",
+                    "id": 334,
+                    "level": 4
+                },
+                {
+                    "name": "420-Gabinet-anna bocheńska-skałecka, ewa walter",
+                    "id": 335,
+                    "level": 4
+                },
+                {
+                    "name": "421-Gabinet-Marta Weber-Siwirska",
+                    "id": 336,
+                    "level": 4
+                },
+                {
+                    "name": "422-Gabinet-Agnieszka Jakóbiak",
+                    "id": 337,
+                    "level": 4
+                },
+                {
+                    "name": "423-Gabinet",
+                    "id": 338,
+                    "level": 4
+                },
+                {
+                    "name": "424-Gabinet-artur majchrzak",
+                    "id": 339,
+                    "level": 4
+                },
+                {
+                    "name": "425-Pracownia florystyczna",
+                    "id": 340,
+                    "level": 4
+                },
+                {
+                    "name": "400-Gabinet-maciej piotrowski",
+                    "id": 341,
+                    "level": 4
+                },
+                {
+                    "name": "401-Gabinet-iwona orzechowska-szajda, anna podolska",
+                    "id": 342,
+                    "level": 4
+                },
+                {
+                    "name": "401a-Gabinet-kazimierz chmura",
+                    "id": 343,
+                    "level": 4
+                },
+                {
+                    "name": "402-Gabinet-ewa burszta-adamiak. magdalena kuśniarz, justyna stańczyk",
+                    "id": 344,
+                    "level": 4
+                },
+                {
+                    "name": "403-Gabinet-Włodzimierz Czamara",
+                    "id": 345,
+                    "level": 4
+                },
+                {
+                    "name": "404-Gabinet-Joanna Kajewska-Szkudlarek",
+                    "id": 346,
+                    "level": 4
+                },
+                {
+                    "name": "405-Gabinet-marian mokwa",
+                    "id": 347,
+                    "level": 4
+                },
+                {
+                    "name": "406-Gabinet-paweł wiercik",
+                    "id": 348,
+                    "level": 4
+                },
+                {
+                    "name": "407-Gabinet-Paweł Lochyński",
+                    "id": 349,
+                    "level": 4
+                },
+                {
+                    "name": "408-Gabinet-aleksandra bawiec",
+                    "id": 350,
+                    "level": 4
+                },
+                {
+                    "name": "409-Gabinet-konga marek, szymon kilan",
+                    "id": 351,
+                    "level": 4
+                },
+                {
+                    "name": "409a-Gabinet-Katarzyna Pawęska",
+                    "id": 352,
+                    "level": 4
+                },
+                {
+                    "name": "4-Hol",
+                    "id": 355,
+                    "level": 4
+                }
             ]
         },
         {
             "C3 CENTRUM DYDAKTYCZNO NAUKOWE (AKWARIUM :D)": [
-
+                {
+                    "name": "18-Sala rad wykładów",
+                    "id": 359,
+                    "level": 0
+                },
+                {
+                    "name": "17-Dziekanat",
+                    "id": 360,
+                    "level": 0
+                },
+                {
+                    "name": "1-Pomieszczenie techniczne",
+                    "id": 361,
+                    "level": 0
+                },
+                {
+                    "name": "16-Pomieszczenie techniczne",
+                    "id": 363,
+                    "level": 0
+                },
+                {
+                    "name": "15-Toaleta męska",
+                    "id": 364,
+                    "level": 0
+                },
+                {
+                    "name": "14-Pomieszczenie porządkowe",
+                    "id": 365,
+                    "level": 0
+                },
+                {
+                    "name": "13-Toaleta dla niepełnosprawnych",
+                    "id": 366,
+                    "level": 0
+                },
+                {
+                    "name": "12-Toaleta damska",
+                    "id": 367,
+                    "level": 0
+                },
+                {
+                    "name": "11-Korytarz",
+                    "id": 369,
+                    "level": 0
+                },
+                {
+                    "name": "24-Dziekanat",
+                    "id": 370,
+                    "level": 0
+                },
+                {
+                    "name": "3-Pomieszczenie ochrony",
+                    "id": 371,
+                    "level": 0
+                },
+                {
+                    "name": "2C-Sala wykładowa IIC",
+                    "id": 372,
+                    "level": 0
+                },
+                {
+                    "name": "6-Pokój",
+                    "id": 373,
+                    "level": 0
+                },
+                {
+                    "name": "1C-Sala wykładowa IC",
+                    "id": 374,
+                    "level": 0
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 376,
+                    "level": 0
+                },
+                {
+                    "name": "27-Pomieszczenia techniczne",
+                    "id": 377,
+                    "level": 0
+                },
+                {
+                    "name": "115A-Pokój-Dorota Kasowska",
+                    "id": 378,
+                    "level": 1
+                },
+                {
+                    "name": "115-Sala ćwiczeniowa",
+                    "id": 379,
+                    "level": 1
+                },
+                {
+                    "name": "117-Sala ćwiczeniowa",
+                    "id": 380,
+                    "level": 1
+                },
+                {
+                    "name": "118-Pokój",
+                    "id": 381,
+                    "level": 1
+                },
+                {
+                    "name": "4C-Sala wykładowa IVC",
+                    "id": 382,
+                    "level": 1
+                },
+                {
+                    "name": "3C-Sala wykładowa IIIC",
+                    "id": 383,
+                    "level": 1
+                },
+                {
+                    "name": "113-Pokój-Kamil Konowalik, Katarzyna Szczepańska",
+                    "id": 384,
+                    "level": 1
+                },
+                {
+                    "name": "112-Pokój-Aleksandra Halarewicz",
+                    "id": 385,
+                    "level": 1
+                },
+                {
+                    "name": "111-Pokój-Ludwik Żołnierz",
+                    "id": 386,
+                    "level": 1
+                },
+                {
+                    "name": "110-Pokój-Jacek Urbaniak",
+                    "id": 387,
+                    "level": 1
+                },
+                {
+                    "name": "130-Toaleta męska",
+                    "id": 389,
+                    "level": 1
+                },
+                {
+                    "name": "131-Toaleta dla niepełnosprawnych",
+                    "id": 390,
+                    "level": 1
+                },
+                {
+                    "name": "132-Toaleta damska",
+                    "id": 391,
+                    "level": 1
+                },
+                {
+                    "name": "133-Pomieszczenie techniczne",
+                    "id": 392,
+                    "level": 1
+                },
+                {
+                    "name": "134-Laboratorium ogólne i ekologi",
+                    "id": 393,
+                    "level": 1
+                },
+                {
+                    "name": "135-Bufet",
+                    "id": 394,
+                    "level": 1
+                },
+                {
+                    "name": "107-Pokój-Jerzy Fabiszewski",
+                    "id": 395,
+                    "level": 1
+                },
+                {
+                    "name": "106-Pokój-Mirosława Pietryka, Dorota Richter",
+                    "id": 396,
+                    "level": 1
+                },
+                {
+                    "name": "105-Pokój-Magda Podlaska",
+                    "id": 397,
+                    "level": 1
+                },
+                {
+                    "name": "104-Pokój-Ewa Fundali, Anna Koszelnik-Leszek",
+                    "id": 398,
+                    "level": 1
+                },
+                {
+                    "name": "101-Toaleta damska",
+                    "id": 400,
+                    "level": 1
+                },
+                {
+                    "name": "102-Toaleta męska",
+                    "id": 401,
+                    "level": 1
+                },
+                {
+                    "name": "139-Pomieszczenie pomocnicze",
+                    "id": 402,
+                    "level": 1
+                },
+                {
+                    "name": "136-Sala klub pracowników",
+                    "id": 403,
+                    "level": 1
+                },
+                {
+                    "name": "137-Sala konferencyjna",
+                    "id": 404,
+                    "level": 1
+                },
+                {
+                    "name": "138-Dział rekrutacji",
+                    "id": 405,
+                    "level": 1
+                },
+                {
+                    "name": "121-Pokój hodowlany",
+                    "id": 406,
+                    "level": 1
+                },
+                {
+                    "name": "122-Zielnik",
+                    "id": 407,
+                    "level": 1
+                },
+                {
+                    "name": "123-Pracownia mikroskopowa",
+                    "id": 408,
+                    "level": 1
+                },
+                {
+                    "name": "124-Pokój-Daniel Pruchniewicz",
+                    "id": 409,
+                    "level": 1
+                },
+                {
+                    "name": "125-Pokój-Barbara Matuła, Dominika Potrząsaj",
+                    "id": 410,
+                    "level": 1
+                },
+                {
+                    "name": "126-Sala seminaryjna",
+                    "id": 411,
+                    "level": 1
+                },
+                {
+                    "name": "127-Pokój-Iuliia Sheliuk, Jan Matuła",
+                    "id": 412,
+                    "level": 1
+                },
+                {
+                    "name": "128-Pracownia ekologii",
+                    "id": 413,
+                    "level": 1
+                },
+                {
+                    "name": "129-Pokój przygotowawczy",
+                    "id": 414,
+                    "level": 1
+                },
+                {
+                    "name": "140-Pomieszczenia kuchenne",
+                    "id": 416,
+                    "level": 1
+                },
+                {
+                    "name": "1-Hol",
+                    "id": 417,
+                    "level": 1
+                },
+                {
+                    "name": "248-Toaleta damska",
+                    "id": 419,
+                    "level": 2
+                },
+                {
+                    "name": "247-Toaleta męska",
+                    "id": 420,
+                    "level": 2
+                },
+                {
+                    "name": "246-Sala seminaryjna",
+                    "id": 421,
+                    "level": 2
+                },
+                {
+                    "name": "245-Sala ćwiczeniowa",
+                    "id": 422,
+                    "level": 2
+                },
+                {
+                    "name": "201-Pokój wegetacyjny",
+                    "id": 423,
+                    "level": 2
+                },
+                {
+                    "name": "244-Sala ćwiczeniowa",
+                    "id": 424,
+                    "level": 2
+                },
+                {
+                    "name": "243-Laboratorium",
+                    "id": 425,
+                    "level": 2
+                },
+                {
+                    "name": "242-Toaleta męska",
+                    "id": 426,
+                    "level": 2
+                },
+                {
+                    "name": "241-Pomieszczenie porządkowe",
+                    "id": 427,
+                    "level": 2
+                },
+                {
+                    "name": "237-Sala ćwiczeniowa",
+                    "id": 429,
+                    "level": 2
+                },
+                {
+                    "name": "236-Sala seminaryjna",
+                    "id": 430,
+                    "level": 2
+                },
+                {
+                    "name": "240-Toaleta dla niepełnosprawnych",
+                    "id": 431,
+                    "level": 2
+                },
+                {
+                    "name": "239-Toaleta damska",
+                    "id": 432,
+                    "level": 2
+                },
+                {
+                    "name": "235-Pracownia botaniczna",
+                    "id": 433,
+                    "level": 2
+                },
+                {
+                    "name": "234-Pokój-Karol Wolski",
+                    "id": 434,
+                    "level": 2
+                },
+                {
+                    "name": "213-Pomieszczenie techniczne",
+                    "id": 435,
+                    "level": 2
+                },
+                {
+                    "name": "215-Pokój-Lilianna Głąb, Małgorzata Cieciura-Olczyk",
+                    "id": 436,
+                    "level": 2
+                },
+                {
+                    "name": "216-Pokój-Zygmunt Mikołajczyk, Agnieszka Dradrach",
+                    "id": 437,
+                    "level": 2
+                },
+                {
+                    "name": "217-Pokój-Marek Liszewski",
+                    "id": 438,
+                    "level": 2
+                },
+                {
+                    "name": "218-Pokój-Anna Jama-Rodzeńska, Marta Czarniecka-Wiera",
+                    "id": 439,
+                    "level": 2
+                },
+                {
+                    "name": "219-Magazyn podręczny laboratorium",
+                    "id": 440,
+                    "level": 2
+                },
+                {
+                    "name": "220-Pomieszczenie socjalne",
+                    "id": 441,
+                    "level": 2
+                },
+                {
+                    "name": "229-Magazyn okazów do ćwiczeń",
+                    "id": 442,
+                    "level": 2
+                },
+                {
+                    "name": "230-Pokój gospodarczy",
+                    "id": 443,
+                    "level": 2
+                },
+                {
+                    "name": "214-Centrala telefoniczna",
+                    "id": 444,
+                    "level": 2
+                },
+                {
+                    "name": "231-Pokój-Chathura Perera, Hassanali Mollashahi",
+                    "id": 445,
+                    "level": 2
+                },
+                {
+                    "name": "232-Pokój-Leszek Kordas",
+                    "id": 446,
+                    "level": 2
+                },
+                {
+                    "name": "233-Pokój-Roman Wacławowicz",
+                    "id": 447,
+                    "level": 2
+                },
+                {
+                    "name": "221-Pokój-Magadalena Serafin-Anderzejewska",
+                    "id": 448,
+                    "level": 2
+                },
+                {
+                    "name": "222-Pokój-Józef Sowiński",
+                    "id": 449,
+                    "level": 2
+                },
+                {
+                    "name": "223-Pokój-Anna Wondołowska-Grabowska",
+                    "id": 450,
+                    "level": 2
+                },
+                {
+                    "name": "224-Pokój-Zofia Kubińska, Volodymyr Sudak",
+                    "id": 451,
+                    "level": 2
+                },
+                {
+                    "name": "225-Pokój-Andrzej Kotecki",
+                    "id": 452,
+                    "level": 2
+                },
+                {
+                    "name": "226-Pokój-Magdalena Żuk, Jan Szopa-Skórkowski",
+                    "id": 453,
+                    "level": 2
+                },
+                {
+                    "name": "227-Pokój-Marcin Kozak",
+                    "id": 454,
+                    "level": 2
+                },
+                {
+                    "name": "228-Pokój-Waldemar Helios, Tetiana Slodkovska",
+                    "id": 455,
+                    "level": 2
+                },
+                {
+                    "name": "212-Pokój-Elzbieta Pytlarz, Małgorzata Radała",
+                    "id": 457,
+                    "level": 2
+                },
+                {
+                    "name": "211-Pokój-Janina Zawieja",
+                    "id": 459,
+                    "level": 2
+                },
+                {
+                    "name": "210-Pokój-Danuta Parylak",
+                    "id": 460,
+                    "level": 2
+                },
+                {
+                    "name": "209-Sekretariat-Magdalena Szymura, Joanna Walczak-Łakomy, Marta Gas-Smereka",
+                    "id": 461,
+                    "level": 2
+                },
+                {
+                    "name": "207-Pomieszczenie techniczne",
+                    "id": 462,
+                    "level": 2
+                },
+                {
+                    "name": "206-Pokój-Ewa Tendziagolska",
+                    "id": 463,
+                    "level": 2
+                },
+                {
+                    "name": "205-Pokój-Wiesław Wojciechowski",
+                    "id": 464,
+                    "level": 2
+                },
+                {
+                    "name": "204-Pokój-Piotr Sobkowicz",
+                    "id": 465,
+                    "level": 2
+                },
+                {
+                    "name": "203-Pokój-Piotr Kuc, Agnieszka Lejman",
+                    "id": 466,
+                    "level": 2
+                },
+                {
+                    "name": "249-Aula Jana Pawła II",
+                    "id": 468,
+                    "level": 2
+                },
+                {
+                    "name": "2-Hol",
+                    "id": 469,
+                    "level": 2
+                },
+                {
+                    "name": "302-Sala ćwiczeniowa",
+                    "id": 471,
+                    "level": 3
+                },
+                {
+                    "name": "301-Pomieszczenie pomocnicze",
+                    "id": 472,
+                    "level": 3
+                },
+                {
+                    "name": "351-Sala ćwiczeniowa",
+                    "id": 473,
+                    "level": 3
+                },
+                {
+                    "name": "350-Sala ćwiczeniowa",
+                    "id": 474,
+                    "level": 3
+                },
+                {
+                    "name": "303-Biblioteka (magistranci, doktoranci)",
+                    "id": 475,
+                    "level": 3
+                },
+                {
+                    "name": "349-Pokój",
+                    "id": 476,
+                    "level": 3
+                },
+                {
+                    "name": "349A-Pokój-Kamila Twardowska, Joanna Magiera-Dulewicz",
+                    "id": 477,
+                    "level": 3
+                },
+                {
+                    "name": "348-Pomieszczenie techniczne",
+                    "id": 478,
+                    "level": 3
+                },
+                {
+                    "name": "347-Sala ćwiczeniowa",
+                    "id": 479,
+                    "level": 3
+                },
+                {
+                    "name": "346-Laboratorium - zakład fitopatolofii i myrkologii, zakład entomologii",
+                    "id": 480,
+                    "level": 3
+                },
+                {
+                    "name": "345-Toaleta męska",
+                    "id": 481,
+                    "level": 3
+                },
+                {
+                    "name": "344-Pomieszczenie porządkowe",
+                    "id": 482,
+                    "level": 3
+                },
+                {
+                    "name": "341-Laboratorium-Janina Jaworska",
+                    "id": 483,
+                    "level": 3
+                },
+                {
+                    "name": "340-Sala ćwiczeniowa",
+                    "id": 484,
+                    "level": 3
+                },
+                {
+                    "name": "343-Toaleta dla niepełnosprawnych",
+                    "id": 485,
+                    "level": 3
+                },
+                {
+                    "name": "342-Toaleta damska",
+                    "id": 486,
+                    "level": 3
+                },
+                {
+                    "name": "339-Biblioteka składzik",
+                    "id": 487,
+                    "level": 3
+                },
+                {
+                    "name": "337-Sala ćwiczeniowa",
+                    "id": 488,
+                    "level": 3
+                },
+                {
+                    "name": "335-Pokój-Katarzyna Wróblewska",
+                    "id": 489,
+                    "level": 3
+                },
+                {
+                    "name": "334-Pokój-Przemysław Babelewski, Regina Dębicz",
+                    "id": 490,
+                    "level": 3
+                },
+                {
+                    "name": "333-Sala seminaryjna",
+                    "id": 491,
+                    "level": 3
+                },
+                {
+                    "name": "315-Pokój",
+                    "id": 492,
+                    "level": 3
+                },
+                {
+                    "name": "316-Pomieszczenie pomocnicze czytelnia",
+                    "id": 493,
+                    "level": 3
+                },
+                {
+                    "name": "317-Pokój-Adam Szewczuk",
+                    "id": 494,
+                    "level": 3
+                },
+                {
+                    "name": "318-Pokój-Ireneusz Sosna",
+                    "id": 496,
+                    "level": 3
+                },
+                {
+                    "name": "319-Pokój-Ewelina Gudarowska",
+                    "id": 497,
+                    "level": 3
+                },
+                {
+                    "name": "320-Pokój-Maria Linczar-Małańczuk",
+                    "id": 498,
+                    "level": 3
+                },
+                {
+                    "name": "321-Pomieszczenie pomocnicze",
+                    "id": 499,
+                    "level": 3
+                },
+                {
+                    "name": "322-Pomieszczenie pomocnicze",
+                    "id": 500,
+                    "level": 3
+                },
+                {
+                    "name": "332-Pomieszczenie pomocnicze",
+                    "id": 501,
+                    "level": 3
+                },
+                {
+                    "name": "331-Pomieszczenie pomocnicze",
+                    "id": 502,
+                    "level": 3
+                },
+                {
+                    "name": "323-Pokój-Cecylia Uklańska-Pusz, Agnieszka Balbierz",
+                    "id": 503,
+                    "level": 3
+                },
+                {
+                    "name": "324-Pokój-Katarzyna Adamczewska-Sowińska",
+                    "id": 504,
+                    "level": 3
+                },
+                {
+                    "name": "325-Pokój-Jan Krężel",
+                    "id": 505,
+                    "level": 3
+                },
+                {
+                    "name": "326-Pokój-Piotr Chohura",
+                    "id": 506,
+                    "level": 3
+                },
+                {
+                    "name": "327-Pokój-Marta Czaplicka",
+                    "id": 507,
+                    "level": 3
+                },
+                {
+                    "name": "328-Sekretariat-Magdalena Rowińska",
+                    "id": 508,
+                    "level": 3
+                },
+                {
+                    "name": "329-Pokój-Anita Biesiada",
+                    "id": 509,
+                    "level": 3
+                },
+                {
+                    "name": "330-Pokój-Miron Lewandowski, Kacper Parypa",
+                    "id": 510,
+                    "level": 3
+                },
+                {
+                    "name": "314-Pokój-Jacek Twardowski",
+                    "id": 511,
+                    "level": 3
+                },
+                {
+                    "name": "313-Pokój-Zdzisław Klukowski",
+                    "id": 512,
+                    "level": 3
+                },
+                {
+                    "name": "312-Pokój-Iwona Gruss",
+                    "id": 513,
+                    "level": 3
+                },
+                {
+                    "name": "311B-Pokój",
+                    "id": 515,
+                    "level": 3
+                },
+                {
+                    "name": "311-Sekretariat-Bożena Nizio, Elżbieta Pląskowska",
+                    "id": 516,
+                    "level": 3
+                },
+                {
+                    "name": "308-Pokój-Krzysztof Matkowski",
+                    "id": 517,
+                    "level": 3
+                },
+                {
+                    "name": "307-Pokój-Michal Hurej",
+                    "id": 518,
+                    "level": 3
+                },
+                {
+                    "name": "306-Pokój-Agata Kaczmarek",
+                    "id": 519,
+                    "level": 3
+                },
+                {
+                    "name": "305-Pokój-Katarzyna Patejuk, Marta Jurga",
+                    "id": 520,
+                    "level": 3
+                },
+                {
+                    "name": "309-Pomieszczenie techniczne",
+                    "id": 522,
+                    "level": 3
+                },
+                {
+                    "name": "3-Hol",
+                    "id": 523,
+                    "level": 3
+                },
+                {
+                    "name": "455-Pomieszczenie socjalne",
+                    "id": 524,
+                    "level": 4
+                },
+                {
+                    "name": "425-Pokój-Małgorzata Krotowska, Aneta Lenart, Dorota Kowalik",
+                    "id": 525,
+                    "level": 4
+                },
+                {
+                    "name": "426-Pokój-Marek Stachowiak, Tomasz Szuk",
+                    "id": 526,
+                    "level": 4
+                },
+                {
+                    "name": "427-Pokój-Izabela Kurtyka-Marcak, Irena Kropsz-Wydra",
+                    "id": 527,
+                    "level": 4
+                },
+                {
+                    "name": "428-Pokój-Magdalena Raftowicz, Krzysztof Prymon, Agnieszka Krześ",
+                    "id": 528,
+                    "level": 4
+                },
+                {
+                    "name": "429-Pokój-Anna Kapała, Jakub Żurek",
+                    "id": 529,
+                    "level": 4
+                },
+                {
+                    "name": "430-Pokój-Tomasz Pilawka, Katarzyna Furdak",
+                    "id": 530,
+                    "level": 4
+                },
+                {
+                    "name": "431-Pokój-Hanna Adamska, Stanisław Minta",
+                    "id": 531,
+                    "level": 4
+                },
+                {
+                    "name": "432-Pokój-Krzysztof Rutkiewicz",
+                    "id": 532,
+                    "level": 4
+                },
+                {
+                    "name": "433-Pokój-Barbara Kurtkowska",
+                    "id": 533,
+                    "level": 4
+                },
+                {
+                    "name": "434-Pokój-Wojciech Majcher",
+                    "id": 534,
+                    "level": 4
+                },
+                {
+                    "name": "435-Pokój-Bożena Tańska-Hus",
+                    "id": 535,
+                    "level": 4
+                },
+                {
+                    "name": "436-Pokój-Magdalena Kalisiak-Mędelska",
+                    "id": 536,
+                    "level": 4
+                },
+                {
+                    "name": "437-Sala seminaryjna",
+                    "id": 537,
+                    "level": 4
+                },
+                {
+                    "name": "438-Pokój-Justyna Janowska-Biernat, Danuta Gonet",
+                    "id": 538,
+                    "level": 4
+                },
+                {
+                    "name": "439-Pokój-Monika Przybylska",
+                    "id": 539,
+                    "level": 4
+                },
+                {
+                    "name": "440-Sala seminaryjna",
+                    "id": 540,
+                    "level": 4
+                },
+                {
+                    "name": "441-Pomieszczenie socjalne",
+                    "id": 541,
+                    "level": 4
+                },
+                {
+                    "name": "442-Pomieszczenie pomocnicze",
+                    "id": 542,
+                    "level": 4
+                },
+                {
+                    "name": "443-Pracownia nasienia",
+                    "id": 543,
+                    "level": 4
+                },
+                {
+                    "name": "444-Sala ćwiczeń",
+                    "id": 544,
+                    "level": 4
+                },
+                {
+                    "name": "423-Pokój-Marta Preisner, Kamil Kostyn, Aleksandra Boba, Krzysztof Marczewski",
+                    "id": 545,
+                    "level": 4
+                },
+                {
+                    "name": "422-Pokój-Dariusz Zalewski, Bartosz Kozak",
+                    "id": 546,
+                    "level": 4
+                },
+                {
+                    "name": "445-Laboratorium",
+                    "id": 547,
+                    "level": 4
+                },
+                {
+                    "name": "421-Pokój socjalny",
+                    "id": 548,
+                    "level": 4
+                },
+                {
+                    "name": "446-Toaleta damska",
+                    "id": 549,
+                    "level": 4
+                },
+                {
+                    "name": "447-Toaleta dla niepełnosprawnych",
+                    "id": 550,
+                    "level": 4
+                },
+                {
+                    "name": "420-Pokój-Henry Bujak, Ewa Sawicka-Sienkiewicz",
+                    "id": 551,
+                    "level": 4
+                },
+                {
+                    "name": "419B-Pomieszczenie techniczne",
+                    "id": 552,
+                    "level": 4
+                },
+                {
+                    "name": "419-Sekretariat-Jolanta Górecka",
+                    "id": 553,
+                    "level": 4
+                },
+                {
+                    "name": "448-Pomieszczenie porządkowe",
+                    "id": 554,
+                    "level": 4
+                },
+                {
+                    "name": "418-Pokój-Sylwia Lewandowska, Sandra Rychel-Bielska",
+                    "id": 555,
+                    "level": 4
+                },
+                {
+                    "name": "449-Toaleta męska",
+                    "id": 556,
+                    "level": 4
+                },
+                {
+                    "name": "450-Pokój",
+                    "id": 557,
+                    "level": 4
+                },
+                {
+                    "name": "417-Pokój-Kamila Nowosad",
+                    "id": 558,
+                    "level": 4
+                },
+                {
+                    "name": "416-Pokój",
+                    "id": 559,
+                    "level": 4
+                },
+                {
+                    "name": "415-Pokój-Renata Galek",
+                    "id": 560,
+                    "level": 4
+                },
+                {
+                    "name": "451-Sala ćwiczeniowa",
+                    "id": 561,
+                    "level": 4
+                },
+                {
+                    "name": "452-Biblioteka",
+                    "id": 562,
+                    "level": 4
+                },
+                {
+                    "name": "453-Sala komputerowa",
+                    "id": 563,
+                    "level": 4
+                },
+                {
+                    "name": "454-Sala komputerowa",
+                    "id": 564,
+                    "level": 4
+                },
+                {
+                    "name": "401-Toaleta męska",
+                    "id": 565,
+                    "level": 4
+                },
+                {
+                    "name": "402-Toaleta damska",
+                    "id": 566,
+                    "level": 4
+                },
+                {
+                    "name": "403-Pokój-Magalena Bednik, Michal Dudek, Mateusz Krupski",
+                    "id": 567,
+                    "level": 4
+                },
+                {
+                    "name": "403A-Sala zajęciowa",
+                    "id": 568,
+                    "level": 4
+                },
+                {
+                    "name": "404-Pokój-Marta Buzar, Tadeusz Czuj, Agnieszka Łacka, Alicja Trybuła",
+                    "id": 569,
+                    "level": 4
+                },
+                {
+                    "name": "405-Sala wykładowa",
+                    "id": 570,
+                    "level": 4
+                },
+                {
+                    "name": "405A-Centrum Zasobów i Wsparcia Dydaktyki-Joanna Markowska",
+                    "id": 571,
+                    "level": 4
+                },
+                {
+                    "name": "406-Pokój-Jacek Markowski, Joanna Borowiec-Jaskólska, Monika Brząkała, Marta Burdzy, Artur Majchrzak, Kamila Pawłowska",
+                    "id": 572,
+                    "level": 4
+                },
+                {
+                    "name": "407-Biuro Karier",
+                    "id": 573,
+                    "level": 4
+                },
+                {
+                    "name": "408-Sala konferencyjna",
+                    "id": 574,
+                    "level": 4
+                },
+                {
+                    "name": "409-Pomieszczenie techniczne",
+                    "id": 575,
+                    "level": 4
+                },
+                {
+                    "name": "410-Pokój-Łukasz Baszkiewicz",
+                    "id": 576,
+                    "level": 4
+                },
+                {
+                    "name": "411-Pokój-Patrycja Krzemieniec",
+                    "id": 577,
+                    "level": 4
+                },
+                {
+                    "name": "412-Pokój-Jan Kaczmarek",
+                    "id": 578,
+                    "level": 4
+                },
+                {
+                    "name": "413-Konsultacje",
+                    "id": 579,
+                    "level": 4
+                },
+                {
+                    "name": "414-Sala ćwiczeniowa",
+                    "id": 580,
+                    "level": 4
+                },
+                {
+                    "name": "414A-Pomieszczenie pomocnicze",
+                    "id": 581,
+                    "level": 4
+                },
+                {
+                    "name": "4-Hol",
+                    "id": 582,
+                    "level": 4
+                },
+                {
+                    "name": "501-Wentylatoria",
+                    "id": 583,
+                    "level": 5
+                },
+                {
+                    "name": "502-Toaleta męska",
+                    "id": 584,
+                    "level": 5
+                },
+                {
+                    "name": "503-Toaleta damska",
+                    "id": 585,
+                    "level": 5
+                },
+                {
+                    "name": "514-Pomieszczenie porządkowe",
+                    "id": 586,
+                    "level": 5
+                },
+                {
+                    "name": "513-Biuro karier",
+                    "id": 587,
+                    "level": 5
+                },
+                {
+                    "name": "504-Pokój-Kamila Twardowska",
+                    "id": 588,
+                    "level": 5
+                },
+                {
+                    "name": "505-Pokój-Wojciech Pusz",
+                    "id": 589,
+                    "level": 5
+                },
+                {
+                    "name": "506-Biblioteka zakładu entymologii rolniczej pokój socjalny",
+                    "id": 590,
+                    "level": 5
+                },
+                {
+                    "name": "507-Sala ćwiczeniowa",
+                    "id": 591,
+                    "level": 5
+                },
+                {
+                    "name": "508-Sala ćwiczeniowa",
+                    "id": 592,
+                    "level": 5
+                },
+                {
+                    "name": "509-Biblioteka",
+                    "id": 593,
+                    "level": 5
+                },
+                {
+                    "name": "510-Pokój-Anna Karczewska",
+                    "id": 594,
+                    "level": 5
+                },
+                {
+                    "name": "511-Pomieszczenie techniczne",
+                    "id": 595,
+                    "level": 5
+                },
+                {
+                    "name": "512-Pokój-Bernard Gałka",
+                    "id": 596,
+                    "level": 5
+                },
+                {
+                    "name": "5-Hol",
+                    "id": 597,
+                    "level": 5
+                }
             ]
         },
         {
             "C4": [
-
+                {
+                    "name": "Toaleta damska",
+                    "id": 598,
+                    "level": -1
+                },
+                {
+                    "name": "Toaleta męska",
+                    "id": 599,
+                    "level": -1
+                },
+                {
+                    "name": "IM-Sala wykładowa",
+                    "id": 601,
+                    "level": 0
+                },
+                {
+                    "name": "Laboratorium Wodne",
+                    "id": 602,
+                    "level": 0
+                },
+                {
+                    "name": "Laboratorium Wodne",
+                    "id": 603,
+                    "level": 0
+                },
+                {
+                    "name": "IIG-Sala wykładowa",
+                    "id": 604,
+                    "level": 0
+                },
+                {
+                    "name": "IIM-Sala wykładowa",
+                    "id": 605,
+                    "level": 0
+                },
+                {
+                    "name": "Kierownik rejonu-Ewa Mrożek",
+                    "id": 606,
+                    "level": 0
+                },
+                {
+                    "name": "IG-Sala wykładowa",
+                    "id": 607,
+                    "level": 0
+                },
+                {
+                    "name": "7M/7MA Pracownia Kamienia-Laboratorium",
+                    "id": 608,
+                    "level": 0
+                },
+                {
+                    "name": "IIIM-Laboratorium",
+                    "id": 609,
+                    "level": 0
+                },
+                {
+                    "name": "Magazyn",
+                    "id": 610,
+                    "level": 0
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 612,
+                    "level": 0
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 613,
+                    "level": 0
+                },
+                {
+                    "name": "Centrum zasobów i wsparcia dydaktyki - sekcja wsparcia projektowego",
+                    "id": 618,
+                    "level": 0
+                }
             ]
         },
         {
             "C5 GEOINFOHYDRO": [
-
-            ]
-        },
-        {
-            "SJO": [
-
-            ]
-        },
-        {
-            "A2 REKTORAT": [
-
-            ]
-        },
-        {
-            "A3 WETERYNARIA": [
-
+                {
+                    "name": "0.14h-Zaplecze labolatoriów",
+                    "id": 622,
+                    "level": -1
+                },
+                {
+                    "name": "0.15h-Labolatorium geodezyjne",
+                    "id": 623,
+                    "level": -1
+                },
+                {
+                    "name": "0.19h-Pomieszczenie techniczne",
+                    "id": 624,
+                    "level": -1
+                },
+                {
+                    "name": "0.17h-Rozdzielnia",
+                    "id": 625,
+                    "level": -1
+                },
+                {
+                    "name": "0.18h-Pomieszczenie techniczne",
+                    "id": 626,
+                    "level": -1
+                },
+                {
+                    "name": "0.12h-Toaleta dla niepełnosprawnych",
+                    "id": 627,
+                    "level": -1
+                },
+                {
+                    "name": "0.29h-Punkt dystrybucyjny",
+                    "id": 628,
+                    "level": -1
+                },
+                {
+                    "name": "0.36h-Pomieszczenie techniczne",
+                    "id": 629,
+                    "level": -1
+                },
+                {
+                    "name": "0.11h-Pokój",
+                    "id": 630,
+                    "level": -1
+                },
+                {
+                    "name": "0.21h-Toaleta damska",
+                    "id": 631,
+                    "level": -1
+                },
+                {
+                    "name": "0.20h-Toaleta męska",
+                    "id": 632,
+                    "level": -1
+                },
+                {
+                    "name": "0.22h-Węzeł sanitarny dla labolatorium",
+                    "id": 633,
+                    "level": -1
+                },
+                {
+                    "name": "0.23bh-Labolatorium badań geotechnicznych 6",
+                    "id": 634,
+                    "level": -1
+                },
+                {
+                    "name": "0.23ah-Labolatorium badań geotechnicznych 5",
+                    "id": 635,
+                    "level": -1
+                },
+                {
+                    "name": "0.25h-Pomieszczenie wezła ciepłowniczego",
+                    "id": 636,
+                    "level": -1
+                },
+                {
+                    "name": "0.26h-Pomieszczenie techniczne",
+                    "id": 637,
+                    "level": -1
+                },
+                {
+                    "name": "0.28h-Pomieszczenie techniczne",
+                    "id": 638,
+                    "level": -1
+                },
+                {
+                    "name": "0.27h-Pomieszczenie techniczne",
+                    "id": 639,
+                    "level": -1
+                },
+                {
+                    "name": "0.09h-Pokój przygotowań i magazyn próbek",
+                    "id": 640,
+                    "level": -1
+                },
+                {
+                    "name": "0.10ah-Labolatorium badań geotechnicznych 1",
+                    "id": 641,
+                    "level": -1
+                },
+                {
+                    "name": "0.10bh-Labolatorium badań geotechnicznych 2",
+                    "id": 642,
+                    "level": -1
+                },
+                {
+                    "name": "0.10ch-Labolatorium badań geotechnicznych 3",
+                    "id": 643,
+                    "level": -1
+                },
+                {
+                    "name": "0.10dh-Labolatorium badań geotechnicznych 4",
+                    "id": 644,
+                    "level": -1
+                },
+                {
+                    "name": "0-Hol",
+                    "id": 650,
+                    "level": -1
+                },
+                {
+                    "name": "1.12h-Pomieszczenie gospodarcze",
+                    "id": 653,
+                    "level": 0
+                },
+                {
+                    "name": "1.11h-Pomieszczenie ochrony",
+                    "id": 655,
+                    "level": 0
+                },
+                {
+                    "name": "1.25h-Punkt dystrybucyjny",
+                    "id": 656,
+                    "level": 0
+                },
+                {
+                    "name": "1.10h-Sala",
+                    "id": 657,
+                    "level": 0
+                },
+                {
+                    "name": "1.13h-Toaleta damska",
+                    "id": 658,
+                    "level": 0
+                },
+                {
+                    "name": "1.14h-Toaleta męska",
+                    "id": 659,
+                    "level": 0
+                },
+                {
+                    "name": "1.15h-Pomieszczenie gospodarcze",
+                    "id": 660,
+                    "level": 0
+                },
+                {
+                    "name": "1.16h-Toaleta dla niepełnosprawnych",
+                    "id": 661,
+                    "level": 0
+                },
+                {
+                    "name": "1.17h-Archiwum dziekanatu",
+                    "id": 662,
+                    "level": 0
+                },
+                {
+                    "name": "1.18h-Archiwum dziekanatu",
+                    "id": 663,
+                    "level": 0
+                },
+                {
+                    "name": "1.09h-Dziekanat wydziału inżynierii kształtownia środowiska i geodezji",
+                    "id": 664,
+                    "level": 0
+                },
+                {
+                    "name": "1.08h-Gabinet",
+                    "id": 665,
+                    "level": 0
+                },
+                {
+                    "name": "1.07h-Gabinet-Iwona Wenda-Zając",
+                    "id": 666,
+                    "level": 0
+                },
+                {
+                    "name": "1.06h-Gabinet-bernard kontny",
+                    "id": 667,
+                    "level": 0
+                },
+                {
+                    "name": "1.23h-Pomieszczenie gospodarcze",
+                    "id": 668,
+                    "level": 0
+                },
+                {
+                    "name": "1.22h-Gabinet-robert głowski, piotr gołuch",
+                    "id": 669,
+                    "level": 0
+                },
+                {
+                    "name": "1.21h-Gabinet-beata raszka, renata gubańska",
+                    "id": 670,
+                    "level": 0
+                },
+                {
+                    "name": "1.20h-Sala konferencyjna",
+                    "id": 671,
+                    "level": 0
+                },
+                {
+                    "name": "1-Hol",
+                    "id": 675,
+                    "level": 0
+                },
+                {
+                    "name": "2.20h-Serwerownia",
+                    "id": 682,
+                    "level": 1
+                },
+                {
+                    "name": "2.19h-Gabinet-grzegorz chrobak, małgorzata świąder",
+                    "id": 683,
+                    "level": 1
+                },
+                {
+                    "name": "2.18h-Gabinet-beata raszka",
+                    "id": 684,
+                    "level": 1
+                },
+                {
+                    "name": "2.17h-Gabinet-rengin aslnoglu, iwona kaczmarek, maciej zathey",
+                    "id": 685,
+                    "level": 1
+                },
+                {
+                    "name": "2.16h-Gabinet-halina dzieżyc, piotr kunicki",
+                    "id": 686,
+                    "level": 1
+                },
+                {
+                    "name": "2.15h-Gabinet",
+                    "id": 687,
+                    "level": 1
+                },
+                {
+                    "name": "2.14h-Gabinet-marek furmankiewicz",
+                    "id": 688,
+                    "level": 1
+                },
+                {
+                    "name": "2.13h-Gabinet-piotr krajewski",
+                    "id": 689,
+                    "level": 1
+                },
+                {
+                    "name": "2.12h-Gabinet-jan kazak",
+                    "id": 690,
+                    "level": 1
+                },
+                {
+                    "name": "2.11h-Sekretariat-mariola kunicka",
+                    "id": 691,
+                    "level": 1
+                },
+                {
+                    "name": "2.10h-Gabinet-Szymon Szewrański",
+                    "id": 692,
+                    "level": 1
+                },
+                {
+                    "name": "2.31h-Punkt dystrybucyjny",
+                    "id": 693,
+                    "level": 1
+                },
+                {
+                    "name": "2.08h-Pokój socjalny",
+                    "id": 694,
+                    "level": 1
+                },
+                {
+                    "name": "2.09h-Toaleta dla niepełnosprawnych",
+                    "id": 695,
+                    "level": 1
+                },
+                {
+                    "name": "2.06h-Gabinet-aleksander drobny, joanna lipsa",
+                    "id": 696,
+                    "level": 1
+                },
+                {
+                    "name": "2.07h-Gabinet-olgierd kempa, tomasz szuszkiewicz",
+                    "id": 697,
+                    "level": 1
+                },
+                {
+                    "name": "2.05h-Labolatorium komputerowe katastru",
+                    "id": 698,
+                    "level": 1
+                },
+                {
+                    "name": "2.04h-Labolatorium budownictwa i infrastruktury",
+                    "id": 699,
+                    "level": 1
+                },
+                {
+                    "name": "2.28h-Pracownia projektowa gospodarki przestrzennej",
+                    "id": 700,
+                    "level": 1
+                },
+                {
+                    "name": "2.27h-Labolatorium komputerowe projektowania krajobrazu",
+                    "id": 701,
+                    "level": 1
+                },
+                {
+                    "name": "2.26h-Toaleta męska",
+                    "id": 702,
+                    "level": 1
+                },
+                {
+                    "name": "2.25h-Toaleta damska",
+                    "id": 703,
+                    "level": 1
+                },
+                {
+                    "name": "2.24h-Gabinet-monika lebiedzińska, aleksandra lubańska, sandra nawrocka, marta sawras",
+                    "id": 704,
+                    "level": 1
+                },
+                {
+                    "name": "2.23h-Gabinet-iga kołodyńska, marta sylla",
+                    "id": 705,
+                    "level": 1
+                },
+                {
+                    "name": "2.29h-Pomieszczenie gospodarcze",
+                    "id": 706,
+                    "level": 1
+                },
+                {
+                    "name": "2-Hol",
+                    "id": 709,
+                    "level": 1
+                },
+                {
+                    "name": "2.21h-Sala wykładowa",
+                    "id": 713,
+                    "level": 1
+                },
+                {
+                    "name": "3.19h-Labolatorium specjalistyczne inżynierii bezpieczeństwa 1",
+                    "id": 714,
+                    "level": 2
+                },
+                {
+                    "name": "3.18h-Gabinet-marian kuchniarz",
+                    "id": 715,
+                    "level": 2
+                },
+                {
+                    "name": "3.17h-Gabinet-Barbara Mastalska-Cetera",
+                    "id": 716,
+                    "level": 2
+                },
+                {
+                    "name": "3.16h-Gabinet-Paweł Swianiewicz",
+                    "id": 717,
+                    "level": 2
+                },
+                {
+                    "name": "3.15h-Gabinet-tomasz malczyk",
+                    "id": 718,
+                    "level": 2
+                },
+                {
+                    "name": "3.14h-Centrum modelowania procesów hydrologicznych",
+                    "id": 719,
+                    "level": 2
+                },
+                {
+                    "name": "3.13h-Toaleta męska",
+                    "id": 720,
+                    "level": 2
+                },
+                {
+                    "name": "3.12h-Toaleta damska",
+                    "id": 721,
+                    "level": 2
+                },
+                {
+                    "name": "3.11h-Pracownia inżynierii ekologicznej",
+                    "id": 722,
+                    "level": 2
+                },
+                {
+                    "name": "3.10h-Pracownia inżynierii ekologicznej",
+                    "id": 723,
+                    "level": 2
+                },
+                {
+                    "name": "3.09h-Gabinet-robert kalabarczyk",
+                    "id": 724,
+                    "level": 2
+                },
+                {
+                    "name": "3.08h-Pokój socjalny biblioteki i czytelni",
+                    "id": 725,
+                    "level": 2
+                },
+                {
+                    "name": "3.07h-Bibliotek i czytelnia",
+                    "id": 726,
+                    "level": 2
+                },
+                {
+                    "name": "3.06h-Gabinet-katarzyna tokarczyk-dorociak, marcin sobota",
+                    "id": 727,
+                    "level": 2
+                },
+                {
+                    "name": "3.05h-Gabinet-monika ziemiańska, oleksandra strashok",
+                    "id": 728,
+                    "level": 2
+                },
+                {
+                    "name": "3.04h-Gabinet-karolina zalewska kamila pawlowska joanna dobrzanska",
+                    "id": 729,
+                    "level": 2
+                },
+                {
+                    "name": "3.03-Gabinet-justyna jaworek, łukasz pardela",
+                    "id": 730,
+                    "level": 2
+                },
+                {
+                    "name": "3.31h-Pokój socjalny pracowników",
+                    "id": 731,
+                    "level": 2
+                },
+                {
+                    "name": "3.34-Punkt dystrybucyjny",
+                    "id": 732,
+                    "level": 2
+                },
+                {
+                    "name": "3.32h-Toaleta dla niepełnosprawnych",
+                    "id": 733,
+                    "level": 2
+                },
+                {
+                    "name": "3.30h-Labolatorium specjalistyczne inżynierii bezpieczeństwa",
+                    "id": 734,
+                    "level": 2
+                },
+                {
+                    "name": "3.29h-Gabinet-eleonora gonda-soroczyńska, tadeusz lasota",
+                    "id": 735,
+                    "level": 2
+                },
+                {
+                    "name": "3.28h-Gabinet-monika płuciennik, katarzyna przybyła",
+                    "id": 736,
+                    "level": 2
+                },
+                {
+                    "name": "3.27h-Gabinet-Jakub Szczepański",
+                    "id": 737,
+                    "level": 2
+                },
+                {
+                    "name": "3.26h-Gabinet-zofia więckowicz, agnieszka stacherzak",
+                    "id": 738,
+                    "level": 2
+                },
+                {
+                    "name": "3.25h-Gabinet-Alina Kulczyk-Dynowska",
+                    "id": 739,
+                    "level": 2
+                },
+                {
+                    "name": "3.24h-Gabinet-zbigniew piepiora",
+                    "id": 740,
+                    "level": 2
+                },
+                {
+                    "name": "3.22h-Gabinet- Maria Hełdak",
+                    "id": 741,
+                    "level": 2
+                },
+                {
+                    "name": "3.23h-Biblioteka",
+                    "id": 742,
+                    "level": 2
+                },
+                {
+                    "name": "3.21h-Pokój doktorantów",
+                    "id": 743,
+                    "level": 2
+                },
+                {
+                    "name": "3.20h-Pomieszczenie gospodarcze",
+                    "id": 744,
+                    "level": 2
+                },
+                {
+                    "name": "3.33h-Sala seminaryjna",
+                    "id": 746,
+                    "level": 2
+                },
+                {
+                    "name": "3-Hol",
+                    "id": 748,
+                    "level": 2
+                },
+                {
+                    "name": "4.15h-Pomieszczenie gospodarcze",
+                    "id": 750,
+                    "level": 3
+                },
+                {
+                    "name": "4.16h-Sekretariat katedry architektury krajobrazu-jolanta just-maruszewska, beata kwiecień",
+                    "id": 751,
+                    "level": 3
+                },
+                {
+                    "name": "4.17h-Magazyn",
+                    "id": 752,
+                    "level": 3
+                },
+                {
+                    "name": "4.18h-Gabinet",
+                    "id": 753,
+                    "level": 3
+                },
+                {
+                    "name": "4.19h-Gabinet-Bartosz Jawecki",
+                    "id": 754,
+                    "level": 3
+                },
+                {
+                    "name": "4.20h-Gabinet-marek lorenc",
+                    "id": 755,
+                    "level": 3
+                },
+                {
+                    "name": "4.21h-Gabinet-justyna rubaszek",
+                    "id": 756,
+                    "level": 3
+                },
+                {
+                    "name": "4.22h-Gabinet-aleksandra lis",
+                    "id": 757,
+                    "level": 3
+                },
+                {
+                    "name": "4.23h-Gabinet-maciej filipiak",
+                    "id": 758,
+                    "level": 3
+                },
+                {
+                    "name": "4.24h-Gabinet-Jerzy Potyrała",
+                    "id": 759,
+                    "level": 3
+                },
+                {
+                    "name": "4.25h-Toaleta dla niepełnosprawnych",
+                    "id": 760,
+                    "level": 3
+                },
+                {
+                    "name": "4.26h-Punkt dystrybucyjny",
+                    "id": 761,
+                    "level": 3
+                },
+                {
+                    "name": "4.03h-Pokój socjalny pracowników",
+                    "id": 762,
+                    "level": 3
+                },
+                {
+                    "name": "4.04h-Gabinet-kornelia kwiecińska, elżbieta szopińska",
+                    "id": 763,
+                    "level": 3
+                },
+                {
+                    "name": "4.05h-Gabinet-Renata Gubańska",
+                    "id": 764,
+                    "level": 3
+                },
+                {
+                    "name": "4.06h-Gabinet-jacek brudziński, janusz gubański",
+                    "id": 765,
+                    "level": 3
+                },
+                {
+                    "name": "4.07h-Pracownia plastyczna",
+                    "id": 766,
+                    "level": 3
+                },
+                {
+                    "name": "4.07ah-Magazyn pracowni plastycznej 1",
+                    "id": 767,
+                    "level": 3
+                },
+                {
+                    "name": "4.07bh-Magazyn pracowni plastycznej 2",
+                    "id": 768,
+                    "level": 3
+                },
+                {
+                    "name": "4.08h-Gabinet-ewa podhajska, magdalena zienowicz",
+                    "id": 769,
+                    "level": 3
+                },
+                {
+                    "name": "4.09h-Gabinet-Irena Niedźwiecka-Filipiak",
+                    "id": 770,
+                    "level": 3
+                },
+                {
+                    "name": "4.10h-Pokój gościnny-anna borcz",
+                    "id": 771,
+                    "level": 3
+                },
+                {
+                    "name": "4.11h-Toaleta damska",
+                    "id": 772,
+                    "level": 3
+                },
+                {
+                    "name": "4.12h-Toaleta męska",
+                    "id": 773,
+                    "level": 3
+                },
+                {
+                    "name": "4.13h-Labolatorium szaty roślinnej",
+                    "id": 774,
+                    "level": 3
+                },
+                {
+                    "name": "4.14h-Labolatorium światła i fotografii",
+                    "id": 775,
+                    "level": 3
+                },
+                {
+                    "name": "4-Hol",
+                    "id": 779,
+                    "level": 3
+                },
+                {
+                    "name": "5.04-Pomieszczenie socjalne studentów",
+                    "id": 780,
+                    "level": 4
+                },
+                {
+                    "name": "5.03h-Pracownia audiosfery i akustyki środowiska",
+                    "id": 781,
+                    "level": 4
+                },
+                {
+                    "name": "5.02h-Sala indywidualnej pracy studentów",
+                    "id": 782,
+                    "level": 4
+                },
+                {
+                    "name": "5.05h-Pokój socjalny pracowniczy",
+                    "id": 783,
+                    "level": 4
+                },
+                {
+                    "name": "5.14h-Punkt dystrybucyjny",
+                    "id": 784,
+                    "level": 4
+                },
+                {
+                    "name": "5.06h-Toaleta dla niepełnosprawnych",
+                    "id": 785,
+                    "level": 4
+                },
+                {
+                    "name": "5.07h-Toaleta damska",
+                    "id": 786,
+                    "level": 4
+                },
+                {
+                    "name": "5.08h-Toaleta męska",
+                    "id": 787,
+                    "level": 4
+                },
+                {
+                    "name": "5.13h-Zaplecze labolatorium i pokój badań biochemicznych",
+                    "id": 788,
+                    "level": 4
+                },
+                {
+                    "name": "5.11h-Pomieszczenie gospodarcze",
+                    "id": 789,
+                    "level": 4
+                },
+                {
+                    "name": "5.10eh-Pokój chromatografii",
+                    "id": 790,
+                    "level": 4
+                },
+                {
+                    "name": "5.09h-Pomieszczenie sanitarne",
+                    "id": 791,
+                    "level": 4
+                },
+                {
+                    "name": "5.10ch-Pokój icp",
+                    "id": 792,
+                    "level": 4
+                },
+                {
+                    "name": "5.10fh-Pokój przechowywania",
+                    "id": 793,
+                    "level": 4
+                },
+                {
+                    "name": "5.10bh-Pokój wagowy",
+                    "id": 794,
+                    "level": 4
+                },
+                {
+                    "name": "5-Hol",
+                    "id": 798,
+                    "level": 4
+                },
+                {
+                    "name": "5.10h-Centralne wydziałowe labolatorium badań środowiskowych",
+                    "id": 800,
+                    "level": 4
+                }
             ]
         }
     ],
     "buildingsPathing": [
         {
-            "C2 MELIORACJA": [
-
-            ]
+            "C2 MELIORACJA": []
         },
         {
-            "C3 CENTRUM DYDAKTYCZNO NAUKOWE (AKWARIUM :D)": [
-
-            ]
+            "C3 CENTRUM DYDAKTYCZNO NAUKOWE (AKWARIUM :D)": []
         },
         {
-            "C5 GEOINFOHYDRO": [
-
-            ]
+            "C5 GEOINFOHYDRO": []
         },
         {
-            "SJO": [
-
-            ]
+            "SJO": []
         },
         {
-            "A2 REKTORAT": [
-
-            ]
+            "A2 REKTORAT": []
         },
         {
-            "A3 WETERYNARIA": [
-
-            ]
+            "A3 WETERYNARIA": []
         }
-    ] 
+    ]
 }

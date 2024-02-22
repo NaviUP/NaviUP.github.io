@@ -21,7 +21,7 @@ i18n
         translation: {
           flipData: {
             text: 'To display the model correctly, rotate your phone',
-            img: 'src/images/flip.png',
+            img: './images/flip.png',
           },
           aboutData: {
             title: 'About Us',
@@ -95,19 +95,19 @@ i18n
             },
             konkursLink: 'https://upwr.edu.pl/studia/studencka-aktywnosc/studenckie-projekty-badawcze/projekty-badawcze-skn/zwyciezcy-iv-edycji-2022',
             konkursText: 'Competition results (website in Polish)',
-            image: 'src/images/upwr-logotyp-pl-poziomy.png',
+            image: './images/upwr-logotyp-pl-poziomy.png',
           },
           mainData: {
             whereAreYou: 'Where are you?',
             person1: 'Person',
             room1: 'Room',
             building1: 'Building',
-            description1: 'I am at/in e.g. Kaczmarek Adrian, 202',
+            description1: 'I am at/in e.g. Kaczmarek Adrian, 302',
             whereAreYouGoing: 'What are you looking for?',
             person2: 'Person',
             room2: 'Room',
             building2: 'Building',
-            description2: 'I search e.g. Kaczmarek Adrian, 202',
+            description2: 'I search e.g. Kaczmarek Adrian, 302',
             search: 'Find path'
           },
           pageContentData: {
@@ -161,7 +161,7 @@ i18n
         translation: {
           flipData: {
             text: 'Aby poprawnie wyświetlić model obróć telefon',
-            img: 'src/images/flip.png',
+            img: './images/flip.png',
           },
           aboutData: {
             title: 'O nas',
@@ -235,19 +235,19 @@ i18n
             },
             konkursLink: 'https://upwr.edu.pl/studia/studencka-aktywnosc/studenckie-projekty-badawcze/projekty-badawcze-skn/zwyciezcy-iv-edycji-2022',
             konkursText: 'Wyniki konkursu',
-            image: 'src/images/upwr-logotyp-pl-poziomy.png',
+            image: './images/upwr-logotyp-pl-poziomy.png',
           },
           mainData: {
             whereAreYou: 'Gdzie jesteś?',
             person1: 'Osoba',
             room1: 'Pomieszczenie',
             building1: 'Budynek',
-            description1: 'Jestem u/w np. Kaczmarek Adrian, 202',
+            description1: 'Jestem u/w np. Kaczmarek Adrian, 302',
             whereAreYouGoing: 'Czego szukasz?',
             person2: 'Osoby',
             room2: 'Pomieszczenia',
             building2: 'Budynku',
-            description2: 'Szukam np. Kaczmarek Adrian, 202',
+            description2: 'Szukam np. Kaczmarek Adrian, 302',
             search: 'Szukaj drogi'
           },
           pageContentData: {

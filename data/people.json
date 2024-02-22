@@ -7,14 +7,8 @@
             "build": "C1"
         },
         {
-            "name": "Biegalski Jerzy",
-            "id": 87,
-            "level": 2,
-            "build": "C1"
-        },
-        {
             "name": "Bogusławski Paweł",
-            "id": 81,
+            "id": 128,
             "level": 2,
             "build": "C1",
             "description": {
@@ -25,20 +19,8 @@
             }
         },
         {
-            "name": "Bosy Jarosław",
-            "id": 103,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "Prof. dr hab. inż. Jarosław Bosy",
-                "email": "jaroslaw.bosy@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
             "name": "Bury Grzegorz",
-            "id": 112,
+            "id": 145,
             "level": 3,
             "build": "C1",
             "description": {
@@ -50,7 +32,7 @@
         },
         {
             "name": "Cegła Adam",
-            "id": 61,
+            "id": 66,
             "level": 1,
             "build": "C1",
             "description": {
@@ -62,8 +44,8 @@
         },
         {
             "name": "Ćmielewski Kazimierz",
-            "id": 39,
-            "level": 0,
+            "id": 6,
+            "level": -1,
             "build": "C1",
             "description": {
                 "title": "dr hab. inż. Kazimierz Ćmielewski, profesor uczelni",
@@ -74,7 +56,7 @@
         },
         {
             "name": "Dach Wojciech",
-            "id": 57,
+            "id": 72,
             "level": 1,
             "build": "C1",
             "description": {
@@ -86,13 +68,13 @@
         },
         {
             "name": "Drożdżewski Mateusz",
-            "id": 114,
+            "id": 139,
             "level": 3,
             "build": "C1"
         },
         {
             "name": "Dzikowska Teresa",
-            "id": 62,
+            "id": 68,
             "level": 1,
             "build": "C1",
             "description": {
@@ -104,7 +86,7 @@
         },
         {
             "name": "Gałdyn Filip",
-            "id": 115,
+            "id": 150,
             "level": 3,
             "build": "C1",
             "description": {
@@ -116,7 +98,7 @@
         },
         {
             "name": "Gołuch Piotr",
-            "id": 40,
+            "id": 54,
             "level": 0,
             "build": "C1",
             "description": {
@@ -128,7 +110,7 @@
         },
         {
             "name": "Hadaś Edyta",
-            "id": 85,
+            "id": 131,
             "level": 2,
             "build": "C1",
             "description": {
@@ -140,7 +122,7 @@
         },
         {
             "name": "Hadaś Tomasz",
-            "id": 104,
+            "id": 152,
             "level": 3,
             "build": "C1",
             "description": {
@@ -152,7 +134,7 @@
         },
         {
             "name": "Hordyniec Barbara",
-            "id": 60,
+            "id": 70,
             "level": 1,
             "build": "C1",
             "description": {
@@ -164,7 +146,7 @@
         },
         {
             "name": "Hordyniec Paweł",
-            "id": 59,
+            "id": 74,
             "level": 1,
             "build": "C1",
             "description": {
@@ -176,7 +158,7 @@
         },
         {
             "name": "Ilieva Maya",
-            "id": 88,
+            "id": 130,
             "level": 2,
             "build": "C1",
             "description": {
@@ -188,7 +170,7 @@
         },
         {
             "name": "Iwaniak Adam",
-            "id": 80,
+            "id": 125,
             "level": 2,
             "build": "C1",
             "description": {
@@ -200,7 +182,7 @@
         },
         {
             "name": "Jamroz Olgierd",
-            "id": 87,
+            "id": 133,
             "level": 2,
             "build": "C1",
             "description": {
@@ -211,20 +193,8 @@
             }
         },
         {
-            "name": "Jarząbek-Rychard Małgorzata",
-            "id": 84,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Małgorzata Jarząbek-Rychard",
-                "email": "malgorzata.jarzabek-rychard@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
             "name": "Jóźków Grzegorz",
-            "id": 78,
+            "id": 124,
             "level": 2,
             "build": "C1",
             "description": {
@@ -236,19 +206,19 @@
         },
         {
             "name": "Kaczmarek Adrian",
-            "id": 114,
+            "id": 139,
             "level": 3,
             "build": "C1",
             "description": {
                 "title": "dr inż. Adrian Kaczmarek",
                 "email": "adrian.kaczmarek@upwr.edu.pl",
-                "institute":"Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
                 "build": "C1"
             }
         },
         {
             "name": "Kapłon Jan",
-            "id": 107,
+            "id": 142,
             "level": 3,
             "build": "C1",
             "description": {
@@ -260,38 +230,26 @@
         },
         {
             "name": "Karpina Mateusz",
-            "id": 37,
+            "id": 50,
             "level": 0,
             "build": "C1"
         },
         {
             "name": "Kaźmierski Kamil",
-            "id": 113,
+            "id": 138,
             "level": 3,
             "build": "C1",
             "description": {
                 "title": "dr inż. Kamil Kaźmierski",
                 "email": "kamil.kazmierski@upwr.edu.pl",
-                "institute":"Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Kontny Bernard",
-            "id": 89,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "Prof. dr hab. inż. Bernard Kontny",
-                "email": "bernard.kontny@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
                 "build": "C1"
             }
         },
         {
             "name": "Kuchmister Janusz",
-            "id": 39,
-            "level": 0,
+            "id": 8,
+            "level": -1,
             "build": "C1",
             "description": {
                 "title": "dr inż. Janusz Kuchmister",
@@ -302,7 +260,7 @@
         },
         {
             "name": "Marut Grzegorz",
-            "id": 113,
+            "id": 138,
             "level": 3,
             "build": "C1",
             "description": {
@@ -314,7 +272,7 @@
         },
         {
             "name": "Mehdi Saqib",
-            "id": 63,
+            "id": 67,
             "level": 1,
             "build": "C1",
             "description": {
@@ -326,7 +284,7 @@
         },
         {
             "name": "Michalski Adam",
-            "id": 86,
+            "id": 132,
             "level": 2,
             "build": "C1",
             "description": {
@@ -338,7 +296,7 @@
         },
         {
             "name": "Mikoś Marcin",
-            "id": 115,
+            "id": 150,
             "level": 3,
             "build": "C1",
             "description": {
@@ -350,7 +308,7 @@
         },
         {
             "name": "Najder Joanna",
-            "id": 112,
+            "id": 145,
             "level": 3,
             "build": "C1",
             "description": {
@@ -362,7 +320,7 @@
         },
         {
             "name": "Owczarek-Wesołowska Magdalena",
-            "id": 54,
+            "id": 76,
             "level": 1,
             "build": "C1",
             "description": {
@@ -374,7 +332,7 @@
         },
         {
             "name": "Pawłuszek-Filipiak Kamila",
-            "id": 84,
+            "id": 129,
             "level": 2,
             "build": "C1",
             "description": {
@@ -386,7 +344,7 @@
         },
         {
             "name": "Piotrowicz Michał",
-            "id": 87,
+            "id": 132,
             "level": 2,
             "build": "C1",
             "description": {
@@ -398,7 +356,7 @@
         },
         {
             "name": "Porucznik Sylwia",
-            "id": 62,
+            "id": 68,
             "level": 1,
             "build": "C1",
             "description": {
@@ -410,7 +368,7 @@
         },
         {
             "name": "Rohm Witold",
-            "id": 58,
+            "id": 73,
             "level": 1,
             "build": "C1",
             "description": {
@@ -422,7 +380,7 @@
         },
         {
             "name": "Sierny Jan",
-            "id": 54,
+            "id": 76,
             "level": 1,
             "build": "C1",
             "description": {
@@ -434,7 +392,7 @@
         },
         {
             "name": "Smolak Kamil",
-            "id": 59,
+            "id": 74,
             "level": 1,
             "build": "C1",
             "description": {
@@ -446,7 +404,7 @@
         },
         {
             "name": "Sośnica Krzysztof",
-            "id": 106,
+            "id": 143,
             "level": 3,
             "build": "C1",
             "description": {
@@ -458,7 +416,7 @@
         },
         {
             "name": "Sowa Wojciech",
-            "id": 38,
+            "id": 51,
             "level": 0,
             "build": "C1",
             "description": {
@@ -470,7 +428,7 @@
         },
         {
             "name": "Stasch Krzysztof",
-            "id": 83,
+            "id": 128,
             "level": 2,
             "build": "C1",
             "description": {
@@ -482,7 +440,7 @@
         },
         {
             "name": "Strugarek Dariusz",
-            "id": 111,
+            "id": 146,
             "level": 3,
             "build": "C1",
             "description": {
@@ -494,13 +452,13 @@
         },
         {
             "name": "Tondaś Damian",
-            "id": 61,
+            "id": 66,
             "level": 1,
             "build": "C1"
         },
         {
             "name": "Trojanowicz Marek",
-            "id": 24,
+            "id": 140,
             "level": 0,
             "build": "C1",
             "description": {
@@ -512,7 +470,7 @@
         },
         {
             "name": "Trzcina Estera",
-            "id": 60,
+            "id": 70,
             "level": 1,
             "build": "C1",
             "description": {
@@ -523,32 +481,8 @@
             }
         },
         {
-            "name": "Tymków Przemysław",
-            "id": 78,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Przemysław Tymków",
-                "email": "przemyslaw.tymkow@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki; Centrum Zasobów i Wsparcia Dydaktyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Walicka Agata",
-            "id": 85,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Agata Walicka",
-                "email": "agata.walicka@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
             "name": "Wielgocka Natalia",
-            "id": 83,
+            "id": 131,
             "level": 2,
             "build": "C1",
             "description": {
@@ -559,20 +493,8 @@
             }
         },
         {
-            "name": "Wilczyńska Izabela",
-            "id": 38,
-            "level": 0,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Izabela Wilczyńska",
-                "email": "izabela.wilczynska@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
             "name": "Zajdel Radosław",
-            "id": 111,
+            "id": 146,
             "level": 3,
             "build": "C1",
             "description": {
@@ -583,10 +505,4060 @@
             }
         },
         {
-            "name": "Żukowski Wiktor",
-            "id": 4,
-            "level": -1,
-            "build": "C1"
+            "name": "Karolina Budek",
+            "id": 60,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "Karolina Budek",
+                "email": "karolina.budek@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Biogeochemii i Mikrobiologii Środowiskowej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Anna Kmieć",
+            "id": 62,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Anna Kmieć",
+                "email": "anna.kmiec@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Biogeochemii i Mikrobiologii Środowiskowej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Elżbieta Gębarowska",
+            "id": 42,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Elżbieta Gębarowska",
+                "email": "elzbieta.gebarowska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Biogeochemii i Mikrobiologii Środowiskowej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Stanisław Pietr",
+            "id": 45,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Stanisław Pietr",
+                "email": "stanislaw.pietr@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Elżbieta Magnucka",
+            "id": 35,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr Elżbieta Magnucka",
+                "email": "elzbieta.magnucka@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Biogeochemii i Mikrobiologii Środowiskowej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Małgorzata Oksińska",
+            "id": 35,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr Małgorzata Oksińska",
+                "email": "malgorzata.oksinska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Biogeochemii i Mikrobiologii Środowiskowej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jolanta Kucińska",
+            "id": 46,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr Jolanta Kucińska",
+                "email": "jolanta.kucinska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Adam Bogacz",
+            "id": 81,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Adam Bogacz",
+                "email": "adam.bogacz@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Zbigniew Perlak",
+            "id": 82,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Zbigniew Perlak",
+                "email": "zbigniew.perlak@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Rafał Tyszka",
+            "id": 85,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. Rafał Tyszka, profesor uczelni",
+                "email": "rafal.tyszka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Aleksandra Kot",
+            "id": 85,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Aleksandra Kot",
+                "email": "aleksandra.kot@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Cezary Kabała",
+            "id": 87,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Cezary Kabała",
+                "email": "cezary.kabala@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jarosław Kaszubkiewicz",
+            "id": 89,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Jarosław Kaszubkiewicz",
+                "email": "jaroslaw.kaszubkiewicz@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Elżbieta Jamroz",
+            "id": 90,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Elżbieta Jamroz, profesor uczelni",
+                "email": "elzbieta.jamroz@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Dorota Kawałko",
+            "id": 91,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Dorota Kawałko",
+                "email": "dorota.kawalko@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Agnieszka Medyńska-Juraszek",
+            "id": 93,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Agnieszka Medyńska-Juraszek, profesor uczelni",
+                "email": "agnieszka.medynska-juraszek@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Irmina Ćwieląg- Piasecka",
+            "id": 94,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr Irmina Ćwieląg-Piasecka",
+                "email": "irmina.cwielag-piasecka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Szymon Jędrzejewski ",
+            "id": 102,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr Szymon Jędrzejewski ",
+                "email": "szymon.jedrzejewski@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Michalina Swoboda",
+            "id": 103,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr Michalina Swoboda",
+                "email": "michalina.swoboda@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Bhakti Jadhav",
+            "id": 108,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "Bhakti Jadhav",
+                "email": "bhakti.jadhav@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Dariusz Gruszka",
+            "id": 108,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Dariusz Gruszka",
+                "email": "dariusz.gruszka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Justyna Załuska",
+            "id": 108,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Justyna Załuska",
+                "email": "justyna.zaluska@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jerzy Weber",
+            "id": 109,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Jerzy Weber",
+                "email": "jerzy.weber@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jakub Bekier",
+            "id": 120,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Jakub Bekier",
+                "email": "jakub.bekier@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Joanna Kowalska",
+            "id": 119,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Joanna Kowalska",
+                "email": "joanna.kowalska@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jaroslaw Waroszewski",
+            "id": 118,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Jarosław Waroszewski, profesor uczelni",
+                "email": "jaroslaw.waroszewski@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Paweł Jezierski ",
+            "id": 117,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Paweł Jezierski",
+                "email": "pawel.jezierski@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Andrzej Kocowicz",
+            "id": 116,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Andrzej Kocowicz",
+                "email": "andrzej.kocowicz@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Katarzyna Szopka",
+            "id": 115,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Katarzyna Szopka, profesor uczelni",
+                "email": "katarzyna.szopka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jarosław Szadorski ",
+            "id": 113,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr Jarosław Szadorski",
+                "email": "jaroslaw.szadorski@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Beata Łabaz",
+            "id": 112,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Beata Łabaz, prof. uczelni ",
+                "email": "beata.labaz@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Genezy i Transformacji Gleb",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Magdalena Dębicka ",
+            "id": 111,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr Magdalena Dębicka ",
+                "email": "magdalena.debicka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Badań Materii Organicznej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Renata Ryl",
+            "id": 159,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Renata Ryl",
+                "email": "renata.ryl@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Krzysztof Gediga",
+            "id": 160,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Krzysztof Gediga",
+                "email": "krzysztof.gediga@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Teresa Rafalska",
+            "id": 165,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "Teresa Rafalska",
+                "email": "teresa.rafalska@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Elżbieta Sacała",
+            "id": 170,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr Elżbieta Sacała",
+                "email": "elzbieta.sacala@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Piotr Stępień",
+            "id": 169,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr Piotr Stępień",
+                "email": "piotr.stepien@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Kamila Karmowska (Zmiana nazwiska)",
+            "id": 200,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Kamila Stępień",
+                "email": "kamila.stepien@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Magdalena Ossowska",
+            "id": 200,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Magdalena Ossowska",
+                "email": "magdalena.ossowska@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Grzegorz Kulczycki",
+            "id": 199,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Grzegorz Kulczycki, profesor uczelni",
+                "email": "grzegorz.kulczycki@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Żywienia Roślin",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Michał Drzazga",
+            "id": 223,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr inż Michał Drzazga",
+                "email": "michal.drzazga@upwr.edu.pl",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Małgorzata Meissner",
+            "id": 225,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Małgorzata Meissner",
+                "email": "malgorzata.meissner@upwr.edu.pl",
+                "institute": "Katedra Budownictwa; Zakład Mechaniki i Wytrzymałości Materiałów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Anna Rawska- Skotniczny",
+            "id": 225,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Anna Rawska-Skotniczny",
+                "email": "anna.rawska-skotniczny@upwr.edu.pl",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Wojciech Kilian",
+            "id": 226,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Wojciech Kilian",
+                "email": "wojciech.kilian@upwr.edu.pl",
+                "institute": "Katedra Budownictwa; Zakład Mechaniki i Wytrzymałości Materiałów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Robert Świerzko",
+            "id": 227,
+            "level": 0,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Robert Świerzko",
+                "email": "robert.swierzko@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Mechaniki i Wytrzymałości Materiałów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Wiesław Fiałkiewicz",
+            "id": 243,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż Wiesław Fiałkiewicz",
+                "email": "wieslaw.fialkiewicz@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Joanna Markowska",
+            "id": 244,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Joanna Markowska",
+                "email": "joanna.markowska@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej; Centrum Zasobów i Wsparcia Dydaktyki; Sekcja Kształcenia na Odległość i Nowoczesnych Form Kształcenia",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Krzysztof Lejcuś",
+            "id": 242,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. Krzysztof Lejcuś",
+                "email": "krzysztof.lejcus@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Katarzyna Suszek",
+            "id": 103,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr Katarzyna suszek",
+                "email": "katarzyna.suszek@upwr.edu.pl",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Katarzyna Lisińska",
+            "id": 103,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "Katarzyna Lisińska",
+                "email": "katarzyna.lisinska@upwr.edu.pl",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Beata Malczewska",
+            "id": 239,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Beata Malczewska",
+                "email": "beata.malczewska@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Robert Głowski",
+            "id": 238,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inz. Robert Głowskiv",
+                "email": "robert.glowski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Robert Kasperek",
+            "id": 237,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Robert Kasperek",
+                "email": "robert.kasperek@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Mirosław Wiatkowski",
+            "id": 253,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Mirosław Wiatkowski",
+                "email": "miroslaw.wiatkowski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Łukasz Gruss",
+            "id": 236,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Łukasz Gruss",
+                "email": "lukasz.gruss@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Paweł Tomczyk",
+            "id": 236,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Paweł Tomczyk",
+                "email": "pawel.tomczyk@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Tomasz Tymiński",
+            "id": 254,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Tomasz Tymiński",
+                "email": "tomasz.tyminski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Jerzy Sobota",
+            "id": 229,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr inż. Jerzy Sobota",
+                "email": "jerzy.sobota@upwr.edu.pl",
+                "institute": "Instytut Budownictwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Maciej Gruszczyński",
+            "id": 230,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Maciej Gruszczyński",
+                "email": "maciej.gruszczynski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego; Laboratorium Wodne",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Radosław Stodolak",
+            "id": 232,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Radosław Stodolak",
+                "email": "radoslaw.stodolak@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Sławomir Nowak",
+            "id": 233,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "Sławomir Nowak",
+                "email": "slawomir.nowak@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Piotr Kaługa",
+            "id": 233,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Piotr Kaługa",
+                "email": "piotr.kaluga@upwr.edu.pl ",
+                "institute": "Dziekanat Wydziału Inżynierii Kształtowania Środowiska i Geodezji",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Stanisław Czaban",
+            "id": 235,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Stanisław Czaban",
+                "email": "stanislaw.czaban@upwr.edu.pl",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Kamil Pawłowski",
+            "id": 256,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Kamil Pawłowski",
+                "email": "kamil.pawlowski@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Mechaniki i Wytrzymałości Materiałów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Agata Włóka",
+            "id": 256,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Agata Włóka",
+                "email": "agata.wloka@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Renata Nogaj",
+            "id": 257,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "inż. Renata Nogaj",
+                "email": "renata.nogaj@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Konstrukcji Budowlanych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Melika Tasan",
+            "id": 259,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr Melisa Tasan",
+                "email": "melika.tasan@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Jarosław Dąbrowski",
+            "id": 260,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Jarosław Dąbrowski",
+                "email": "jaroslaw.dabrowski@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Konstrukcji Budowlanych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Włodzimierz Białas",
+            "id": 261,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Włodzimierz Białas",
+                "email": "wlodzimierz.bialas@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Grzegorz Antoniszyn",
+            "id": 261,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Grzegorz Antoniszyn",
+                "email": "grzegorz.antoniszyn@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Konstrukcji Budowlanych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Julia Nowak",
+            "id": 261,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Julia Nowak",
+                "email": "julia.nowak@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Edward Hutnik",
+            "id": 262,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Edward Hutnik",
+                "email": "edward.hutnik@upwr.edu.pl",
+                "institute": "Instytut Budownictwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Jan Kempiński",
+            "id": 262,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab, inż. Jan Kempiński",
+                "email": "jan.kempinski@upwr.edu.pl",
+                "institute": "Instytut Budownictwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Radosław Tatko",
+            "id": 263,
+            "level": 1,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Radosław Tatko",
+                "email": "radoslaw.tatko@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Konstrukcji Budowlanych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Andrzej Żyromski",
+            "id": 41,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Andrzej Żyromski",
+                "email": "andrzej.zyromski@upwr.edu.pl",
+                "institute": "Instytut Kształtowania i Ochrony Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Małgorzata Biniak- Pieróg",
+            "id": 275,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Małgorzata Biniak-Pieróg",
+                "email": "malgorzata.biniak-pierog@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Melioracji Wodnych i Hydrometeorologii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Arkadiusz Głogowski",
+            "id": 273,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Arkadiusz Głogowski",
+                "email": "arkadiusz.glogowski@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Melioracji Wodnych i Hydrometeorologii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Aleksandra Wdowczyk",
+            "id": 272,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Aleksandra Wdowczyk",
+                "email": "aleksandra.wdowczyk@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Justyna Hachoł",
+            "id": 271,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Justyna Hachoł",
+                "email": "justyna.hachol@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Łukasz Kuta",
+            "id": 270,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr Łukasz Kuta",
+                "email": "lukasz.kuta@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Józef Hulboj",
+            "id": 283,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Józef Hulboj",
+                "email": "jozef.hulboj@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Kształtowania Środowiska i Eksploatacji Systemów Gospodarowania Wodą",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Rafał Wójcik",
+            "id": 283,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Rafał Wójcik",
+                "email": "rafal.wojcik@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Paweł Dąbek",
+            "id": 269,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Paweł Dąbek",
+                "email": "pawel.dabek@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Melioracji Wodnych i Hydrometeorologii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Beata Olszewska",
+            "id": 284,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Beata Olszewska",
+                "email": "beata.olszewska@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Melioracji Wodnych i Hydrometeorologii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Wojciech Łyczko",
+            "id": 284,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Wojciech Łyczko",
+                "email": "wojciech.lyczko@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Melioracji Wodnych i Hydrometeorologii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Marian Żuber",
+            "id": 264,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Marian Żuber",
+                "email": "marian.zuber@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Krystyna Woźniakowska",
+            "id": 265,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Krystyna Woźniakowska",
+                "email": "krystyna.wozniakowska@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Laboratorium Badań Środowiskowych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Ryszard Pokładek",
+            "id": 268,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Ryszard Pokładek",
+                "email": "ryszard.pokladek@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Kształtowania Środowiska i Eksploatacji Systemów Gospodarowania Wodą",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Wojciech Orzepowski",
+            "id": 287,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż Wojciech Orzepowski",
+                "email": "wojciech.orzepowski@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Kształtowania Środowiska i Eksploatacji Systemów Gospodarowania Wodą",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Grzegorz Pęczkowski",
+            "id": 288,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Grzegorz Pęczkowski",
+                "email": "grzegorz.peczkowski@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Kształtowania Środowiska i Eksploatacji Systemów Gospodarowania Wodą; Laboratorium Modelowania Procesów Środowiskowych i Ergonomii",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Katarzyna Sawicka",
+            "id": 288,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż Katarzyna Szawernoga",
+                "email": "katarzyna.szawernoga@upwr.edu.pl",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Stanisław Kostrzewa",
+            "id": 289,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Stanisław Kostrzewa",
+                "email": "",
+                "institute": "",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Tomasz Kowalczyk",
+            "id": 291,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Tomasz Kowalczyk",
+                "email": "tomasz.kowalczyk@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Kształtowania Środowiska i Eksploatacji Systemów Gospodarowania Wodą",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Magdalena Dzwonek ",
+            "id": 292,
+            "level": 2,
+            "build": "C2",
+            "description": {
+                "title": "inż Magdalena Dzwonek ",
+                "email": "magdalena.dzwonek@upwr.edu.pl ",
+                "institute": "Katedra Kształtowania i Ochrony Środowiska; Zakład Inżynierii Bezpieczeństwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Daniel Garlikowski",
+            "id": 295,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Daniel Garlikowski",
+                "email": "daniel.garlikowski@upwr.edu.pl",
+                "institute": "Katedra Budownictwa",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Michał Śpitalniak",
+            "id": 296,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Daniel Śpitalniak",
+                "email": "michal.spitalniak@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Bogna Buta",
+            "id": 297,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Bogna Buta",
+                "email": "bogna.buta@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Maksymilian Połomski",
+            "id": 297,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Maksymilian Połomski",
+                "email": "maksymilian.polomski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Michał Tymcio",
+            "id": 297,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Michał Tymcio",
+                "email": "michal.tymcio@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Laboratorium Wodne",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Daria Marczak",
+            "id": 298,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Daria Marczak",
+                "email": "daria.marczak@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Jakub Misiewicz",
+            "id": 298,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Jakub Misiewicz",
+                "email": "jakub.misiewicz@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Laboratorium Badań Gruntów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Ahmed Tamma",
+            "id": 299,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "MSc Ahmed Tamma",
+                "email": "abderrafaa.tamma@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Krzysztof Lejcuś",
+            "id": 300,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. Krzysztof Lejcuś",
+                "email": "krzysztof.lejcus@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Justyna Kubicz",
+            "id": 301,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Justyna Kubicz",
+                "email": "justyna.kubicz@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Alicja Czamara",
+            "id": 302,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Alicja Czamara",
+                "email": "alicja.czamara@up.wroc.pl",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Andrzej Moryl",
+            "id": 303,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr Andrzej Moryl",
+                "email": "andrzej.moryl@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Agata Szymańska- Pulikowska",
+            "id": 304,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Agata Szymańska-Pulikowska",
+                "email": "agata.szymanska-pulikowska@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Wód Podziemnych i Gospodarki Odpadami",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Ireneusz Kajewski",
+            "id": 309,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Ireneusz Kajewski",
+                "email": "ireneusz.kajewski@upwr.edu.pl",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Michał Dziedzic",
+            "id": 309,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Michał Dziedzic",
+                "email": "michal.dziedzic@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Anna Uciechowska-Grakowicz",
+            "id": 312,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Anna Uciechowska-Grakowicz",
+                "email": "anna.uciechowska-grakowicz@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Geotechniki",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Rafał Idzikowski",
+            "id": 313,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Raał Idzikowski",
+                "email": "rafal.idzikowski@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Konstrukcji Budowlanych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Filip Zakęś",
+            "id": 313,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Filip Zakęś",
+                "email": "filip.zakes@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Mechaniki i Wytrzymałości Materiałów",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Matylda Tankiewicz",
+            "id": 314,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Matylda Tankiewicz",
+                "email": "matylda.tankiewicz@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Geotechniki",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Jolanta Dąbrowska",
+            "id": 315,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Jolanta Dąbrowska",
+                "email": "jolanta.dabrowska@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Geotechniki",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Zofia Zięba",
+            "id": 316,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Zofia Zięba",
+                "email": "zofia.zieba@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Zakład Geotechniki; Laboratorium Badań Geotechnicznych",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Maciej Kaźmierowski",
+            "id": 317,
+            "level": 3,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Maciej Kaźmierowski",
+                "email": "maciej.kazmierowski@upwr.edu.pl ",
+                "institute": "Katedra Budownictwa; Pracownia Budownictwa Ogólnego",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Maciej Piotrowski",
+            "id": 341,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Maciej Piotrowski",
+                "email": "maciej.piotrowski@upwr.edu.pl ",
+                "institute": "Katedra Architektury Krajobrazu; Zakład Adaptacji do Zmian Klimatu",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Iwona Orzechowska-Szajda",
+            "id": 342,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Iwona Orzechowska-Szajda",
+                "email": "iwona.orzechowska-szajda@upwr.edu.pl",
+                "institute": "Katedra Architektury Krajobrazu; Zakład Adaptacji do Zmian Klimatu",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Anna Podolska",
+            "id": 342,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Anna Podolska",
+                "email": "anna.podolska@upwr.edu.pl ",
+                "institute": "Katedra Architektury Krajobrazu; Zakład Projektowania Krajobrazu i Zielonej Infrastruktury",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Ewa Burszta-Adamiak",
+            "id": 344,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Ewa Burszta-Adamiak",
+                "email": "ewa.burszta-adamiak@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Magdalena Kuśnierz",
+            "id": 344,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Magdalena Kuśnierz",
+                "email": "magdalena.kusnierz@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Justyna Stańczyk",
+            "id": 344,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Justyna Stańczyk",
+                "email": "justyna.stanczyk@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Włodzimierz Czamara",
+            "id": 345,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "prof. dr hab. inż. Włodzimierz Czamara",
+                "email": "wlodzimierz.czamara@up.wroc.pl",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Joanna Kajewska-Szkudlarek",
+            "id": 346,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr Joanna Kajewska-Szkudlarek",
+                "email": "joanna.kajewska-szkudlarek@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Paweł Wiercik",
+            "id": 348,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Paweł Wiercik",
+                "email": "pawel.wiercik@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Paweł Lochyński",
+            "id": 349,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Paweł Lochyński",
+                "email": "pawel.lochynski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Aleksandra Bawiec",
+            "id": 350,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr inż. Aleksandra Bawiec",
+                "email": "aleksandra.bawiec@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Kinga Marek",
+            "id": 351,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Konga Marek",
+                "email": "kinga.marek@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Szymon Kilian",
+            "id": 351,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "mgr inż. Szymon Kilian",
+                "email": "szymon.kilian1@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Katarzyna Pawęska",
+            "id": 352,
+            "level": 4,
+            "build": "C2",
+            "description": {
+                "title": "dr hab. inż. Katarzyna Pawęska",
+                "email": "katarzyna.paweska@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Infrastruktury i Techniki Sanitarnej",
+                "build": "C2"
+            }
+        },
+        {
+            "name": "Dorota Kasowska",
+            "id": 378,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Dorota Kasowska",
+                "email": "dorota.kasowska@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamil Konowalik",
+            "id": 384,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr Kamil Konowalik",
+                "email": "kamil.konowalik@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Katarzyna Szczepańska",
+            "id": 384,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr Katarzyna Szczepańska",
+                "email": "katarzyna.szczepanska@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Aleksandra Halarewicz",
+            "id": 385,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż aleksandra Halarewicz profesor uczelni",
+                "email": "aleksandra.halarewicz@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ludwik Żołnierz",
+            "id": 386,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Ludwik Żołnierz profesor uczelni",
+                "email": "ludwik.zolnierz@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jacek Urbaniak",
+            "id": 387,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Jacek Urbaniak profesor uczelni",
+                "email": "jacek.urbaniak@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jan Matuła",
+            "id": 412,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Jan Matuła",
+                "email": "jan.matula@upwr.edu.pl",
+                "institute": "Instytut Biologii",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Barbara Matuła",
+            "id": 410,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr Barbara Matuła",
+                "email": "barbara.matula@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Dominika Potrząsaj",
+            "id": 410,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr Dominika Potrząsaj",
+                "email": "dominika.potrzasaj@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Daniel Pruchniewicz",
+            "id": 409,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Daniel Pruchniewicz profesor uczelni",
+                "email": "daniel.pruchniewicz@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jerzy Fabiszewski",
+            "id": 395,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Jerzy Fabiszewski",
+                "email": "jerzy.fabiszewski@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Mirosława Pietryka",
+            "id": 396,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Mirosława Pietryka",
+                "email": "miroslawa.pietryka@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Dorota Richter",
+            "id": 396,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Dorota Richter profesor uczelni",
+                "email": "dorota.richter@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magda Podlaska",
+            "id": 397,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Magda Podlaska",
+                "email": "magda.podlaska@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ewa Fundali",
+            "id": 398,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Ewa Fundali profesor uczelni  ",
+                "email": "ewa.fudali@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Koszelnik-Leszek",
+            "id": 398,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Anna Koszelnik-Leszek",
+                "email": "anna.koszelnik-leszek@upwr.edu.pl",
+                "institute": "Katedra Botaniki i Ekologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Piotr Kuc",
+            "id": 466,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Piotr Kuc",
+                "email": "piotr.kuc@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agnieszka Lejman",
+            "id": 466,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Agnieszka Lejman",
+                "email": "agnieszka.lejman@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Piotr Sobkowicz",
+            "id": 465,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab  Piotr Sobkowicz",
+                "email": "piotr.sobkowicz@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Wiesław Wojciechowski",
+            "id": 464,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Wiesław Wojciechowski",
+                "email": "wieslaw.wojciechowski@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej; Zakład Uprawy Roli i Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ewa Tendziagolska",
+            "id": 463,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Ewa Tendziagolska",
+                "email": "ewa.tendziagolska@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej; Zakład Uprawy Roli i Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magalena Szymura",
+            "id": 461,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Magdalena Szymura profesor uczelni",
+                "email": "magdalena.szymura@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Joanna Walczak-Łakomy",
+            "id": 461,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "Joanna Walczak-Łakomy",
+                "email": "joanna.walczak-lakomy@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Gas-Smereka",
+            "id": 461,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Marta Gas-Smereka",
+                "email": "marta.gas-smereka@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Elżbieta Pytlarz",
+            "id": 457,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Elżbieta Pytlarz",
+                "email": "elzbieta.pytlarz@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Małgorzata Radała",
+            "id": 457,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Małgorzata Raduła",
+                "email": "malgorzata.radula@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Janina Zawieja",
+            "id": 459,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Janina Zawieja",
+                "email": "janina.zawieja@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Danuta Parylak",
+            "id": 460,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Danuta Parylak",
+                "email": "danuta.parylak@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Lilianna Głąb",
+            "id": 436,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Lilianna Głąb",
+                "email": "lilianna.glab@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Małgorzata Cieciura-Olczyk",
+            "id": 436,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Małgorzata Cieciura-Olczyk",
+                "email": "malgorzata.cieciura@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agnieszka Dradrach",
+            "id": 437,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Agnieszka Dradrach",
+                "email": "agnieszka.dradrach@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marek Liszewski",
+            "id": 438,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Marek Liszewski",
+                "email": "marek.liszewski@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Jama-Rodzeńska",
+            "id": 439,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Anna Jama-Rodzeńska ",
+                "email": "anna.jama@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Czarniecka-Wiera",
+            "id": 439,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Marta Czarniecka-Wiera",
+                "email": "marta.czarniecka-wiera@upwr.edu.pl ",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej; Zakład Herbologii, Łąkarstwa i Kształtowania Terenów Zieleni",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Chathura Perera",
+            "id": 445,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mphil Chathura Perera ",
+                "email": "chathura.perera@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Hassanali Mollashahi",
+            "id": 445,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr Hassanali Mollashahi",
+                "email": "hassanali.mollashahi@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Leszek Kordas",
+            "id": 446,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Leszek Kordas",
+                "email": "leszek.kordas@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Roman Wacławowicz",
+            "id": 447,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Roman Wacławowicz profesor uczelni",
+                "email": "roman.waclawowicz@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Karol Wolski",
+            "id": 434,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Karol Wolski",
+                "email": "karol.wolski@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magadalena Serafin-Anderzejewska",
+            "id": 448,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Magdalena Serafin-Anderzejewska",
+                "email": "magdalena.serafin-andrzejewska@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Józef Sowiński",
+            "id": 449,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Józef Sowiński",
+                "email": "jozef.sowinski@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Wondołowska-Grabowska",
+            "id": 450,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Anna Wondołowska-Grabowska",
+                "email": "anna.wondolowska-grabowska@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Zofia Kubińska",
+            "id": 451,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "zofia kubińska ",
+                "email": "zofia.kubinska@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Volodymyr Sudak",
+            "id": 451,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Volodymyr sudak",
+                "email": "volodymyr.sudak@upwr.edu.pl",
+                "institute": "Zakład Herbologii, Łąkarstwa i Kształtowania Terenów Zieleni",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Andrzej Kotecki",
+            "id": 452,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Andrzej Kotecki",
+                "email": "andrzej.kotecki@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jan Szopa-Skórkowski",
+            "id": 453,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof. Jan Szopa-Skórkowski",
+                "email": "",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marcin Kozak",
+            "id": 454,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Marcin Kozak",
+                "email": "marcin.kozak@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Waldemar Helios",
+            "id": 455,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Waldemar Helios",
+                "email": "waldemar.helios@upwr.edu.pl",
+                "institute": "Instytut Agroekologii i Produkcji Roślinnej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Tetiana Sladkovska",
+            "id": 455,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Tetiana Sladkovska",
+                "email": "tetiana.sladkovska@upwr.edu.pl",
+                "institute": "Zakład Herbologii, Łąkarstwa i Kształtowania Terenów Zieleni",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamila Twardowska",
+            "id": 476,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Kamila Twardowska",
+                "email": "kamila.twardowska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Joanna Magiera-Dulewicz",
+            "id": 476,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Joanna Magiera-Dulewicz",
+                "email": "joanna.magiera-dulewicz@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Krzysztof Matkowski",
+            "id": 517,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Krzysztof Matkowski",
+                "email": "krzysztof.matkowski@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Michał Hurej",
+            "id": 518,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab inż Michał Hurej",
+                "email": "michal.hurej@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agata Kaczmarek",
+            "id": 519,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Agata Kaczmarek",
+                "email": "agata.kaczmarek@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Katarzyna Patejuk",
+            "id": 520,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Katarzyna Patejuk",
+                "email": "katarzyna.patejuk@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Jurga",
+            "id": 520,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Marta Jurga",
+                "email": "marta.jurga-zotow@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Bożena Nizio",
+            "id": 516,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "Bożena Nizio",
+                "email": "bozena.nizio@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Elżbieta Pląskowska",
+            "id": 516,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab inż Elżbieta Pląskowska",
+                "email": "elzbieta.plaskowska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Janina Jaworska",
+            "id": 483,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "inż Janina Jaworska",
+                "email": "janina.jaworska@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Elźbieta Piątkowska",
+            "id": 515,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab inż Elżbieta Pląkowska",
+                "email": "elzbieta.plaskowska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Iwona Gruss",
+            "id": 513,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr Iwona Gruss",
+                "email": "iwona.gruss@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Zdzisław Klukowski",
+            "id": 512,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Zdzisław Klukowski profesor uczelni",
+                "email": "zdzislaw.klukowski@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jacek Twardowski",
+            "id": 511,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Jacek Twardowski profesor uczelni",
+                "email": "jacek.twardowski@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Katarzyna Wróblewska",
+            "id": 489,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Katzryna Wróblewska",
+                "email": "katarzyna.wroblewska@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Przemysław Bąbelewski",
+            "id": 490,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Przemysław Bąbelewski ",
+                "email": "przemyslaw.babelewski@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Regina Dębicz",
+            "id": 490,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Regina Dębicz",
+                "email": "regina.debicz@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Adam Szewczuk",
+            "id": 494,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab inż Adam Szewczuk",
+                "email": "adam.szewczuk@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ireneusz Sosna",
+            "id": 496,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "pdr hab inż Ireneusz Sosna",
+                "email": "ireneusz.sosna@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ewewlina Gudarowska",
+            "id": 497,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Ewelina Gudarowska",
+                "email": "ewelina.gudarowska@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Maria Linczar-Małańczuk",
+            "id": 498,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Maria Linczar-Małańczuk",
+                "email": "maria.licznar-malanczuk@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Cecylia Uklańska-Pusz",
+            "id": 503,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Cecylia Uklańska-Pusz",
+                "email": "cecylia.uklanska-pusz@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agnieszka Balbierz",
+            "id": 503,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Agnieszka Balbierz",
+                "email": "agnieszka.balbierz@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Katarzyna Adamczewska-Sowińska",
+            "id": 504,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab inż Katarzyna Adamczewska-Sowińska",
+                "email": "katarzyna.adamczewska-sowinska@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jan Krężel",
+            "id": 505,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Jan Krężel",
+                "email": "jan.krezel@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Piotr Chohura",
+            "id": 506,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Piotr Chohura",
+                "email": "piotr.chohura@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Czaplicka",
+            "id": 507,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Marta Czaplicka",
+                "email": "marta.czaplicka@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magalena Rowińska",
+            "id": 508,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Magdalena Rowińska",
+                "email": "magdalena.rowinska1@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anita Biesiada",
+            "id": 509,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab inż Anita Biesiada",
+                "email": "anita.biesiada@upwr.edu.pl",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Miron Lewandowski",
+            "id": 510,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "inż. Miron Lewandowski",
+                "email": "miron.lewandowski@upwr.edu.pl ",
+                "institute": "Katedra Ogrodnictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kacper Parypa",
+            "id": 510,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Kacper Parypa",
+                "email": "kacper.parypa@upwr.edu.pl ",
+                "institute": "Katedra Ogrodnictwa; Stacja Badawczo-Dydaktyczna Roślin Warzywnych i Ozdobnych w Psarach",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Małgorzata Krotowska",
+            "id": 525,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Małgorzata Krotowska",
+                "email": "malgorzata.krotowska@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Lenart",
+            "id": 525,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr Aneta Lenart ",
+                "email": "anna.lenart@upwr.edu.pl ",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Dorota Kowalik",
+            "id": 525,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "inż Dorota Kowalik",
+                "email": "dorota.kowalik@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marek Stachowiak",
+            "id": 526,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Marek Stachowiak ",
+                "email": "marek.stachowiak@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Tomasz Szuk",
+            "id": 526,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Tomasz Szuk",
+                "email": "tomasz.szuk@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Izabela Kurtyka-Marcak",
+            "id": 527,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Izabela Kurtyka-Marcak  ",
+                "email": "izabela.kurtyka-marcak@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Irena Kropsz-Wydra",
+            "id": 527,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Irena Kropsz-Wydra",
+                "email": "irena.kropsz-wydra@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magdalena Raftowicz",
+            "id": 528,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Magdalena Raftowicz",
+                "email": "magdalena.raftowicz@upwr.edu.pl",
+                "institute": "Instytut Gospodarki Przestrzennej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Krzysztof Prymon",
+            "id": 528,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Krzysztof Prymon",
+                "email": "krzysztof.prymon@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agnieszka Krześ",
+            "id": 528,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Agnieszka Krześ",
+                "email": "agnieszka.krzes@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Kapała",
+            "id": 529,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Anna Kapała ",
+                "email": "anna.kapala@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jakub Żurek",
+            "id": 529,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Jakub Żurek",
+                "email": "jakub.zurek@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Tomasz Pilawska",
+            "id": 530,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Tomasz Pilawka   ",
+                "email": "tomasz.pilawka@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Katarzyna Gurdak",
+            "id": 530,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Katarzyna Gurdak",
+                "email": "katarzyna.gurdak@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Hanna Adamska",
+            "id": 531,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Hanna Adamska   ",
+                "email": "hanna.adamska@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Stanisław Minta",
+            "id": 531,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Stanisław Minta",
+                "email": "stanislaw.minta@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Krzysztof Rutkiewicz",
+            "id": 532,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Krzysztof Rutkiewicz",
+                "email": "krzysztof.rutkiewicz@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Barbara Kutkowska",
+            "id": 533,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Barbara Kutkowska",
+                "email": "barbara.kutkowska@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Wojeciech Majcher",
+            "id": 534,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Wojciech Majcher",
+                "email": "wojciech.majcher@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Bożena Tańska-Hus",
+            "id": 535,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Bożena Tańska-Hus",
+                "email": "bozena.tanska-hus@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magdalena Kalisiak-Mędelska",
+            "id": 536,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Magdalena Kalisiak-Mędelska",
+                "email": "magdalena.kalisiak-medelska@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Justyna Janowska-Biernat",
+            "id": 538,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Justyna Janowska-Biernat ",
+                "email": "justyna.janowska-biernat@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Danuta Gonet",
+            "id": 538,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Danuta Gonet",
+                "email": "danuta.gonet@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Monika Przybylska",
+            "id": 539,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Monika Przybylska",
+                "email": "monika.przybylska@upwr.edu.pl",
+                "institute": "Katedra Ekonomii Stosowanej",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Preisner",
+            "id": 545,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Marta Preisner ",
+                "email": "marta.preisner@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamil Kostyn",
+            "id": 545,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Kamil Kostyn",
+                "email": "kamil.kostyn@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Aleksandra Boba",
+            "id": 545,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Aleksandra Boba ",
+                "email": "aleksandra.boba@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Krzysztof Marczewski",
+            "id": 545,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr Krzysztof Marczewski",
+                "email": "krzysztof.marczewski@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Darusz Zalewski",
+            "id": 546,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Dariusz Zalewski    ",
+                "email": "dariusz.zalewski@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Bartosz Kozak",
+            "id": 546,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Bartosz Kozak",
+                "email": "bartosz.kozak@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Henryk Bujak",
+            "id": 551,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Henryk Bujak",
+                "email": "henryk.bujak@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Ewa Sawicka-Sienkiewicz",
+            "id": 551,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "prof dr hab Ewa Sawicka-Sienkiewicz",
+                "email": "ewa.sawicka-sienkiewicz@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jolanta Górecka",
+            "id": 553,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Jolanta Górecka",
+                "email": "jolanta.gorecka@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Sylwia Lewandowska",
+            "id": 555,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Sylwia Lewandowska   ",
+                "email": "sylwia.lewandowska@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Sandra Rychel-Bielska",
+            "id": 555,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Sandra Rychel-Bielska",
+                "email": "sandra.rychel-bielska@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamila Nowosad",
+            "id": 558,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Kamila Nowosad",
+                "email": "kamila.nowosad@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Renata Galek",
+            "id": 560,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Renata Galek",
+                "email": "renata.galek@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Magdalena Bednik",
+            "id": 567,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inz Magdalena Bednik  ",
+                "email": "magdalena.bednik@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Michał Dudek",
+            "id": 567,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Michał Dudek  ",
+                "email": "michal.dudek@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Mateusz Kurpski",
+            "id": 567,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr Mateusz Krupski",
+                "email": "mateusz.krupski@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Buzar",
+            "id": 569,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inz Marta Buzar ",
+                "email": "marta.buzar@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Tadeusz Czuj",
+            "id": 569,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr Tadeusz Czuj   ",
+                "email": "tadeusz.czuj@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Agnieszka Łącka",
+            "id": 569,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Agnieszka Łącka   ",
+                "email": "agnieszka.lacka@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa; Zakład Genetyki i Biotechnologii Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Alicja Trybuła",
+            "id": 569,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "inż Alicja Trybuła",
+                "email": "alicja.trybula@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa; Zakład Hodowli Roślin i Biometrii",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Joanna Markowska",
+            "id": 571,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Joannna Markowska",
+                "email": "joanna.markowska@upwr.edu.pl",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Hydrologii i Gospodarki Wodnej; Centrum Zasobów i Wsparcia Dydaktyki; Sekcja Kształcenia na Odległość i Nowoczesnych Form Kształcenia",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jacek Markowski",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "dr inż Jacek Markowski",
+                "email": "jacek.markowski@upwr.edu.pl",
+                "institute": "Centrum Zasobów i Wsparcia Dydaktyki",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Joanna Borowiec-Jaskólska",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Joanna Borowiec-Jaskólska",
+                "email": "joanna.borowiec-jaskolska@upwr.edu.pl",
+                "institute": "Centrum Zasobów i Wsparcia Dydaktyki; Sekcja Kształcenia na Odległość i Nowoczesnych Form Kształcenia",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Monika Brząkała",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Monika Brząkała",
+                "email": "monika.brzakala@upwr.edu.pl",
+                "institute": "Centrum Zasobów i Wsparcia Dydaktyki",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Marta Burdzy",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Marta Burdzy ",
+                "email": "martyna.burdzy@upwr.edu.pl",
+                "institute": "Centrum Zasobów i Wsparcia Dydaktyki",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Artur Majchrzak",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Artur Majchrzak ",
+                "email": "artur.majchrzak@upwr.edu.pl",
+                "institute": "Katedra Architektury Krajobrazu",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamila Pawłowska",
+            "id": 572,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż Kamila Pawłowska",
+                "email": "kamila.pawlowska@upwr.edu.pl",
+                "institute": "Katedra Architektury Krajobrazu; Centrum Zasobów i Wsparcia Dydaktyki; Sekcja Kształcenia na Odległość i Nowoczesnych Form Kształcenia",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Łukasz Baszkiewicz",
+            "id": 576,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr Łukasz Baszkiewicz",
+                "email": "lukasz.baszkiewicz@upwr.edu.pl",
+                "institute": "Centrum Wsparcia i Dostępności",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Patrycja Krzemieniec",
+            "id": 577,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "mgr Patrycja Krzemieniec",
+                "email": "patrycja.krzemieniec@upwr.edu.pl",
+                "institute": "Centrum Wsparcia i Dostępności",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Jan Kaczmarek",
+            "id": 578,
+            "level": 4,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. inż. Jan Kaczmarek",
+                "email": "jan.kaczmarek@upwr.edu.pl",
+                "institute": "Katedra Genetyki, Hodowli Roślin i Nasiennictwa",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Kamila Twardowska",
+            "id": 588,
+            "level": 5,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Kamila Twardowska",
+                "email": "kamila.twardowska@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Wojciech Pusz",
+            "id": 589,
+            "level": 5,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. inż. Wojciech Pusz",
+                "email": "wojciech.pusz@upwr.edu.pl",
+                "institute": "Katedra Ochrony Roślin, Zakład Fitopatologii i Mykologii",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Anna Karczewska",
+            "id": 594,
+            "level": 5,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. inż. Anna Karczewska",
+                "email": "anna.karczewska@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Bernard Gałka",
+            "id": 596,
+            "level": 5,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. Bernard Gałka, profesor uczelni",
+                "email": "bernard.galka@upwr.edu.pl",
+                "institute": "Instytut Nauk o Glebie, Żywienia Roślin i Ochrony Środowiska; Zakład Analizy Ryzyka Środowiskowego i Remediacji Gleb",
+                "build": "C3"
+            }
+        },
+        {
+            "name": "Bernard Kontny",
+            "id": 667,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "Prof. dr.hab. inż Bernard Kontny",
+                "email": "bernard.kontny@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Iwona Wenda-Zając",
+            "id": 666,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "mgr Iwona Wenda-Zając",
+                "email": "iwona.wenda-zajac@upwr.edu.pl ",
+                "institute": "Dziekanat Wydziału Inżynierii Kształtowania Środowiska i Geodezji",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Beata Raszka",
+            "id": 670,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "Prof. dr.hab. Beata Raszka",
+                "email": "beata.raszka@upwr.edu.pl ",
+                "institute": "Instytut Gospodarki Przestrzennej; Zakład Planowania i Kształtowania Przestrzeni",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Renata Gubańska",
+            "id": 670,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "Dr.hab.inż.arch. Renata Gubańska, prof.uczelni ",
+                "email": "renata.gubanska@upwr.edu.pl ",
+                "institute": "Katedra Architektury Krajobrazu; Zakład Projektowania Krajobrazu i Zielonej Infrastruktury",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Robert Głowski",
+            "id": 669,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "Dr.hab. Robert Głowski, prof. uczelni ",
+                "email": "robert.glowski@upwr.edu.pl ",
+                "institute": "Instytut Inżynierii Środowiska; Zakład Modelowania Hydrodynamicznego",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Piotr Gołuch",
+            "id": 669,
+            "level": 0,
+            "build": "C3",
+            "description": {
+                "title": "Dr.hab.inż. Piotr Gołuch, prof.uczelni ",
+                "email": "piotr.goluch@upwr.edu.pl ",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Aleksander Drobny",
+            "id": 696,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "Dr.inż.Aleksander Drobny",
+                "email": "aleksander.drobny@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Joanna Lipsa",
+            "id": 696,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr.inż. Joanna Lipsa",
+                "email": "joanna.lipsa@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Geodezyjnych Urządzeń Rolnych i Gospodarki Nieruchomościami; Biuro Rekrutacji ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Olgierd Kempa",
+            "id": 697,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "Dr.inż.Olgierd Kempa",
+                "email": "olgierd.kempa@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Geodezyjnych Urządzeń Rolnych i Gospodarki Nieruchomościami ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Tomasz Szuszkiewicz",
+            "id": 697,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr Tomasz Szuszkiewicz",
+                "email": "tomasz.szuszkiewicz@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Planowania i Kształtowania Przestrzeni ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Szymon Szewrański",
+            "id": 692,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab.inż. Szymon Szewrański",
+                "email": "szymon.szewranski@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią; Pracownia Audiosfery i Akustyki Środowiska",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Mariola Kunicka",
+            "id": 691,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "Mariola Kunicka",
+                "email": "mariola.kunicka@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej (sekretariat)",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Jan Kazak",
+            "id": 690,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab.inż Jan Kazak, prof.uczelni",
+                "email": "jan.kazak@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią; Pracownia Audiosfery i Akustyki Środowiska",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Piotr Krajewski",
+            "id": 689,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab.inż Piotr Krajewski, prof.uczelni",
+                "email": "piotr.krajewski@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Planowania i Kształtowania Przestrzeni ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marek Furmankiewicz",
+            "id": 688,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. Marek Furmankiewicz, prof.uczelni ",
+                "email": "marek.furmankiewicz@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej;  Zakład Studiów Społeczno-Ekonomicznych",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Halina Dzieżyc",
+            "id": 686,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Halina Dzieżyc",
+                "email": "halina.dziezyc@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Piotr Kunicki",
+            "id": 686,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "lic. Piotr Kunicki",
+                "email": "piotr.kunicki@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Rengin Aslanoglu",
+            "id": 685,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr Rengin Aslanoglu",
+                "email": "rengin.aslanoglu@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Iwona Kaczmarek",
+            "id": 685,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Iwona Kaczmarek",
+                "email": "iwona.kaczmarek@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Maciej Zathey",
+            "id": 685,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr Maciej Zathey",
+                "email": "maciej.zathey@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej;  Zakład Studiów Społeczno-Ekonomicznych",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Beata Raszka",
+            "id": 684,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. Beata Raszka",
+                "email": "beata.raszka@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Planowania i Kształtowania Przestrzeni",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Grzegorz Chrobak",
+            "id": 683,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Grzegorz Chrobak",
+                "email": "grzegorz.chrobak@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Pracownia Audiosfery i Akustyki Środowiska; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Małgorzata Świąder",
+            "id": 683,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż.Małgorzata Świąder",
+                "email": "malgorzata.swiader@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Iga Kołodyńska ",
+            "id": 705,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Iga kołodyńska ",
+                "email": "iga.solecka@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Pracownia Audiosfery i Akustyki Środowiska; Zakład Planowania i Kształtowania Przestrzeni",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marta Sylla",
+            "id": 705,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "dr Marta Sylla",
+                "email": "marta.sylla@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Monika Lebiedzińska",
+            "id": 704,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Monika Lebiedzińska",
+                "email": "monika.lebiedzinska@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Planowania i Kształtowania Przestrzeni ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Aleksandra Lubańska",
+            "id": 704,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Aleksandra Lubańska",
+                "email": "aleksandra.lubanska@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Sandra Nawrocka",
+            "id": 704,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Sandra Nawrocka",
+                "email": "sandra.nawrocka@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marta Sawras",
+            "id": 704,
+            "level": 1,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Marta Sawras",
+                "email": "marta.bochenkiewicz@upwr.edu.pl ",
+                "institute": "Instutut Gospodarki Przestrzennej; Zakład Gospodarowania i Zarządzania Przestrzenią",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Justyna Jaworek",
+            "id": 730,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Justyna Jaworek",
+                "email": "justyna.jaworek@upwr.edu.pl ",
+                "institute": "Katedra architektury krajobrazu; Zakład Adaptacji do Zmian Klimatu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Łukasz Pardela",
+            "id": 730,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Łukasz Pardela",
+                "email": "lukasz.pardela@upwr.edu.pl ",
+                "institute": "Katedra architektury krajobrazu; Zakład Kształtowania Przestrzeni Miejskiej i Psychologii Środowiskowej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Karolina Zalewska",
+            "id": 729,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż arch kraj Karolina Zalewska",
+                "email": "karolina.zalewska@upwr.edu.pl ",
+                "institute": "Katedra architektury krajobrazu; Zakład Kształtowania Przestrzeni Miejskiej i Psychologii Środowiskowej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Kamila Pawłowska",
+            "id": 729,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż arch kraj Kamila Pawłowska",
+                "email": "kamila.pawlowska@upwr.edu.pl ",
+                "institute": "Centrum Zasobów i Wsparcia Dydaktyki; Sekcja Kształcenia na Odległość i Nowoczesnych Form Kształcenia",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Joanna Dobrzańska",
+            "id": 729,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż arch kraj Joanna Dobrzańska",
+                "email": "joanna.dobrzanska@upwr.edu.pl ",
+                "institute": "Katedra Architektury Krajobrazu; Zakład Adaptacji do Zmian Klimatu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Monika Ziemiańska",
+            "id": 728,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Monika Ziemiańska prof uczelni",
+                "email": "monika.ziemianska@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Oleksandra Strashok",
+            "id": 728,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Oleksandra Strashok",
+                "email": "oleksandra.strashok@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Katarzyna Tokarczyk-Dorociak",
+            "id": 727,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. Katarzyna Tokarczyk-Dorociak",
+                "email": "katarzyna.tokarczyk-dorociak@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marcin Sobota",
+            "id": 727,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Marcin Sobota",
+                "email": "marcin.sobota@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Robert Kalabarczyk",
+            "id": 724,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab.inż Robert Kalabarczyk, prof.uczelni",
+                "email": "robert.kalbarczyk@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Tomasz Malczyk",
+            "id": 718,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. Tomasz Malczyk, prof uczelni",
+                "email": "tomasz.malczyk@upwr.edu.pl",
+                "institute": "Instutut gospodarki przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Paweł Swianiewicz",
+            "id": 717,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab Paweł Swianiewicz",
+                "email": "pawel.swianiewicz@upwr.edu.pl",
+                "institute": "Instutut gospodarki przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Barbara Mastalska-Cetera",
+            "id": 716,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inz. Barbara Mastalska-Cetera",
+                "email": "barbara.mastalska-cetera@upwr.edu.pl",
+                "institute": "Instutut gospodarki przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marian Kachniarz",
+            "id": 715,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Marian Kachniarz, prof.uczelni",
+                "email": "marian.kachniarz@upwr.edu.pl",
+                "institute": "Instutut gospodarki przestrzennej ",
+                "build": "C5"
+            }
+        },
+        {
+            "name": " Maria Hełdak",
+            "id": 741,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż Maria Hełdak, prof uczelni",
+                "email": "maria.heldak@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Zbigniew Piepiora",
+            "id": 740,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. Zbigniew Piepiora, prof uczelni",
+                "email": "zbigniew.piepiora@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Alina Kulczyk-Dynowska",
+            "id": 739,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. Alina Kulczyk-Dynowska, prof uczelni ",
+                "email": "alina.kulczyk-dynowska@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Zofia Więckowicz",
+            "id": 738,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. inż. Zofia Więckowicz",
+                "email": "zofia.wieckowicz@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Agnieszka Stacherzak",
+            "id": 738,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Agnieszka Stacherzak",
+                "email": "agnieszka.stacherzak@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Jakub Szczepański",
+            "id": 737,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Jakub Szczepański",
+                "email": "jakub.szczepanski@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Monika Płuciennik",
+            "id": 736,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "mgr inż. Monika Płuciennik",
+                "email": "monika.pluciennik@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Katarzyna Przybyła",
+            "id": 736,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr Katarzyna Przybyła",
+                "email": "katarzyna.przybyla@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Eleonora Gonda-Soroczyńska",
+            "id": 735,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. arch. Eleonora Gonda-Soroczyńska",
+                "email": "eleonora.gonda-soroczynska@upwr.edu.pl",
+                "institute": "",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Tadeusz Lasota",
+            "id": 735,
+            "level": 2,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Tadeusz Lasota",
+                "email": "tadeusz.lasota@upwr.edu.pl",
+                "institute": "Instytut gospodarki przestrzennej",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Kornelia Kwiecińska",
+            "id": 763,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr Kornelia Kwiecińska",
+                "email": "kornelia.kwiecinska@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Elżbieta Szopińska",
+            "id": 763,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr Elżbieta Szopińska",
+                "email": "elzbieta.szopinska@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Renata Gubańska",
+            "id": 764,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. arch. Renata Gubańska, prof uczelni",
+                "email": "renata.gubanska@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Jacek Brudziński",
+            "id": 765,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. arch. Jacek Brudziński",
+                "email": "",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Janusz Gubański",
+            "id": 765,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Janusz Gubański",
+                "email": "janusz.gubanski@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Ewa Podhajska",
+            "id": 769,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. Ewa Podhajska",
+                "email": "ewa.podhajska@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Magdalena Zienowicz",
+            "id": 769,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż. arc. Magdalena Zienowicz",
+                "email": "magdalena.zienowicz@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Irena Niedźwiecka-Filipiak",
+            "id": 770,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż arch Irena Niedźwiecka-Filipiak, prof uczelni",
+                "email": "irena.niedzwiecka-filipiak@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Anna Borcz",
+            "id": 771,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr Anna Borcz",
+                "email": "anna.borcz@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Jolanta Just-Maruszewska",
+            "id": 751,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "inż Jolanta Just-Maruszewska",
+                "email": "jolanta.just-maruszewska@upwr.edu.pl",
+                "institute": "Sekretariat katedry architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Beata Kwiecień",
+            "id": 751,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "inż Beata Kwiecień",
+                "email": "beata.kwiecien@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Bartosz Jawecki",
+            "id": 754,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab. inż. Bartosz Jawecki, prof uczelni ",
+                "email": "bartosz.jawecki@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Marek Lorenc",
+            "id": 755,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "prof. dr hab. Marek Lorenc",
+                "email": "marek.lorenc@upwr.edu.pl",
+                "institute": "Instytut architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Justyna Rubaszek",
+            "id": 756,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż arch Justyna Rubaszek",
+                "email": "justyna.rubaszek@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu; Zakład Projektowania Krajobrazu i Zielonej Infrastruktury",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Aleksandra Lis",
+            "id": 757,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab inż arch Aleksandra Lis, prof uczelni",
+                "email": "aleksandra.lis@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Maciej Filipiak",
+            "id": 758,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr hab Maciej Filipiak, prof uczelni",
+                "email": "maciej.filipiak@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
+        },
+        {
+            "name": "Jerzy Potyrała",
+            "id": 759,
+            "level": 3,
+            "build": "C3",
+            "description": {
+                "title": "dr inż arch. Jerzy Potyrała",
+                "email": "jerzy.potyrala@upwr.edu.pl",
+                "institute": "Katedra architektury krajobrazu",
+                "build": "C5"
+            }
         }
     ]
 }
