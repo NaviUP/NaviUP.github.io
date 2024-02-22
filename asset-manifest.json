@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NaviUP/NaviUP.github.io/static/css/main.9b74f0c6.css",
-    "main.js": "/NaviUP/NaviUP.github.io/static/js/main.05d8a06b.js",
+    "main.js": "/NaviUP/NaviUP.github.io/static/js/main.ee6d2ce8.js",
     "static/js/592.e2d16320.chunk.js": "/NaviUP/NaviUP.github.io/static/js/592.e2d16320.chunk.js",
     "static/media/cursor.png": "/NaviUP/NaviUP.github.io/static/media/cursor.6696c6c77f87ea307ea7.png",
     "index.html": "/NaviUP/NaviUP.github.io/index.html",
     "main.9b74f0c6.css.map": "/NaviUP/NaviUP.github.io/static/css/main.9b74f0c6.css.map",
-    "main.05d8a06b.js.map": "/NaviUP/NaviUP.github.io/static/js/main.05d8a06b.js.map",
+    "main.ee6d2ce8.js.map": "/NaviUP/NaviUP.github.io/static/js/main.ee6d2ce8.js.map",
     "592.e2d16320.chunk.js.map": "/NaviUP/NaviUP.github.io/static/js/592.e2d16320.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b74f0c6.css",
-    "static/js/main.05d8a06b.js"
+    "static/js/main.ee6d2ce8.js"
   ]
 }
