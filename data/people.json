@@ -1,514 +1,10 @@
 {
     "people": [
         {
-            "name": "Aghajany Haji Saeid",
-            "id": 63,
-            "level": 1,
-            "build": "C1"
-        },
-        {
-            "name": "Bogusławski Paweł",
-            "id": 128,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Paweł Bogusławski, profesor uczelni",
-                "email": "pawel.boguslawski@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Bury Grzegorz",
-            "id": 145,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Grzegorz Bury",
-                "email": "grzegorz.bury@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Cegła Adam",
-            "id": 66,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Adam Cegła",
-                "email": "adam.cegla@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Ćmielewski Kazimierz",
-            "id": 6,
-            "level": -1,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Kazimierz Ćmielewski, profesor uczelni",
-                "email": "kazimierz.cmielewski@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Dach Wojciech",
-            "id": 72,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr Wojciech Dach",
-                "email": "wojciech.dach@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Drożdżewski Mateusz",
-            "id": 139,
-            "level": 3,
-            "build": "C1"
-        },
-        {
-            "name": "Dzikowska Teresa",
-            "id": 68,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Teresa Dzikowska",
-                "email": "teresa.dzikowska@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Gałdyn Filip",
-            "id": 150,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "Filip Gałdyn",
-                "email": "filip.galdyn@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Gołuch Piotr",
-            "id": 54,
-            "level": 0,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Piotr Gołuch, profesor uczelni",
-                "email": "piotr.goluch@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Hadaś Edyta",
-            "id": 131,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Edyta Hadaś",
-                "email": "edyta.hadas@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Hadaś Tomasz",
-            "id": 152,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Tomasz Hadaś, profesor uczelni",
-                "email": "tomasz.hadas@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Hordyniec Barbara",
-            "id": 70,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Barbara Hodrydniec",
-                "email": "barbara.hordyniec@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Hordyniec Paweł",
-            "id": 74,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Paweł Hordyniec",
-                "email": "pawel.hordyniec@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Ilieva Maya",
-            "id": 130,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr Maya Blogoeva Ilieva",
-                "email": "maya.ilieva@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Iwaniak Adam",
-            "id": 125,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Adam Iwaniak, profesor uczelni",
-                "email": "adam.iwaniak@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Jamroz Olgierd",
-            "id": 133,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Olgierd Jamroz",
-                "email": "olgierd.jamroz@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Jóźków Grzegorz",
-            "id": 124,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Grzegorz Jóźków, profesor uczelni",
-                "email": "grzegorz.jozkow@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Kaczmarek Adrian",
-            "id": 139,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Adrian Kaczmarek",
-                "email": "adrian.kaczmarek@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Kapłon Jan",
-            "id": 142,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Jan Kapłon, profesor uczelni",
-                "email": "jan.kaplon@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Karpina Mateusz",
-            "id": 50,
-            "level": 0,
-            "build": "C1"
-        },
-        {
-            "name": "Kaźmierski Kamil",
-            "id": 138,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Kamil Kaźmierski",
-                "email": "kamil.kazmierski@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Kuchmister Janusz",
-            "id": 8,
-            "level": -1,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Janusz Kuchmister",
-                "email": "janusz.kuchmister@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Marut Grzegorz",
-            "id": 138,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Grzegorz Marut",
-                "email": "grzegorz.marut@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Mehdi Saqib",
-            "id": 67,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "Saqib Mehdi",
-                "email": "saqib.mehdi@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Michalski Adam",
-            "id": 132,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Adam Michalski",
-                "email": "adam.michalski@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Mikoś Marcin",
-            "id": 150,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "Marcin Mikoś",
-                "email": "marcin.mikos@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Najder Joanna",
-            "id": 145,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Joanna Najder",
-                "email": "joanna.najder@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Owczarek-Wesołowska Magdalena",
-            "id": 76,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Magdalena Owczarek-Wesołowska",
-                "email": "magdalena.owczarek-wesolowska@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Pawłuszek-Filipiak Kamila",
-            "id": 129,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Kamila Pawłuszek-Filipiak",
-                "email": "kamila.pawluszek@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Piotrowicz Michał",
-            "id": 132,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Michał Piotrowicz",
-                "email": "michal.piotrowicz@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Porucznik Sylwia",
-            "id": 68,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Sylwia Porucznik",
-                "email": "sylwia.porucznik@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Rohm Witold",
-            "id": 73,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "Prof. dr hab. inż. Witold Rohm",
-                "email": "witold.rohm@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Sierny Jan",
-            "id": 76,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Jan Sierny",
-                "email": "jan.sierny@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Smolak Kamil",
-            "id": 74,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Kamil Smolak",
-                "email": "kamil.smolak@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Sośnica Krzysztof",
-            "id": 143,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "Prof. dr hab. inż. Krzysztof Sośnica",
-                "email": "krzysztof.sosnica@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Sowa Wojciech",
-            "id": 51,
-            "level": 0,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Wojciech Sowa",
-                "email": "wojciech.sowa@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Stasch Krzysztof",
-            "id": 128,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Krzysztof Stasch",
-                "email": "krzysztof.stasch@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Strugarek Dariusz",
-            "id": 146,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Dariusz Strugarek",
-                "email": "dariusz.strugarek@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Tondaś Damian",
-            "id": 66,
-            "level": 1,
-            "build": "C1"
-        },
-        {
-            "name": "Trojanowicz Marek",
-            "id": 140,
-            "level": 0,
-            "build": "C1",
-            "description": {
-                "title": "dr hab. inż. Marek Trojanowicz, profesor uczelni",
-                "email": "marek.trojanowicz@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Trzcina Estera",
-            "id": 70,
-            "level": 1,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Estera Trzcina",
-                "email": "estera.trzcina@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Wielgocka Natalia",
-            "id": 131,
-            "level": 2,
-            "build": "C1",
-            "description": {
-                "title": "mgr inż. Natalia Wielgocka",
-                "email": "natalia.wielgocka@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki",
-                "build": "C1"
-            }
-        },
-        {
-            "name": "Zajdel Radosław",
-            "id": 146,
-            "level": 3,
-            "build": "C1",
-            "description": {
-                "title": "dr inż. Radosław Zajdel",
-                "email": "radoslaw.zajdel@upwr.edu.pl",
-                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
-                "build": "C1"
-            }
-        },
-        {
             "name": "Budek Karolina ",
             "id": 60,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "Karolina Budek",
                 "email": "karolina.budek@upwr.edu.pl",
@@ -520,7 +16,7 @@
             "name": "Kmieć Anna ",
             "id": 62,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Anna Kmieć",
                 "email": "anna.kmiec@upwr.edu.pl",
@@ -532,7 +28,7 @@
             "name": "Gębarowska Elżbieta ",
             "id": 42,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Elżbieta Gębarowska",
                 "email": "elzbieta.gebarowska@upwr.edu.pl",
@@ -544,7 +40,7 @@
             "name": "Pietr Stanisław ",
             "id": 45,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "prof. dr hab. inż. Stanisław Pietr",
                 "email": "stanislaw.pietr@upwr.edu.pl",
@@ -556,7 +52,7 @@
             "name": "Magnucka Elżbieta ",
             "id": 35,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Elżbieta Magnucka",
                 "email": "elzbieta.magnucka@upwr.edu.pl",
@@ -568,7 +64,7 @@
             "name": "Oksińska Małgorzata ",
             "id": 35,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Małgorzata Oksińska",
                 "email": "malgorzata.oksinska@upwr.edu.pl",
@@ -580,7 +76,7 @@
             "name": "Kucińska Jolanta ",
             "id": 46,
             "level": 0,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Jolanta Kucińska",
                 "email": "jolanta.kucinska@upwr.edu.pl",
@@ -592,7 +88,7 @@
             "name": "Bogacz Adam ",
             "id": 81,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "prof. dr hab. inż. Adam Bogacz",
                 "email": "adam.bogacz@upwr.edu.pl",
@@ -604,7 +100,7 @@
             "name": "Perlak Zbigniew ",
             "id": 82,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Zbigniew Perlak",
                 "email": "zbigniew.perlak@upwr.edu.pl",
@@ -616,7 +112,7 @@
             "name": "Tyszka Rafał ",
             "id": 85,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. Rafał Tyszka, profesor uczelni",
                 "email": "rafal.tyszka@upwr.edu.pl",
@@ -628,7 +124,7 @@
             "name": "Kot Aleksandra ",
             "id": 85,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Aleksandra Kot",
                 "email": "aleksandra.kot@upwr.edu.pl",
@@ -640,7 +136,7 @@
             "name": "Kabała Cezary ",
             "id": 87,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "prof. dr hab. inż. Cezary Kabała",
                 "email": "cezary.kabala@upwr.edu.pl",
@@ -652,7 +148,7 @@
             "name": "Kaszubkiewicz Jarosław ",
             "id": 89,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "prof. dr hab. inż. Jarosław Kaszubkiewicz",
                 "email": "jaroslaw.kaszubkiewicz@upwr.edu.pl",
@@ -664,7 +160,7 @@
             "name": "Jamroz Elżbieta ",
             "id": 90,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Elżbieta Jamroz, profesor uczelni",
                 "email": "elzbieta.jamroz@upwr.edu.pl",
@@ -676,7 +172,7 @@
             "name": "Kawałko Dorota ",
             "id": 91,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Dorota Kawałko",
                 "email": "dorota.kawalko@upwr.edu.pl",
@@ -688,7 +184,7 @@
             "name": "Medyńska-Juraszek Agnieszka ",
             "id": 93,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Agnieszka Medyńska-Juraszek, profesor uczelni",
                 "email": "agnieszka.medynska-juraszek@upwr.edu.pl",
@@ -700,7 +196,7 @@
             "name": "Ćwieląg- Piasecka Irmina ",
             "id": 94,
             "level": 1,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Irmina Ćwieląg-Piasecka",
                 "email": "irmina.cwielag-piasecka@upwr.edu.pl",
@@ -712,7 +208,7 @@
             "name": "Jędrzejewski  Szymon ",
             "id": 102,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Szymon Jędrzejewski ",
                 "email": "szymon.jedrzejewski@upwr.edu.pl",
@@ -724,7 +220,7 @@
             "name": "Swoboda Michalina ",
             "id": 103,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr Michalina Swoboda",
                 "email": "michalina.swoboda@upwr.edu.pl",
@@ -736,7 +232,7 @@
             "name": "Jadhav Bhakti ",
             "id": 108,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "Bhakti Jadhav",
                 "email": "bhakti.jadhav@upwr.edu.pl",
@@ -748,7 +244,7 @@
             "name": "Gruszka Dariusz ",
             "id": 108,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Dariusz Gruszka",
                 "email": "dariusz.gruszka@upwr.edu.pl",
@@ -760,7 +256,7 @@
             "name": "Załuska Justyna ",
             "id": 108,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Justyna Załuska",
                 "email": "justyna.zaluska@upwr.edu.pl",
@@ -772,7 +268,7 @@
             "name": "Weber Jerzy ",
             "id": 109,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "prof. dr hab. inż. Jerzy Weber",
                 "email": "jerzy.weber@upwr.edu.pl",
@@ -784,7 +280,7 @@
             "name": "Bekier Jakub ",
             "id": 120,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Jakub Bekier",
                 "email": "jakub.bekier@upwr.edu.pl",
@@ -796,7 +292,7 @@
             "name": "Kowalska Joanna ",
             "id": 119,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Joanna Kowalska",
                 "email": "joanna.kowalska@upwr.edu.pl",
@@ -808,7 +304,7 @@
             "name": "Waroszewski Jaroslaw ",
             "id": 118,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Jarosław Waroszewski, profesor uczelni",
                 "email": "jaroslaw.waroszewski@upwr.edu.pl",
@@ -820,7 +316,7 @@
             "name": "Jezierski  Paweł ",
             "id": 117,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Paweł Jezierski",
                 "email": "pawel.jezierski@upwr.edu.pl",
@@ -832,7 +328,7 @@
             "name": "Kocowicz Andrzej ",
             "id": 116,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Andrzej Kocowicz",
                 "email": "andrzej.kocowicz@upwr.edu.pl",
@@ -844,7 +340,7 @@
             "name": "Szopka Katarzyna ",
             "id": 115,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Katarzyna Szopka, profesor uczelni",
                 "email": "katarzyna.szopka@upwr.edu.pl",
@@ -856,7 +352,7 @@
             "name": "Szadorski  Jarosław ",
             "id": 113,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr Jarosław Szadorski",
                 "email": "jaroslaw.szadorski@upwr.edu.pl",
@@ -868,7 +364,7 @@
             "name": "Łabaz Beata ",
             "id": 112,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Beata Łabaz, prof. uczelni ",
                 "email": "beata.labaz@upwr.edu.pl",
@@ -880,7 +376,7 @@
             "name": "Dębicka  Magdalena ",
             "id": 111,
             "level": 2,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Magdalena Dębicka ",
                 "email": "magdalena.debicka@upwr.edu.pl",
@@ -892,7 +388,7 @@
             "name": "Ryl Renata ",
             "id": 159,
             "level": 3,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Renata Ryl",
                 "email": "renata.ryl@upwr.edu.pl",
@@ -904,7 +400,7 @@
             "name": "Gediga Krzysztof ",
             "id": 160,
             "level": 3,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Krzysztof Gediga",
                 "email": "krzysztof.gediga@upwr.edu.pl",
@@ -916,7 +412,7 @@
             "name": "Rafalska Teresa ",
             "id": 165,
             "level": 3,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "Teresa Rafalska",
                 "email": "teresa.rafalska@upwr.edu.pl",
@@ -928,7 +424,7 @@
             "name": "Sacała Elżbieta ",
             "id": 170,
             "level": 3,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Elżbieta Sacała",
                 "email": "elzbieta.sacala@upwr.edu.pl",
@@ -940,7 +436,7 @@
             "name": "Stępień Piotr ",
             "id": 169,
             "level": 3,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr Piotr Stępień",
                 "email": "piotr.stepien@upwr.edu.pl",
@@ -952,7 +448,7 @@
             "name": "Karmowska (Zmiana nazwiska) Kamila ",
             "id": 200,
             "level": 4,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr inż. Kamila Stępień",
                 "email": "kamila.stepien@upwr.edu.pl",
@@ -964,7 +460,7 @@
             "name": "Ossowska Magdalena ",
             "id": 200,
             "level": 4,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "mgr inż. Magdalena Ossowska",
                 "email": "magdalena.ossowska@upwr.edu.pl",
@@ -976,7 +472,7 @@
             "name": "Kulczycki Grzegorz ",
             "id": 199,
             "level": 4,
-            "build": "C2",
+            "build": "C1",
             "description": {
                 "title": "dr hab. inż. Grzegorz Kulczycki, profesor uczelni",
                 "email": "grzegorz.kulczycki@upwr.edu.pl",
@@ -3808,7 +3304,7 @@
             "name": "Kontny Bernard ",
             "id": 667,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Prof. dr.hab. inż Bernard Kontny",
                 "email": "bernard.kontny@upwr.edu.pl",
@@ -3820,7 +3316,7 @@
             "name": "Wenda-Zając Iwona ",
             "id": 666,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr Iwona Wenda-Zając",
                 "email": "iwona.wenda-zajac@upwr.edu.pl ",
@@ -3832,7 +3328,7 @@
             "name": "Raszka Beata ",
             "id": 670,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Prof. dr.hab. Beata Raszka",
                 "email": "beata.raszka@upwr.edu.pl ",
@@ -3844,7 +3340,7 @@
             "name": "Gubańska Renata ",
             "id": 670,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Dr.hab.inż.arch. Renata Gubańska, prof.uczelni ",
                 "email": "renata.gubanska@upwr.edu.pl ",
@@ -3856,7 +3352,7 @@
             "name": "Głowski Robert ",
             "id": 669,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Dr.hab. Robert Głowski, prof. uczelni ",
                 "email": "robert.glowski@upwr.edu.pl ",
@@ -3868,7 +3364,7 @@
             "name": "Gołuch Piotr ",
             "id": 669,
             "level": 0,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Dr.hab.inż. Piotr Gołuch, prof.uczelni ",
                 "email": "piotr.goluch@upwr.edu.pl ",
@@ -3880,7 +3376,7 @@
             "name": "Drobny Aleksander ",
             "id": 696,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Dr.inż.Aleksander Drobny",
                 "email": "aleksander.drobny@upwr.edu.pl ",
@@ -3892,7 +3388,7 @@
             "name": "Lipsa Joanna ",
             "id": 696,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr.inż. Joanna Lipsa",
                 "email": "joanna.lipsa@upwr.edu.pl ",
@@ -3904,7 +3400,7 @@
             "name": "Kempa Olgierd ",
             "id": 697,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Dr.inż.Olgierd Kempa",
                 "email": "olgierd.kempa@upwr.edu.pl ",
@@ -3916,7 +3412,7 @@
             "name": "Szuszkiewicz Tomasz ",
             "id": 697,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr Tomasz Szuszkiewicz",
                 "email": "tomasz.szuszkiewicz@upwr.edu.pl ",
@@ -3928,7 +3424,7 @@
             "name": "Szewrański Szymon ",
             "id": 692,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "prof. dr hab.inż. Szymon Szewrański",
                 "email": "szymon.szewranski@upwr.edu.pl ",
@@ -3940,7 +3436,7 @@
             "name": "Kunicka Mariola ",
             "id": 691,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "Mariola Kunicka",
                 "email": "mariola.kunicka@upwr.edu.pl ",
@@ -3952,7 +3448,7 @@
             "name": "Kazak Jan ",
             "id": 690,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab.inż Jan Kazak, prof.uczelni",
                 "email": "jan.kazak@upwr.edu.pl ",
@@ -3964,7 +3460,7 @@
             "name": "Krajewski Piotr ",
             "id": 689,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab.inż Piotr Krajewski, prof.uczelni",
                 "email": "piotr.krajewski@upwr.edu.pl ",
@@ -3976,7 +3472,7 @@
             "name": "Furmankiewicz Marek ",
             "id": 688,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. Marek Furmankiewicz, prof.uczelni ",
                 "email": "marek.furmankiewicz@upwr.edu.pl ",
@@ -3988,7 +3484,7 @@
             "name": "Dzieżyc Halina ",
             "id": 686,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Halina Dzieżyc",
                 "email": "halina.dziezyc@upwr.edu.pl ",
@@ -4000,7 +3496,7 @@
             "name": "Kunicki Piotr ",
             "id": 686,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "lic. Piotr Kunicki",
                 "email": "piotr.kunicki@upwr.edu.pl ",
@@ -4012,7 +3508,7 @@
             "name": "Aslanoglu Rengin ",
             "id": 685,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Rengin Aslanoglu",
                 "email": "rengin.aslanoglu@upwr.edu.pl ",
@@ -4024,7 +3520,7 @@
             "name": "Kaczmarek Iwona ",
             "id": 685,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Iwona Kaczmarek",
                 "email": "iwona.kaczmarek@upwr.edu.pl ",
@@ -4036,7 +3532,7 @@
             "name": "Zathey Maciej ",
             "id": 685,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Maciej Zathey",
                 "email": "maciej.zathey@upwr.edu.pl ",
@@ -4048,7 +3544,7 @@
             "name": "Raszka Beata ",
             "id": 684,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "prof. dr hab. Beata Raszka",
                 "email": "beata.raszka@upwr.edu.pl ",
@@ -4060,7 +3556,7 @@
             "name": "Chrobak Grzegorz ",
             "id": 683,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Grzegorz Chrobak",
                 "email": "grzegorz.chrobak@upwr.edu.pl ",
@@ -4072,7 +3568,7 @@
             "name": "Świąder Małgorzata ",
             "id": 683,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż.Małgorzata Świąder",
                 "email": "malgorzata.swiader@upwr.edu.pl ",
@@ -4084,7 +3580,7 @@
             "name": "Kołodyńska  Iga ",
             "id": 705,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Iga kołodyńska ",
                 "email": "iga.solecka@upwr.edu.pl ",
@@ -4096,7 +3592,7 @@
             "name": "Sylla Marta ",
             "id": 705,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Marta Sylla",
                 "email": "marta.sylla@upwr.edu.pl ",
@@ -4108,7 +3604,7 @@
             "name": "Lebiedzińska Monika ",
             "id": 704,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Monika Lebiedzińska",
                 "email": "monika.lebiedzinska@upwr.edu.pl ",
@@ -4120,7 +3616,7 @@
             "name": "Lubańska Aleksandra ",
             "id": 704,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Aleksandra Lubańska",
                 "email": "aleksandra.lubanska@upwr.edu.pl ",
@@ -4132,7 +3628,7 @@
             "name": "Nawrocka Sandra ",
             "id": 704,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Sandra Nawrocka",
                 "email": "sandra.nawrocka@upwr.edu.pl ",
@@ -4144,7 +3640,7 @@
             "name": "Sawras Marta ",
             "id": 704,
             "level": 1,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Marta Sawras",
                 "email": "marta.bochenkiewicz@upwr.edu.pl ",
@@ -4156,7 +3652,7 @@
             "name": "Jaworek Justyna ",
             "id": 730,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Justyna Jaworek",
                 "email": "justyna.jaworek@upwr.edu.pl ",
@@ -4168,7 +3664,7 @@
             "name": "Pardela Łukasz ",
             "id": 730,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Łukasz Pardela",
                 "email": "lukasz.pardela@upwr.edu.pl ",
@@ -4180,7 +3676,7 @@
             "name": "Zalewska Karolina ",
             "id": 729,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż arch kraj Karolina Zalewska",
                 "email": "karolina.zalewska@upwr.edu.pl ",
@@ -4192,7 +3688,7 @@
             "name": "Pawłowska Kamila ",
             "id": 729,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż arch kraj Kamila Pawłowska",
                 "email": "kamila.pawlowska@upwr.edu.pl ",
@@ -4204,7 +3700,7 @@
             "name": "Dobrzańska Joanna ",
             "id": 729,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż arch kraj Joanna Dobrzańska",
                 "email": "joanna.dobrzanska@upwr.edu.pl ",
@@ -4216,7 +3712,7 @@
             "name": "Ziemiańska Monika ",
             "id": 728,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab inż Monika Ziemiańska prof uczelni",
                 "email": "monika.ziemianska@upwr.edu.pl",
@@ -4228,7 +3724,7 @@
             "name": "Strashok Oleksandra ",
             "id": 728,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Oleksandra Strashok",
                 "email": "oleksandra.strashok@upwr.edu.pl",
@@ -4240,7 +3736,7 @@
             "name": "Tokarczyk-Dorociak Katarzyna ",
             "id": 727,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. inż. Katarzyna Tokarczyk-Dorociak",
                 "email": "katarzyna.tokarczyk-dorociak@upwr.edu.pl",
@@ -4252,7 +3748,7 @@
             "name": "Sobota Marcin ",
             "id": 727,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Marcin Sobota",
                 "email": "marcin.sobota@upwr.edu.pl",
@@ -4264,7 +3760,7 @@
             "name": "Kalabarczyk Robert ",
             "id": 724,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab.inż Robert Kalabarczyk, prof.uczelni",
                 "email": "robert.kalbarczyk@upwr.edu.pl",
@@ -4276,7 +3772,7 @@
             "name": "Malczyk Tomasz ",
             "id": 718,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. inż. Tomasz Malczyk, prof uczelni",
                 "email": "tomasz.malczyk@upwr.edu.pl",
@@ -4288,7 +3784,7 @@
             "name": "Swianiewicz Paweł ",
             "id": 717,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "prof. dr hab Paweł Swianiewicz",
                 "email": "pawel.swianiewicz@upwr.edu.pl",
@@ -4300,7 +3796,7 @@
             "name": "Mastalska-Cetera Barbara ",
             "id": 716,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inz. Barbara Mastalska-Cetera",
                 "email": "barbara.mastalska-cetera@upwr.edu.pl",
@@ -4312,7 +3808,7 @@
             "name": "Kachniarz Marian ",
             "id": 715,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab Marian Kachniarz, prof.uczelni",
                 "email": "marian.kachniarz@upwr.edu.pl",
@@ -4324,7 +3820,7 @@
             "name": "Maria Hełdak  ",
             "id": 741,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab inż Maria Hełdak, prof uczelni",
                 "email": "maria.heldak@upwr.edu.pl",
@@ -4336,7 +3832,7 @@
             "name": "Piepiora Zbigniew ",
             "id": 740,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. Zbigniew Piepiora, prof uczelni",
                 "email": "zbigniew.piepiora@upwr.edu.pl",
@@ -4348,7 +3844,7 @@
             "name": "Kulczyk-Dynowska Alina ",
             "id": 739,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. Alina Kulczyk-Dynowska, prof uczelni ",
                 "email": "alina.kulczyk-dynowska@upwr.edu.pl",
@@ -4360,7 +3856,7 @@
             "name": "Więckowicz Zofia ",
             "id": 738,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "prof. dr hab. inż. Zofia Więckowicz",
                 "email": "zofia.wieckowicz@upwr.edu.pl",
@@ -4372,7 +3868,7 @@
             "name": "Stacherzak Agnieszka ",
             "id": 738,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Agnieszka Stacherzak",
                 "email": "agnieszka.stacherzak@upwr.edu.pl",
@@ -4384,7 +3880,7 @@
             "name": "Szczepański Jakub ",
             "id": 737,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Jakub Szczepański",
                 "email": "jakub.szczepanski@upwr.edu.pl",
@@ -4396,7 +3892,7 @@
             "name": "Płuciennik Monika ",
             "id": 736,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "mgr inż. Monika Płuciennik",
                 "email": "monika.pluciennik@upwr.edu.pl",
@@ -4408,7 +3904,7 @@
             "name": "Przybyła Katarzyna ",
             "id": 736,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Katarzyna Przybyła",
                 "email": "katarzyna.przybyla@upwr.edu.pl",
@@ -4420,7 +3916,7 @@
             "name": "Gonda-Soroczyńska Eleonora ",
             "id": 735,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. inż. arch. Eleonora Gonda-Soroczyńska",
                 "email": "eleonora.gonda-soroczynska@upwr.edu.pl",
@@ -4432,7 +3928,7 @@
             "name": "Lasota Tadeusz ",
             "id": 735,
             "level": 2,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Tadeusz Lasota",
                 "email": "tadeusz.lasota@upwr.edu.pl",
@@ -4444,7 +3940,7 @@
             "name": "Kwiecińska Kornelia ",
             "id": 763,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Kornelia Kwiecińska",
                 "email": "kornelia.kwiecinska@upwr.edu.pl",
@@ -4456,7 +3952,7 @@
             "name": "Szopińska Elżbieta ",
             "id": 763,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Elżbieta Szopińska",
                 "email": "elzbieta.szopinska@upwr.edu.pl",
@@ -4468,7 +3964,7 @@
             "name": "Gubańska Renata ",
             "id": 764,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. inż. arch. Renata Gubańska, prof uczelni",
                 "email": "renata.gubanska@upwr.edu.pl",
@@ -4480,7 +3976,7 @@
             "name": "Brudziński Jacek ",
             "id": 765,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. arch. Jacek Brudziński",
                 "email": "",
@@ -4492,7 +3988,7 @@
             "name": "Gubański Janusz ",
             "id": 765,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Janusz Gubański",
                 "email": "janusz.gubanski@upwr.edu.pl",
@@ -4504,7 +4000,7 @@
             "name": "Podhajska Ewa ",
             "id": 769,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. Ewa Podhajska",
                 "email": "ewa.podhajska@upwr.edu.pl",
@@ -4516,7 +4012,7 @@
             "name": "Zienowicz Magdalena ",
             "id": 769,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż. arc. Magdalena Zienowicz",
                 "email": "magdalena.zienowicz@upwr.edu.pl",
@@ -4528,7 +4024,7 @@
             "name": "Niedźwiecka-Filipiak Irena ",
             "id": 770,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab inż arch Irena Niedźwiecka-Filipiak, prof uczelni",
                 "email": "irena.niedzwiecka-filipiak@upwr.edu.pl",
@@ -4540,7 +4036,7 @@
             "name": "Borcz Anna ",
             "id": 771,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr Anna Borcz",
                 "email": "anna.borcz@upwr.edu.pl",
@@ -4552,7 +4048,7 @@
             "name": "Just-Maruszewska Jolanta ",
             "id": 751,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "inż Jolanta Just-Maruszewska",
                 "email": "jolanta.just-maruszewska@upwr.edu.pl",
@@ -4564,7 +4060,7 @@
             "name": "Kwiecień Beata ",
             "id": 751,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "inż Beata Kwiecień",
                 "email": "beata.kwiecien@upwr.edu.pl",
@@ -4576,7 +4072,7 @@
             "name": "Jawecki Bartosz ",
             "id": 754,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab. inż. Bartosz Jawecki, prof uczelni ",
                 "email": "bartosz.jawecki@upwr.edu.pl",
@@ -4588,7 +4084,7 @@
             "name": "Lorenc Marek ",
             "id": 755,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "prof. dr hab. Marek Lorenc",
                 "email": "marek.lorenc@upwr.edu.pl",
@@ -4600,7 +4096,7 @@
             "name": "Rubaszek Justyna ",
             "id": 756,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż arch Justyna Rubaszek",
                 "email": "justyna.rubaszek@upwr.edu.pl",
@@ -4612,7 +4108,7 @@
             "name": "Lis Aleksandra ",
             "id": 757,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab inż arch Aleksandra Lis, prof uczelni",
                 "email": "aleksandra.lis@upwr.edu.pl",
@@ -4624,7 +4120,7 @@
             "name": "Filipiak Maciej ",
             "id": 758,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr hab Maciej Filipiak, prof uczelni",
                 "email": "maciej.filipiak@upwr.edu.pl",
@@ -4636,7 +4132,7 @@
             "name": "Potyrała Jerzy ",
             "id": 759,
             "level": 3,
-            "build": "C3",
+            "build": "C5",
             "description": {
                 "title": "dr inż arch. Jerzy Potyrała",
                 "email": "jerzy.potyrala@upwr.edu.pl",
