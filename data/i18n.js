@@ -21,7 +21,7 @@ i18n
         translation: {
           flipData: {
             text: 'To display the model correctly, rotate your phone',
-            img: './images/flip.png',
+            img: '../../images/flip.png',
           },
           aboutData: {
             title: 'About Us',
@@ -59,30 +59,39 @@ i18n
           contactData: {
             header: 'Office',
             basicInfo: {
-              mail: ' skn_geodetow@upwr.edu.pl',
-              address: ' ul. Grunwaldzka 53, 50-357 Wrocław'
+              mail: 'skn_geodetow@upwr.edu.pl',
+              address: 'room 023 G, building C1'
             },
             people: [
               {
                 key: 0,
                 role: 'Chairman',
-                name: 'Maurycy Hechmann',
-                mail: ' maurycyhechmann@gmail.com',
-                phone: ' +48 697 592 660',
+                name: 'Hanna Romank',
               },
               {
                 key: 1,
                 role: 'Deputy-Chairman',
-                name: 'Wiktoria Kowalczyk',
-                mail: ' wiktoriakowalczyk05@gmail.com',
-                phone: ' +48 883 521 625',
+                name: 'Miłosz Olszewski',
               },
               {
                 key: 2,
-                role: 'Member of the Management Board',
-                name: ' Emilia Biczel',
-                mail: ' emilia.biczel@gmail.com',
+                role: 'Service Administrator',
+                name: 'Konrad Kostrzanowski',
+                mail: '115476@student.upwr.edu.pl',
               },
+            ],
+            doctorsTitle:'SKN Geodetów Supervisors', 
+            doctors: [
+              {
+                key: 0,
+                name: 'dr inż. Kamil Kaźmierski',
+                mail: 'kamil.kazmierski@upwr.edu.pl'
+              },
+              {
+                key: 1,
+                name: 'dr inż. Adrian Kaczmarek',
+                mail: 'adrian.kaczmarek@upwr.edu.pl'
+              }
             ]
           },
           projectData: {
@@ -95,7 +104,7 @@ i18n
             },
             konkursLink: 'https://upwr.edu.pl/studia/studencka-aktywnosc/studenckie-projekty-badawcze/projekty-badawcze-skn/zwyciezcy-iv-edycji-2022',
             konkursText: 'Competition results (website in Polish)',
-            image: './images/upwr-logotyp-pl-poziomy.png',
+            image: '../../images/upwr-logotyp-pl-poziomy.png',
           },
           mainData: {
             whereAreYou: 'Where are you?',
@@ -116,6 +125,9 @@ i18n
                 text: 'Search'
               },
               {
+                text: 'View model'
+              },
+              {
                 text: 'About project'
               },
               {
@@ -123,6 +135,9 @@ i18n
               },
               {
                 text: 'Contact'
+              },
+              {
+                text: 'PathFinding'
               }
             ],
             login: {
@@ -155,7 +170,7 @@ i18n
         translation: {
           flipData: {
             text: 'Aby poprawnie wyświetlić model obróć telefon',
-            img: './images/flip.png',
+            img: '../../images/flip.png',
           },
           aboutData: {
             title: 'O nas',
@@ -193,30 +208,39 @@ i18n
           contactData: {
             header: 'Biuro',
             basicInfo: {
-              mail: ' skn_geodetow@upwr.edu.pl',
-              address: ' ul. Grunwaldzka 53, 50-357 Wrocław'
+              mail: 'skn_geodetow@upwr.edu.pl',
+              address: 'pokój 023 G, bud. C1'
             },
             people: [
               {
                 key: 0,
                 role: 'Przewodniczący',
-                name: 'Maurycy Hechmann',
-                mail: ' maurycyhechmann@gmail.com',
-                phone: ' +48 697 592 660',
+                name: 'Hanna Romank',
               },
               {
                 key: 1,
                 role: 'Z-ca Przewodniczącego',
-                name: 'Wiktoria Kowalczyk',
-                mail: ' wiktoriakowalczyk05@gmail.com',
-                phone: ' +48 883 521 625',
+                name: 'Miłosz Olszewski',
               },
               {
                 key: 2,
-                role: 'Członkini Zarządu',
-                name: ' Emilia Biczel',
-                mail: ' emilia.biczel@gmail.com',
+                role: 'Administrator serwisu',
+                name: 'Konrad Kostrzanowski',
+                mail: '115476@student.upwr.edu.pl',
               },
+            ],
+            doctorsTitle:'Opiekunowie SKN Geodetów', 
+            doctors: [
+              {
+                key: 0,
+                name: 'dr inż. Kamil Kaźmierski',
+                mail: 'kamil.kazmierski@upwr.edu.pl'
+              },
+              {
+                key: 1,
+                name: 'dr inż. Adrian Kaczmarek',
+                mail: 'adrian.kaczmarek@upwr.edu.pl'
+              }
             ]
           },
           projectData: {
@@ -229,7 +253,7 @@ i18n
             },
             konkursLink: 'https://upwr.edu.pl/studia/studencka-aktywnosc/studenckie-projekty-badawcze/projekty-badawcze-skn/zwyciezcy-iv-edycji-2022',
             konkursText: 'Wyniki konkursu',
-            image: './images/upwr-logotyp-pl-poziomy.png',
+            image: '../../images/upwr-logotyp-pl-poziomy.png',
           },
           mainData: {
             whereAreYou: 'Gdzie jesteś?',
@@ -250,6 +274,9 @@ i18n
                 text: 'Wyszukiwarka'
               },
               {
+                text: 'Zobacz model'
+              },
+              {
                 text: 'O projekcie'
               },
               {
@@ -257,6 +284,9 @@ i18n
               },
               {
                 text: 'Kontakt'
+              },
+              {
+                text: 'PathFinding'
               }
             ],
             login: {
