@@ -1,6 +1,510 @@
 {
     "people": [
         {
+            "name": "Aghajany Haji Saeid",
+            "id": 63,
+            "level": 1,
+            "build": "C1"
+        },
+        {
+            "name": "Bogusławski Paweł",
+            "id": 128,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Paweł Bogusławski, profesor uczelni",
+                "email": "pawel.boguslawski@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Bury Grzegorz",
+            "id": 145,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Grzegorz Bury",
+                "email": "grzegorz.bury@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Cegła Adam",
+            "id": 66,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Adam Cegła",
+                "email": "adam.cegla@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Ćmielewski Kazimierz",
+            "id": 6,
+            "level": -1,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Kazimierz Ćmielewski, profesor uczelni",
+                "email": "kazimierz.cmielewski@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Dach Wojciech",
+            "id": 72,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr Wojciech Dach",
+                "email": "wojciech.dach@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Drożdżewski Mateusz",
+            "id": 139,
+            "level": 3,
+            "build": "C1"
+        },
+        {
+            "name": "Dzikowska Teresa",
+            "id": 68,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Teresa Dzikowska",
+                "email": "teresa.dzikowska@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Gałdyn Filip",
+            "id": 150,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "Filip Gałdyn",
+                "email": "filip.galdyn@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Gołuch Piotr",
+            "id": 54,
+            "level": 0,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Piotr Gołuch, profesor uczelni",
+                "email": "piotr.goluch@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Hadaś Edyta",
+            "id": 131,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Edyta Hadaś",
+                "email": "edyta.hadas@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Hadaś Tomasz",
+            "id": 152,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Tomasz Hadaś, profesor uczelni",
+                "email": "tomasz.hadas@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Hordyniec Barbara",
+            "id": 70,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Barbara Hodrydniec",
+                "email": "barbara.hordyniec@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Hordyniec Paweł",
+            "id": 74,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Paweł Hordyniec",
+                "email": "pawel.hordyniec@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Ilieva Maya",
+            "id": 130,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr Maya Blogoeva Ilieva",
+                "email": "maya.ilieva@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Iwaniak Adam",
+            "id": 125,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Adam Iwaniak, profesor uczelni",
+                "email": "adam.iwaniak@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jamroz Olgierd",
+            "id": 133,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Olgierd Jamroz",
+                "email": "olgierd.jamroz@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Jóźków Grzegorz",
+            "id": 124,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Grzegorz Jóźków, profesor uczelni",
+                "email": "grzegorz.jozkow@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Kaczmarek Adrian",
+            "id": 139,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Adrian Kaczmarek",
+                "email": "adrian.kaczmarek@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Kapłon Jan",
+            "id": 142,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Jan Kapłon, profesor uczelni",
+                "email": "jan.kaplon@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Karpina Mateusz",
+            "id": 50,
+            "level": 0,
+            "build": "C1"
+        },
+        {
+            "name": "Kaźmierski Kamil",
+            "id": 138,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Kamil Kaźmierski",
+                "email": "kamil.kazmierski@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Kuchmister Janusz",
+            "id": 8,
+            "level": -1,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Janusz Kuchmister",
+                "email": "janusz.kuchmister@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Marut Grzegorz",
+            "id": 138,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Grzegorz Marut",
+                "email": "grzegorz.marut@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Mehdi Saqib",
+            "id": 67,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "Saqib Mehdi",
+                "email": "saqib.mehdi@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Michalski Adam",
+            "id": 132,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Adam Michalski",
+                "email": "adam.michalski@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Mikoś Marcin",
+            "id": 150,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "Marcin Mikoś",
+                "email": "marcin.mikos@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Najder Joanna",
+            "id": 145,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Joanna Najder",
+                "email": "joanna.najder@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Owczarek-Wesołowska Magdalena",
+            "id": 76,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Magdalena Owczarek-Wesołowska",
+                "email": "magdalena.owczarek-wesolowska@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Pawłuszek-Filipiak Kamila",
+            "id": 129,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Kamila Pawłuszek-Filipiak",
+                "email": "kamila.pawluszek@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Piotrowicz Michał",
+            "id": 132,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Michał Piotrowicz",
+                "email": "michal.piotrowicz@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Porucznik Sylwia",
+            "id": 68,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Sylwia Porucznik",
+                "email": "sylwia.porucznik@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Rohm Witold",
+            "id": 73,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "Prof. dr hab. inż. Witold Rohm",
+                "email": "witold.rohm@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Sierny Jan",
+            "id": 76,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Jan Sierny",
+                "email": "jan.sierny@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Smolak Kamil",
+            "id": 74,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Kamil Smolak",
+                "email": "kamil.smolak@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Sośnica Krzysztof",
+            "id": 143,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "Prof. dr hab. inż. Krzysztof Sośnica",
+                "email": "krzysztof.sosnica@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Sowa Wojciech",
+            "id": 51,
+            "level": 0,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Wojciech Sowa",
+                "email": "wojciech.sowa@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Stasch Krzysztof",
+            "id": 128,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Krzysztof Stasch",
+                "email": "krzysztof.stasch@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Strugarek Dariusz",
+            "id": 146,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Dariusz Strugarek",
+                "email": "dariusz.strugarek@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Tondaś Damian",
+            "id": 66,
+            "level": 1,
+            "build": "C1"
+        },
+        {
+            "name": "Trojanowicz Marek",
+            "id": 140,
+            "level": 0,
+            "build": "C1",
+            "description": {
+                "title": "dr hab. inż. Marek Trojanowicz, profesor uczelni",
+                "email": "marek.trojanowicz@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Pomiarów Szczegółowych i Geodezji Inżynieryjnej",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Trzcina Estera",
+            "id": 70,
+            "level": 1,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Estera Trzcina",
+                "email": "estera.trzcina@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Fotogrametrii i Teledetekcji",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Wielgocka Natalia",
+            "id": 131,
+            "level": 2,
+            "build": "C1",
+            "description": {
+                "title": "mgr inż. Natalia Wielgocka",
+                "email": "natalia.wielgocka@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki",
+                "build": "C1"
+            }
+        },
+        {
+            "name": "Zajdel Radosław",
+            "id": 146,
+            "level": 3,
+            "build": "C1",
+            "description": {
+                "title": "dr inż. Radosław Zajdel",
+                "email": "radoslaw.zajdel@upwr.edu.pl",
+                "institute": "Instytut Geodezji i Geoinformatyki; Zakład Geodezji",
+                "build": "C1"
+            }
+        },
+        {
             "name": "Budek Karolina ",
             "id": 60,
             "level": 0,
