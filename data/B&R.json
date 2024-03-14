@@ -118,7 +118,7 @@
                     "level": -1
                 },
                 {
-                    "name": "-1-Hol",
+                    "name": "Hol - piwnica",
                     "id": 24,
                     "level": -1
                 },
@@ -133,7 +133,7 @@
                     "level": 0
                 },
                 {
-                    "name": "12-Toaleta",
+                    "name": "Toaleta - podziemia",
                     "id": 32,
                     "level": 0
                 },
@@ -173,12 +173,12 @@
                     "level": 0
                 },
                 {
-                    "name": "6G-Toaleta damska",
+                    "name": "Toaleta damska - parter",
                     "id": 40,
                     "level": 0
                 },
                 {
-                    "name": "5G-Toaleta męska",
+                    "name": "Toaleta męska - parter",
                     "id": 41,
                     "level": 0
                 },
@@ -273,17 +273,17 @@
                     "level": 0
                 },
                 {
-                    "name": "0-Hol",
+                    "name": "Hol - parter",
                     "id": 63,
                     "level": 0
                 },
                 {
-                    "name": "104-Toaleta damska",
+                    "name": "Toaleta damska - 1 piętro",
                     "id": 64,
                     "level": 1
                 },
                 {
-                    "name": "103-Toaleta męska",
+                    "name": "Toaleta męska - 1 piętro",
                     "id": 65,
                     "level": 1
                 },
@@ -338,7 +338,7 @@
                     "level": 1
                 },
                 {
-                    "name": "1-Hol",
+                    "name": "Hol - 1 piętro",
                     "id": 78,
                     "level": 1
                 },
@@ -428,12 +428,12 @@
                     "level": 1
                 },
                 {
-                    "name": "204-Toaleta damska",
+                    "name": "Toaleta damska - 2 piętro",
                     "id": 98,
                     "level": 2
                 },
                 {
-                    "name": "203-Toaleta męska",
+                    "name": "Toaleta męska - 2 piętro",
                     "id": 99,
                     "level": 2
                 },
@@ -443,7 +443,7 @@
                     "level": 2
                 },
                 {
-                    "name": "2-Hol",
+                    "name": "Hol - 2 piętro",
                     "id": 101,
                     "level": 2
                 },
@@ -593,12 +593,12 @@
                     "level": 2
                 },
                 {
-                    "name": "307-Toaleta damska",
+                    "name": "Toaleta damska - 3 piętro",
                     "id": 136,
                     "level": 3
                 },
                 {
-                    "name": "306-Toaleta męska",
+                    "name": "Toaleta męska - 3 piętro",
                     "id": 137,
                     "level": 3
                 },
@@ -658,7 +658,7 @@
                     "level": 3
                 },
                 {
-                    "name": "3-Hol",
+                    "name": "Hol - 3 piętro",
                     "id": 151,
                     "level": 3
                 },
@@ -763,12 +763,12 @@
                     "level": 3
                 },
                 {
-                    "name": "405-Toaleta damska",
+                    "name": "Toaleta damska - 4 piętro",
                     "id": 175,
                     "level": 4
                 },
                 {
-                    "name": "404-Toaleta męska",
+                    "name": "Toaleta męska - 4 piętro",
                     "id": 176,
                     "level": 4
                 },
@@ -823,7 +823,7 @@
                     "level": 4
                 },
                 {
-                    "name": "4-Hol",
+                    "name": "Hol - 4 piętro",
                     "id": 190,
                     "level": 4
                 },
@@ -917,12 +917,12 @@
                     "level": -1
                 },
                 {
-                    "name": "-1-Hol",
+                    "name": "Hol - piwnica",
                     "id": 213,
                     "level": -1
                 },
                 {
-                    "name": "0-Hol",
+                    "name": "Hol - parter",
                     "id": 216,
                     "level": 0
                 },
@@ -1057,22 +1057,22 @@
                     "level": 1
                 },
                 {
-                    "name": "1-Korytarz",
+                    "name": "Hol - 1 piętro",
                     "id": 247,
                     "level": 1
                 },
                 {
-                    "name": "116-Toaleta męska",
+                    "name": "Toaleta męska - 1 piętro",
                     "id": 248,
                     "level": 1
                 },
                 {
-                    "name": "116a-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 249,
                     "level": 1
                 },
                 {
-                    "name": "116b-Toaleta damska",
+                    "name": "Toaleta damska - 1 piętro",
                     "id": 250,
                     "level": 1
                 },
@@ -1202,22 +1202,22 @@
                     "level": 2
                 },
                 {
-                    "name": "2-Korytarz",
+                    "name": "Hol - 2 piętro",
                     "id": 279,
                     "level": 2
                 },
                 {
-                    "name": "216-Toaleta męska",
+                    "name": "Toaleta męska - 2 piętro",
                     "id": 280,
                     "level": 2
                 },
                 {
-                    "name": "216a-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 281,
                     "level": 2
                 },
                 {
-                    "name": "216b-Toaleta damska",
+                    "name": "Toaleta damska - 2 piętro",
                     "id": 282,
                     "level": 2
                 },
@@ -1387,22 +1387,22 @@
                     "level": 3
                 },
                 {
-                    "name": "316a-Toaleta męska",
+                    "name": "Toaleta męska - 3 piętro",
                     "id": 318,
                     "level": 3
                 },
                 {
-                    "name": "316-Toaleta damska",
+                    "name": "Toaleta damska - 3 piętro",
                     "id": 319,
                     "level": 3
                 },
                 {
-                    "name": "315-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 320,
                     "level": 3
                 },
                 {
-                    "name": "3-Hol",
+                    "name": "Hol - 3 piętro",
                     "id": 322,
                     "level": 3
                 },
@@ -1437,17 +1437,17 @@
                     "level": 4
                 },
                 {
-                    "name": "417b-Toaleta męska",
+                    "name": "Toaleta męska - 4 piętro",
                     "id": 330,
                     "level": 4
                 },
                 {
-                    "name": "417a-Toaleta damska",
+                    "name": "Toaleta damska - 4 piętro",
                     "id": 331,
                     "level": 4
                 },
                 {
-                    "name": "417-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 332,
                     "level": 4
                 },
@@ -1552,7 +1552,7 @@
                     "level": 4
                 },
                 {
-                    "name": "4-Hol",
+                    "name": "Hol - 4 piętro",
                     "id": 355,
                     "level": 4
                 }
@@ -1566,7 +1566,7 @@
                     "level": 0
                 },
                 {
-                    "name": "17-Dziekanat",
+                    "name": "Dziekanat",
                     "id": 360,
                     "level": 0
                 },
@@ -1581,7 +1581,7 @@
                     "level": 0
                 },
                 {
-                    "name": "15-Toaleta męska",
+                    "name": "Toaleta męska - parter",
                     "id": 364,
                     "level": 0
                 },
@@ -1591,12 +1591,12 @@
                     "level": 0
                 },
                 {
-                    "name": "13-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - parter",
                     "id": 366,
                     "level": 0
                 },
                 {
-                    "name": "12-Toaleta damska",
+                    "name": "Toaleta damska - parter",
                     "id": 367,
                     "level": 0
                 },
@@ -1631,7 +1631,7 @@
                     "level": 0
                 },
                 {
-                    "name": "0-Hol",
+                    "name": "Hol - parter",
                     "id": 376,
                     "level": 0
                 },
@@ -1691,17 +1691,17 @@
                     "level": 1
                 },
                 {
-                    "name": "130-Toaleta męska",
+                    "name": "Toaleta męska - 1 piętro",
                     "id": 389,
                     "level": 1
                 },
                 {
-                    "name": "131-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 390,
                     "level": 1
                 },
                 {
-                    "name": "132-Toaleta damska",
+                    "name": "Toaleta damska - 1 piętro",
                     "id": 391,
                     "level": 1
                 },
@@ -1741,12 +1741,12 @@
                     "level": 1
                 },
                 {
-                    "name": "101-Toaleta damska",
+                    "name": "Toaleta damska - 1 piętro",
                     "id": 400,
                     "level": 1
                 },
                 {
-                    "name": "102-Toaleta męska",
+                    "name": "Toaleta męska - 1 piętro",
                     "id": 401,
                     "level": 1
                 },
@@ -1821,17 +1821,17 @@
                     "level": 1
                 },
                 {
-                    "name": "1-Hol",
+                    "name": "Hol - 1 piętro",
                     "id": 417,
                     "level": 1
                 },
                 {
-                    "name": "248-Toaleta damska",
+                    "name": "Toaleta damska - 2 piętro",
                     "id": 419,
                     "level": 2
                 },
                 {
-                    "name": "247-Toaleta męska",
+                    "name": "Toaleta męska - 2 piętro",
                     "id": 420,
                     "level": 2
                 },
@@ -1861,7 +1861,7 @@
                     "level": 2
                 },
                 {
-                    "name": "242-Toaleta męska",
+                    "name": "Toaleta męska - 2 piętro",
                     "id": 426,
                     "level": 2
                 },
@@ -1881,12 +1881,12 @@
                     "level": 2
                 },
                 {
-                    "name": "240-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 431,
                     "level": 2
                 },
                 {
-                    "name": "239-Toaleta damska",
+                    "name": "Toaleta damska - 2 piętro",
                     "id": 432,
                     "level": 2
                 },
@@ -2051,12 +2051,12 @@
                     "level": 2
                 },
                 {
-                    "name": "249-Aula Jana Pawła II",
+                    "name": "Aula Jana Pawła II",
                     "id": 468,
                     "level": 2
                 },
                 {
-                    "name": "2-Hol",
+                    "name": "Hol - 2 piętro",
                     "id": 469,
                     "level": 2
                 },
@@ -2111,7 +2111,7 @@
                     "level": 3
                 },
                 {
-                    "name": "345-Toaleta męska",
+                    "name": "Toaleta męska - 3 piętro",
                     "id": 481,
                     "level": 3
                 },
@@ -2131,12 +2131,12 @@
                     "level": 3
                 },
                 {
-                    "name": "343-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 485,
                     "level": 3
                 },
                 {
-                    "name": "342-Toaleta damska",
+                    "name": "Toaleta damska - 3 piętro",
                     "id": 486,
                     "level": 3
                 },
@@ -2306,7 +2306,7 @@
                     "level": 3
                 },
                 {
-                    "name": "3-Hol",
+                    "name": "Hol - 3 piętro",
                     "id": 523,
                     "level": 3
                 },
@@ -2436,12 +2436,12 @@
                     "level": 4
                 },
                 {
-                    "name": "446-Toaleta damska",
+                    "name": "Toaleta damska - 4 piętro",
                     "id": 549,
                     "level": 4
                 },
                 {
-                    "name": "447-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 550,
                     "level": 4
                 },
@@ -2516,12 +2516,12 @@
                     "level": 4
                 },
                 {
-                    "name": "401-Toaleta męska",
+                    "name": "Toaleta męska - 4 piętro",
                     "id": 565,
                     "level": 4
                 },
                 {
-                    "name": "402-Toaleta damska",
+                    "name": "Toaleta damska - 4 piętro",
                     "id": 566,
                     "level": 4
                 },
@@ -2601,7 +2601,7 @@
                     "level": 4
                 },
                 {
-                    "name": "4-Hol",
+                    "name": "Hol - 4 piętro",
                     "id": 582,
                     "level": 4
                 },
@@ -2611,12 +2611,12 @@
                     "level": 5
                 },
                 {
-                    "name": "502-Toaleta męska",
+                    "name": "Toaleta męska - 5 piętro",
                     "id": 584,
                     "level": 5
                 },
                 {
-                    "name": "503-Toaleta damska",
+                    "name": "Toaleta damska - 5 piętro",
                     "id": 585,
                     "level": 5
                 },
@@ -2676,7 +2676,7 @@
                     "level": 5
                 },
                 {
-                    "name": "5-Hol",
+                    "name": "Hol - 5 piętro",
                     "id": 597,
                     "level": 5
                 }
@@ -2745,7 +2745,7 @@
                     "level": 0
                 },
                 {
-                    "name": "0-Hol",
+                    "name": "Hol - parter",
                     "id": 612,
                     "level": 0
                 },
@@ -2789,7 +2789,7 @@
                     "level": -1
                 },
                 {
-                    "name": "0.12h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - piwnica",
                     "id": 627,
                     "level": -1
                 },
@@ -2809,12 +2809,12 @@
                     "level": -1
                 },
                 {
-                    "name": "0.21h-Toaleta damska",
+                    "name": "Toaleta damska - piwnica",
                     "id": 631,
                     "level": -1
                 },
                 {
-                    "name": "0.20h-Toaleta męska",
+                    "name": "Toaleta męska - piwnica",
                     "id": 632,
                     "level": -1
                 },
@@ -2879,7 +2879,7 @@
                     "level": -1
                 },
                 {
-                    "name": "0-Hol",
+                    "name": "Hol - piwnica",
                     "id": 650,
                     "level": -1
                 },
@@ -2904,12 +2904,12 @@
                     "level": 0
                 },
                 {
-                    "name": "1.13h-Toaleta damska",
+                    "name": "Toaleta damska - parter",
                     "id": 658,
                     "level": 0
                 },
                 {
-                    "name": "1.14h-Toaleta męska",
+                    "name": "Toaleta męska - parter",
                     "id": 659,
                     "level": 0
                 },
@@ -2919,7 +2919,7 @@
                     "level": 0
                 },
                 {
-                    "name": "1.16h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - parter",
                     "id": 661,
                     "level": 0
                 },
@@ -2934,7 +2934,7 @@
                     "level": 0
                 },
                 {
-                    "name": "1.09h-Dziekanat wydziału inżynierii kształtownia środowiska i geodezji",
+                    "name": "Dziekanat wydziału inżynierii kształtownia środowiska i geodezji",
                     "id": 664,
                     "level": 0
                 },
@@ -2974,7 +2974,7 @@
                     "level": 0
                 },
                 {
-                    "name": "1-Hol",
+                    "name": "Hol - parter",
                     "id": 675,
                     "level": 0
                 },
@@ -3044,7 +3044,7 @@
                     "level": 1
                 },
                 {
-                    "name": "2.09h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 695,
                     "level": 1
                 },
@@ -3079,12 +3079,12 @@
                     "level": 1
                 },
                 {
-                    "name": "2.26h-Toaleta męska",
+                    "name": "Toaleta męska - 1 piętro",
                     "id": 702,
                     "level": 1
                 },
                 {
-                    "name": "2.25h-Toaleta damska",
+                    "name": "Toaleta damska - 1 piętro",
                     "id": 703,
                     "level": 1
                 },
@@ -3104,7 +3104,7 @@
                     "level": 1
                 },
                 {
-                    "name": "2-Hol",
+                    "name": "Hol - 1 piętro",
                     "id": 709,
                     "level": 1
                 },
@@ -3144,12 +3144,12 @@
                     "level": 2
                 },
                 {
-                    "name": "3.13h-Toaleta męska",
+                    "name": "Toaleta męska - 2 piętro",
                     "id": 720,
                     "level": 2
                 },
                 {
-                    "name": "3.12h-Toaleta damska",
+                    "name": "Toaleta damska - 2 piętro",
                     "id": 721,
                     "level": 2
                 },
@@ -3209,7 +3209,7 @@
                     "level": 2
                 },
                 {
-                    "name": "3.32h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 733,
                     "level": 2
                 },
@@ -3274,7 +3274,7 @@
                     "level": 2
                 },
                 {
-                    "name": "3-Hol",
+                    "name": "Hol - 2 piętro",
                     "id": 748,
                     "level": 2
                 },
@@ -3329,7 +3329,7 @@
                     "level": 3
                 },
                 {
-                    "name": "4.25h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 760,
                     "level": 3
                 },
@@ -3389,12 +3389,12 @@
                     "level": 3
                 },
                 {
-                    "name": "4.11h-Toaleta damska",
+                    "name": "Toaleta damska - 3 piętro",
                     "id": 772,
                     "level": 3
                 },
                 {
-                    "name": "4.12h-Toaleta męska",
+                    "name": "Toaleta męska - 3 piętro",
                     "id": 773,
                     "level": 3
                 },
@@ -3409,7 +3409,7 @@
                     "level": 3
                 },
                 {
-                    "name": "4-Hol",
+                    "name": "Hol - 3 piętro",
                     "id": 779,
                     "level": 3
                 },
@@ -3439,17 +3439,17 @@
                     "level": 4
                 },
                 {
-                    "name": "5.06h-Toaleta dla niepełnosprawnych",
+                    "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 785,
                     "level": 4
                 },
                 {
-                    "name": "5.07h-Toaleta damska",
+                    "name": "Toaleta damska - 4 piętro",
                     "id": 786,
                     "level": 4
                 },
                 {
-                    "name": "5.08h-Toaleta męska",
+                    "name": "Toaleta męska - 4 piętro",
                     "id": 787,
                     "level": 4
                 },
@@ -3489,7 +3489,7 @@
                     "level": 4
                 },
                 {
-                    "name": "5-Hol",
+                    "name": "Hol - 4 piętro",
                     "id": 798,
                     "level": 4
                 },
