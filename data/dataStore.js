@@ -218,7 +218,7 @@ export const aboutData = {
     {
       key: 5,
       name: 'Miłosz Olszewski',
-      image: './images/teamPhotos/male face.png',
+      image: './images/teamPhotos/Miłosz.jpg',
       roles: [
         {
           key: 0,
