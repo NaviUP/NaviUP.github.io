@@ -6,23 +6,15 @@ export const pageContents = {
     },
     {
       key: 1,
-      href: 'view',
-    },
-    {
-      key: 2,
       href: 'project',
     },
     {
-      key: 3,
+      key: 2,
       href: 'about',
     },
     {
-      key: 4,
+      key: 3,
       href: 'contact',
-    },
-    {
-      key: 5,
-      href: 'pathfinding',
     }
   ],
 };
