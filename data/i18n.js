@@ -67,7 +67,9 @@ i18n
                 code: 'Programmer',
                 test: 'Tester',
                 art: 'Artist',
-                sup: 'Supervisor'
+                sup: 'Supervisor supervisor',
+                path: 'Creating paths',
+                social: 'Social channels coordinator'
               },
             }
           },
@@ -226,7 +228,9 @@ i18n
                 code: 'Programista',
                 test: 'Tester',
                 art: 'Artysta',
-                sup: 'Opiekun'
+                sup: 'Opiekun',
+                path: 'Tworzenie ścieżek',
+                social: 'Koordynator social mediów'
               },
             }
           },
