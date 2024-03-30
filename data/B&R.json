@@ -7,1267 +7,1267 @@
                     "name": "-1.23-Gabinet-Skn Geodetow",
                     "id": 1,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.24",
                     "name": "-1.24-Warsztat",
                     "id": 2,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.25",
                     "name": "-1.25-Magazyn",
                     "id": 3,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.1",
                     "name": "-1.1-Serwerownia",
                     "id": 4,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.2",
                     "name": "-1.2-Laboratorium",
                     "id": 5,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.3",
                     "name": "-1.3-Gabinet-Kazimierz Ćmielewski",
                     "id": 6,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.4",
                     "name": "-1.4-Magazyn sprzętu geodezyjnego",
                     "id": 7,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.5",
                     "name": "-1.5-Gabinet-Janusz Kuchmister",
                     "id": 8,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.6",
                     "name": "-1.6-Pomieszczenie socjalne",
                     "id": 9,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.9",
                     "name": "-1.9-Laboratorium",
                     "id": 10,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.10",
                     "name": "-1.10-Laboratorium",
                     "id": 11,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.11",
                     "name": "-1.11-Laboratorium",
                     "id": 12,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.11",
                     "name": "-1.11-Magazyn szkła laboaratoryjnego",
                     "id": 13,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.13",
                     "name": "-1.13-Ucieralnia",
                     "id": 14,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.14",
                     "name": "-1.14-Magazyn",
                     "id": 15,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.15",
                     "name": "-1.15-Pomieszczenie pomocnicze",
                     "id": 16,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.16",
                     "name": "-1.16-Pomieszczenie pomocnicze",
                     "id": 17,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.17",
                     "name": "-1.17-Węzeł cieplny",
                     "id": 18,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.18",
                     "name": "-1.18-Rozdzielnia główna",
                     "id": 19,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.19",
                     "name": "-1.19-Destylatornia",
                     "id": 20,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.20",
                     "name": "-1.20-Suszarnia roslin",
                     "id": 21,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.21",
                     "name": "-1.21-Węzeł cieplny",
                     "id": 22,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.22",
                     "name": "-1.22-Warsztat",
                     "id": 23,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - Piwnica",
                     "name": "Hol - Piwnica",
                     "id": 24,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "-1.8",
                     "name": "-1.8-Laboratorium",
                     "id": 28,
                     "level": -1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "11",
                     "name": "11-Autoklawy",
                     "id": 31,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta - Parter",
                     "name": "Toaleta - Parter",
                     "id": 32,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "13",
                     "name": "13-Pokój laboratoryjny",
                     "id": 33,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "15",
                     "name": "15-Sala seminaryjna",
                     "id": 34,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "18",
                     "name": "18-Gabinet-Elżbieta Magnucka, Małgorzata Oksińska",
                     "id": 35,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "1G",
                     "name": "1G-Gabinet",
                     "id": 36,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "2G",
                     "name": "2G-Serwerownia",
                     "id": 37,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "3G",
                     "name": "3G-Laboratrorium",
                     "id": 38,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "4G",
                     "name": "4G-Pokój gospodarczy",
                     "id": 39,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta damska - Parter",
                     "name": "Toaleta damska - Parter",
                     "id": 40,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta męska - Parter",
                     "name": "Toaleta męska - Parter",
                     "id": 41,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "9",
                     "name": "9-Gabinet-Elżbieta Gęborowska",
                     "id": 42,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "10",
                     "name": "10-Pożywkarnia",
                     "id": 43,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "16",
                     "name": "16-Pokój genetyczny",
                     "id": 44,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "17",
                     "name": "17-Gabinet-Stanisław Pietr",
                     "id": 45,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "19",
                     "name": "19-Gabinet-Jolanta Kucińska",
                     "id": 46,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "20",
                     "name": "20-Laboratorium",
                     "id": 47,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "21",
                     "name": "21-Pokój magistrantów",
                     "id": 48,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "14",
                     "name": "14-Sekretariat",
                     "id": 49,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "25G",
                     "name": "25G-Laboratorium multisensoryki-Adrian Kaczmarek, Wojciech Sowa, Mateusz Karpina",
                     "id": 50,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "25a",
                     "name": "25a-Gabinet-Wojciech Sowa",
                     "id": 51,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "24G",
                     "name": "24G-Gabinet-Halina Klimczak",
                     "id": 52,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "22G",
                     "name": "22G-Izolatka",
                     "id": 53,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "23G",
                     "name": "23G-Gabinet-Piotr Gołuch",
                     "id": 54,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "13a",
                     "name": "13a-Termostat",
                     "id": 55,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "13b",
                     "name": "13b-Boks",
                     "id": 56,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "7",
                     "name": "7-Pracownia bakteriologiczna-Karolina Budek",
                     "id": 60,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "8",
                     "name": "8-Pokój apartury",
                     "id": 61,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "8a",
                     "name": "8a-Gabinet-Anna Kmieć",
                     "id": 62,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - Parter",
                     "name": "Hol - Parter",
                     "id": 63,
                     "level": 0,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta damska - 1 piętro",
                     "name": "Toaleta damska - 1 piętro",
                     "id": 64,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta męska - 1 piętro",
                     "name": "Toaleta męska - 1 piętro",
                     "id": 65,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "123",
                     "name": "123-Gabinet-Adam Cegła, Damian Tondas",
                     "id": 66,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "121",
                     "name": "121-Gabinet-Mehdi Haji Aghajany",
                     "id": 67,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "122",
                     "name": "122-Gabinet-Sylwia Porucznik, Teresa Dzikowska",
                     "id": 68,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "127",
                     "name": "127-Gabinet-Ugeo",
                     "id": 69,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "124",
                     "name": "124-Gabinet-Estera Trzcina, Barbara Hordyniec",
                     "id": 70,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "126",
                     "name": "126-Sekretariat igig-Wojciech Dach",
                     "id": 72,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "126a",
                     "name": "126a-Gabinet-Witold Rohm",
                     "id": 73,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "125",
                     "name": "125-Gabinet-Kamil Smolak, Pawel Hordyniec",
                     "id": 74,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "101",
                     "name": "101-Gabinet-Magdalena Owczarek-Wesołowska, Jan Sierny",
                     "id": 76,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "102",
                     "name": "102-Laboratorium gis",
                     "id": 77,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - 1 piętro",
                     "name": "Hol - 1 piętro",
                     "id": 78,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "100",
                     "name": "100-Biblioteka igig-Igig",
                     "id": 79,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "105",
                     "name": "105-Sala ćwiczeń",
                     "id": 80,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "107",
                     "name": "107-Gabinet-Adam Bogacz",
                     "id": 81,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "108",
                     "name": "108-Gabinet-Zbigniew Perlak",
                     "id": 82,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta - 1 piętro",
                     "name": "Toaleta - 1 piętro",
                     "id": 83,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "111",
                     "name": "111-Laboratorium minearologiczne",
                     "id": 84,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "110",
                     "name": "110-Gabinet-Rafał Tyszka, Aleksandra Kot",
                     "id": 85,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "106",
                     "name": "106-Pokój socjalny",
                     "id": 86,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "112",
                     "name": "112-Gabinet-Cezary Kabała",
                     "id": 87,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "113",
                     "name": "113-Sekretariat",
                     "id": 88,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "114",
                     "name": "114-Gabinet-Jarosław Kaszubkiewicz",
                     "id": 89,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "115",
                     "name": "115-Gabinet-Elżbieta Jamroz",
                     "id": 90,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "116",
                     "name": "116-Gabinet-Dorota Kawałko",
                     "id": 91,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "117",
                     "name": "117-Laboratorium spektroskopii związków organicznych",
                     "id": 92,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "118",
                     "name": "118-Gabinet-Agnieszka Medyńska-Juraszek",
                     "id": 93,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "119",
                     "name": "119-Gabinet-Irmina Ćwieląg- Piasecka",
                     "id": 94,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "120",
                     "name": "120-Pracownia mikrobiologii",
                     "id": 95,
                     "level": 1,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta damska - 2 piętro",
                     "name": "Toaleta damska - 2 piętro",
                     "id": 98,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 99,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "202",
                     "name": "202-Sala ćwiczeń",
                     "id": 101,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - 2 piętro",
                     "name": "Hol - 2 piętro",
                     "id": 101,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "205",
                     "name": "205-Laboratorium podstawowych analiz fizykochemicznych gleb-Szymon Jędrzejewski",
                     "id": 102,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "206",
                     "name": "206-Laboratorium spektrofotometrii-Michalina Swoboda",
                     "id": 103,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "208",
                     "name": "208-Magazyn próbek",
                     "id": 104,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "207",
                     "name": "207-Pokój spalań",
                     "id": 106,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "209a",
                     "name": "209a-Gabinet-Bhakti Jadhav, Dariusz Gruszka, Justyna Załuska",
                     "id": 108,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "209b",
                     "name": "209b-Gabinet-Jerzy Weber",
                     "id": 109,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "218",
                     "name": "218-Laboratorium ekotoksygologiczne",
                     "id": 110,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "217",
                     "name": "217-Gabinet-Magdalena Dębicka ",
                     "id": 111,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "216",
                     "name": "216-Gabinet-Beata Łabaz",
                     "id": 112,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "215",
                     "name": "215-Pracownia oznaczania węgla, azotu, siarki-Jarosław Szadorski ",
                     "id": 113,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "214",
                     "name": "214-Pracowania badań ilościowych materii organicznej",
                     "id": 114,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "213",
                     "name": "213-Gabinet-Katarzyna Szopka",
                     "id": 115,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "212",
                     "name": "212-Gabinet-Andrzej Kocowicz",
                     "id": 116,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "211a",
                     "name": "211a-Gabinet-Paweł Jezierski ",
                     "id": 117,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "211",
                     "name": "211-Gabinet-Jaroslaw Waroszewski",
                     "id": 118,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "210a",
                     "name": "210a-Gabinet-Joanna Kowalska",
                     "id": 119,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "210",
                     "name": "210-Gabinet-Jakub Bekier",
                     "id": 120,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "201",
                     "name": "201-Pomieszczenie socjalne",
                     "id": 122,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "200c",
                     "name": "200c-Gabinet-Grzegorz Jóźków",
                     "id": 124,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "200b",
                     "name": "200b-Gabinet-Adam Iwaniak",
                     "id": 125,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "200a",
                     "name": "200a-Gabinet-Paweł Bogusławski, Barbara Kasieczka",
                     "id": 126,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "226",
                     "name": "226-Stacja gps",
                     "id": 127,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "225",
                     "name": "225-Gabinet-Krzysztof Stasch, Amin Jiech",
                     "id": 128,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "224",
                     "name": "224-Gabinet-Kamila Pawłuszek-Filipiak",
                     "id": 129,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "223",
                     "name": "223-Gabinet-Maya Ilieva",
                     "id": 130,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "222",
                     "name": "222-Gabinet-Edyta Hadaś, Natalia Wielgocka",
                     "id": 131,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "221",
                     "name": "221-Gabinet-Adam Michalski, Michał Piotrowicz",
                     "id": 132,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "220",
                     "name": "220-Gabinet-Olgierd Jamroz",
                     "id": 133,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "219",
                     "name": "219-Gabinet",
                     "id": 134,
                     "level": 2,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta damska - 3 piętro",
                     "name": "Toaleta damska - 3 piętro",
                     "id": 136,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta męska - 3 piętro",
                     "name": "Toaleta męska - 3 piętro",
                     "id": 137,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "326",
                     "name": "326-Gabinet-Kamil Kaźmierski, Grzegorz Marut",
                     "id": 138,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "324",
                     "name": "324-Gabinet-Adrian Kaczmarek, Mateusz Drożdżewski",
                     "id": 139,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "325",
                     "name": "325-Gabinet-Marek Trojanowicz",
                     "id": 140,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "300",
                     "name": "300-Gabinet-Jan Kapłon",
                     "id": 142,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "301",
                     "name": "301-Gabinet-Krzysztof Sośnica",
                     "id": 143,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "303",
                     "name": "303-Gabinet-Iwona Kudłacik",
                     "id": 144,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "327",
                     "name": "327-Gabinet-Joanna Najder, Grzegorz Bury",
                     "id": 145,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "328",
                     "name": "328-Gabinet-Radosław Zajdel, Dariusz Strugarek",
                     "id": 146,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "329",
                     "name": "329-Pokój socjalny",
                     "id": 147,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "330",
                     "name": "330-Magazyn",
                     "id": 148,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "331",
                     "name": "331-Gabinet-Filip Gałdyn, Marcin Mikos, Adrian Nowak",
                     "id": 150,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - 3 piętro",
                     "name": "Hol - 3 piętro",
                     "id": 151,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "302",
                     "name": "302-Gabinet-Tomasz Hadaś",
                     "id": 152,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "305",
                     "name": "305-Katedra matematyki",
                     "id": 154,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "304",
                     "name": "304-Sala seminaryjna",
                     "id": 155,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "308",
                     "name": "308-Pracownia hplc",
                     "id": 156,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta - 3 piętro",
                     "name": "Toaleta- 3 piętro",
                     "id": 157,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "309",
                     "name": "309-Fitotron",
                     "id": 158,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "310",
                     "name": "310-Gabinet-Renata Ryl",
                     "id": 159,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "311",
                     "name": "311-Gabinet-Krzysztof Godiga",
                     "id": 160,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "312",
                     "name": "312-Pracownia spektrometrii",
                     "id": 161,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "314",
                     "name": "314-Sala seminaryjna",
                     "id": 163,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "315",
                     "name": "315-Magazyn",
                     "id": 164,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "316",
                     "name": "316-Sekretariat-Teresa Rafalska",
                     "id": 165,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "317",
                     "name": "317-Pokój socjalny",
                     "id": 166,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "318",
                     "name": "318-Magazyn",
                     "id": 167,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "323",
                     "name": "323-Laboratorium",
                     "id": 168,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "322",
                     "name": "322-Gabinet-Piotr Stępien",
                     "id": 169,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "321",
                     "name": "321-Gabinet-Elżbieta Sacała",
                     "id": 170,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "320",
                     "name": "320-Magazyn",
                     "id": 171,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "319",
                     "name": "319-Laboratorium",
                     "id": 172,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "318",
                     "name": "318-Magazyn",
                     "id": 173,
                     "level": 3,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta damska - 4 piętro",
                     "name": "Toaleta damska - 4 piętro",
                     "id": 175,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta męska - 4 piętro",
                     "name": "Toaleta męska - 4 pietro",
                     "id": 176,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "420",
                     "name": "420-Gabinet-Ewa Diakowska",
                     "id": 177,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "418",
                     "name": "418-Gabinet-Ewa Skuza",
                     "id": 178,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "419",
                     "name": "419-Gabinet-Joanna Kaminska",
                     "id": 179,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "400a",
                     "name": "400a-Gabinet-Jacek Leśny",
                     "id": 182,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "421",
                     "name": "421-Pokój emerytów",
                     "id": 183,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "422",
                     "name": "422-Gabinet-Jan Jelowicki",
                     "id": 184,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "423",
                     "name": "423-Gabinet-Dorota Smolis",
                     "id": 185,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "425",
                     "name": "425-Pokój socjalny",
                     "id": 186,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "424",
                     "name": "424-Gabinet-Adrian Dacko, Kamil Dyba, Sylwester Rzeszut, Michał Wójcik",
                     "id": 188,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "403",
                     "name": "403-Sala dydaktyczna-Leszek Kuchar",
                     "id": 189,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Hol - 4 piętro",
                     "name": "Hol - 4 piętro",
                     "id": 190,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "401",
                     "name": "401-Gabinet-Mateusz Boczar, Małgorzata Wnętrzak",
                     "id": 191,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "400",
                     "name": "400-Gabinet-Hanna Okrasińska-Płociniczak, Wiesław Szulczewski",
                     "id": 192,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "402b",
                     "name": "402b-Gabinet-Malgorzata Głogowska, Agnieszka Mruklik, Bogdan Roszak",
                     "id": 194,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "402a",
                     "name": "402a-Gabinet-Gabriela Biel, Teresa Jakubczyk",
                     "id": 195,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "417",
                     "name": "417-Analizy gleb",
                     "id": 197,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "416",
                     "name": "416-Analizy roślin",
                     "id": 198,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "414a",
                     "name": "414a-Gabinet-Grzegorz Kulczycki",
                     "id": 199,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "414",
                     "name": "414-Gabinet-Kamila Stępień, Magdalena Ossowska",
                     "id": 200,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "413a",
                     "name": "413a-Laboratorium",
                     "id": 201,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "411",
                     "name": "411-Laboratorium",
                     "id": 204,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "426",
                     "name": "426-Magazyn",
                     "id": 205,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "410",
                     "name": "410-Sala dydaktyczna",
                     "id": 206,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "Toaleta - 4 piętro",
                     "name": "Toaleta - 4 piętro",
                     "id": 207,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "408",
                     "name": "408-Laboratorium",
                     "id": 208,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "407",
                     "name": "407-Sala dydaktyczna",
                     "id": 209,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 },
                 {
                     "name_blank": "406",
                     "name": "406-Sala dydaktyczna",
                     "id": 210,
                     "level": 4,
-                    "build": "c1"
+                    "build": "C1"
                 }
             ]
         },
@@ -1278,903 +1278,903 @@
                     "name": "018m-Sala dydaktyczna",
                     "id": 212,
                     "level": -1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - Piwnica",
                     "name": "Hol - Piwnica",
                     "id": 213,
                     "level": -1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - Parter",
                     "name": "Hol - Parter",
                     "id": 216,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "6",
                     "name": "6-Gabinet-Paweł Filipiak",
                     "id": 217,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "7",
                     "name": "7-Centrum zasobów i Wsparcia Dydaktyki",
                     "id": 218,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "8",
                     "name": "8-Laboratorium technologii materiałów i konstrukcji budowlanych",
                     "id": 221,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "8c",
                     "name": "8c-Pokój",
                     "id": 222,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "10",
                     "name": "10-Pokój-Michał Drzazga",
                     "id": 223,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "11",
                     "name": "11-Pokój",
                     "id": 224,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "12",
                     "name": "12-Pokój-Małgorzata Meissner, Anna Rawska-Skotniczy",
                     "id": 225,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "13",
                     "name": "13-Pokój-Wojciech Kilan",
                     "id": 226,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "14",
                     "name": "14-Pokój-Robert Świerzko",
                     "id": 227,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "15",
                     "name": "15-Pokój",
                     "id": 228,
                     "level": 0,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "111",
                     "name": "111-Pokój-Jerzy Sobota",
                     "id": 229,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "112a",
                     "name": "112a-Pokój-Maciej Gruszczyński",
                     "id": 230,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "112",
                     "name": "112-Sala seminaryjna",
                     "id": 231,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "113",
                     "name": "113-Pokój-Radosław Stodolak",
                     "id": 232,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "114",
                     "name": "114-Pokój-Sławomir Nowak, Piotr Kaluga",
                     "id": 233,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "115",
                     "name": "115-Pokój",
                     "id": 234,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "117",
                     "name": "117-Pokój-Stanisław Czaban",
                     "id": 235,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "109",
                     "name": "109-Gabinet-Łukarz Gruss, Paweł Tomczyk",
                     "id": 236,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "107",
                     "name": "107-Pokój-Robert Kasperek",
                     "id": 237,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "106",
                     "name": "106-Pokój-Robert Głowski",
                     "id": 238,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "105",
                     "name": "105-Pokój-Beata Malczwewska",
                     "id": 239,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "104",
                     "name": "104-Pokój",
                     "id": 240,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "103",
                     "name": "103-Sekretariat-Katarzyna Suszek, Katarzyna Lisińska",
                     "id": 241,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "102",
                     "name": "102-Pokój-Krzysztof Lejcuś",
                     "id": 242,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "100",
                     "name": "100-Pokój-Wiesław Fiałkiewicz",
                     "id": 243,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "101",
                     "name": "101-Pokój-Joanna Markowska",
                     "id": 244,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - 1 piętro",
                     "name": "Hol - 1 piętro",
                     "id": 247,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 248,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 249,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta damska - 1 piętro",
                     "name": "Toaleta damska - 1 piętro",
                     "id": 250,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "108",
                     "name": "108-Gabinet-Mirosław Wiatowski",
                     "id": 253,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "110",
                     "name": "110-Gabinet-Tomasz Tymiński",
                     "id": 254,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "118",
                     "name": "118-Sala dydaktyczna",
                     "id": 255,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "120",
                     "name": "120-Gabinet-Kamil Pawłowski, Agata Włóka",
                     "id": 256,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "121",
                     "name": "121-Gabinet-Renata Nogaj",
                     "id": 257,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "122",
                     "name": "122-Sala seminaryjna",
                     "id": 258,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "123",
                     "name": "123-Gabinet-Melisa Tasan",
                     "id": 259,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "124",
                     "name": "124-Gabinet-Jarosław Dabrowski",
                     "id": 260,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "125",
                     "name": "125-Gabinet-Wlodzimierz Białas, Grzegorz Antoniszyn, Julia Nowak",
                     "id": 261,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "126",
                     "name": "126-Gabinet-Edward Hutnik, Jan Kempiński",
                     "id": 262,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "127",
                     "name": "127-Gabinet-Radosław Tatko",
                     "id": 263,
                     "level": 1,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "211",
                     "name": "211-Gabinet-Marian Żuber",
                     "id": 264,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "212",
                     "name": "212-Gabinet-Krystyna Woźniakowska",
                     "id": 265,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "213",
                     "name": "213-Laboratorium badań środowiskowych",
                     "id": 266,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "214",
                     "name": "214-Pokój/laboratorium modelowania procesów środowiskowych i ergonomi",
                     "id": 267,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "215",
                     "name": "215-Gabinet-Ryszard Pokładek",
                     "id": 268,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "209",
                     "name": "209-Gabinet-Paweł Dąbek",
                     "id": 269,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "207",
                     "name": "207-Pokój-Łukasz Kuta",
                     "id": 270,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "206",
                     "name": "206-Pokój-Justyna Hachoł",
                     "id": 271,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "205",
                     "name": "205-Pokój-Aleksandra Wdowczyk",
                     "id": 272,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "204",
                     "name": "204-Pokój-Arkadiusz Głogowski",
                     "id": 273,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "203",
                     "name": "203-Pokój",
                     "id": 274,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "202",
                     "name": "202-Pokój-Małgorzata Biniak- Pieróg",
                     "id": 275,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "201",
                     "name": "201-Pokój socjalny",
                     "id": 276,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "200",
                     "name": "200-Pokój-Andrzej Żyromski",
                     "id": 277,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - 2 piętro",
                     "name": "Hol - 2 piętro",
                     "id": 279,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 280,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 281,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta damska - 2 piętro",
                     "name": "Toaleta damska - 2 piętro",
                     "id": 282,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "208",
                     "name": "208-Gabinet-Józef Hulboj, Rafał Wójcik",
                     "id": 283,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "210",
                     "name": "210-Gabinet-Beata Olszewska, Wojciech Łyczko",
                     "id": 284,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "217",
                     "name": "217-Sala dydaktyczna",
                     "id": 285,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "218",
                     "name": "218-Sala dydaktyczna",
                     "id": 286,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "219",
                     "name": "219-Gabinet-Wojciech Orzepkowski",
                     "id": 287,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "220",
                     "name": "220-Gabinet-Grzegorz Pęczkowski, Katarzyna Szwernoga",
                     "id": 288,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "221",
                     "name": "221-Gabinet-Stanislaw Kostrzewa",
                     "id": 289,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "224",
                     "name": "224-Gabinet-Tomasz Kowalczyk",
                     "id": 290,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "222",
                     "name": "222-Gabinet",
                     "id": 291,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "223",
                     "name": "223-Gabinet-Magdalena Dzwonek",
                     "id": 292,
                     "level": 2,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "300",
                     "name": "300-Gabinet-Daniel Garlikowski",
                     "id": 295,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "301",
                     "name": "301-Gabinet-Michał Spitalniak",
                     "id": 296,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "302",
                     "name": "302-Gabinet-Bogna Buta, Maksymilian Połomski, Michał Tymcio",
                     "id": 297,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "303",
                     "name": "303-Gabinet-Daria Marczak Kuba Misiewicz",
                     "id": 298,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "304",
                     "name": "304-Gabinet-Ahmed Tamma",
                     "id": 299,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "305",
                     "name": "305-Gabinet-Krzysztof Lejcuś",
                     "id": 300,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "306",
                     "name": "306-Gabinet-Justyna Kubicz",
                     "id": 301,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "307",
                     "name": "307-Gabinet-Alicja Czamara",
                     "id": 302,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "308",
                     "name": "308-Gabinet-Andrzej Moryl",
                     "id": 303,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "309",
                     "name": "309-Gabinet-Agata Szymańska- Pulikowska",
                     "id": 304,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "310",
                     "name": "310-Sala dydaktyczna",
                     "id": 305,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "314",
                     "name": "314-Laboratorium",
                     "id": 306,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "313",
                     "name": "313-Laboratorium",
                     "id": 307,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "312",
                     "name": "312-Laboratoirum badania gruntów",
                     "id": 308,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "311",
                     "name": "311-Gabinet-Ireneusz Krajewski, Michał Dziedzic",
                     "id": 309,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "317",
                     "name": "317-Sala dydaktyczna",
                     "id": 310,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "319",
                     "name": "319-Sala dydaktyczna",
                     "id": 311,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "320",
                     "name": "320-Gabinet-Anna Uciechowska-Grakowicz",
                     "id": 312,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "321",
                     "name": "321-Gabinet-Rafal Idzikowski, Filip Zakęś",
                     "id": 313,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "322",
                     "name": "322-Gabinet-Matylda Tankiewicz",
                     "id": 314,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "323",
                     "name": "323-Gabinet-Jolanta Dąbrowska",
                     "id": 315,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "324",
                     "name": "324-Gabinet-Zofia Zięba",
                     "id": 316,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "325",
                     "name": "325-Gabinet-Maciej Kaźmierowski",
                     "id": 317,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta męska - 3 piętro",
                     "name": "Toaleta męska - 3 piętro",
                     "id": 318,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta damska - 3 piętro",
                     "name": "Toaleta damska - 3 piętro",
                     "id": 319,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 320,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - 3 piętro",
                     "name": "Hol - 3 piętro",
                     "id": 322,
                     "level": 3,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "411",
                     "name": "411-Gabinet-Krzysztof Kuczewski",
                     "id": 324,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "412",
                     "name": "412-Gabinet-Magdalena Domańska",
                     "id": 325,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "413",
                     "name": "413-Gabinet",
                     "id": 326,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "414",
                     "name": "414-Pokój magistrantów",
                     "id": 327,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "415",
                     "name": "415-Magzyn",
                     "id": 328,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "416",
                     "name": "416-Laboratorium instalacji sanitarnych",
                     "id": 329,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta męska - 4 piętro",
                     "name": "Toaleta męska - 4 pietro",
                     "id": 330,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta damska - 4 piętro",
                     "name": "Toaleta damska - 4 piętro",
                     "id": 331,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 332,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "418",
                     "name": "418-Sala dydaktyczna",
                     "id": 333,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "419",
                     "name": "419-Sala dydaktyczna",
                     "id": 334,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "420",
                     "name": "420-Gabinet-Anna Bocheńska-Skałecka, Ewa Walter",
                     "id": 335,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "421",
                     "name": "421-Gabinet-Marta Weber-Siwirska",
                     "id": 336,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "422",
                     "name": "422-Gabinet-Agnieszka Jakóbiak",
                     "id": 337,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "423",
                     "name": "423-Gabinet",
                     "id": 338,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "424",
                     "name": "424-Gabinet-Artur Majchrzak",
                     "id": 339,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "425",
                     "name": "425-Pracownia florystyczna",
                     "id": 340,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "400",
                     "name": "400-Gabinet-Maciej Piotrowski",
                     "id": 341,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "401",
                     "name": "401-Gabinet-Iwona Orzechowska-Szajda, Anna Podolska",
                     "id": 342,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "401a",
                     "name": "401a-Gabinet-Kazimierz Chmura",
                     "id": 343,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "402",
                     "name": "402-Gabinet-Ewa Burszta-Adamiak. Magdalena Kuśniarz, Justyna Stańczyk",
                     "id": 344,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "403",
                     "name": "403-Gabinet-Włodzimierz Czamara",
                     "id": 345,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "404",
                     "name": "404-Gabinet-Joanna Kajewska-Szkudlarek",
                     "id": 346,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "405",
                     "name": "405-Gabinet-Marian Mokwa",
                     "id": 347,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "406",
                     "name": "406-Gabinet-Paweł Wiercik",
                     "id": 348,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "407",
                     "name": "407-Gabinet-Paweł Lochyński",
                     "id": 349,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "408",
                     "name": "408-Gabinet-Aleksandra Bawiec",
                     "id": 350,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "409",
                     "name": "409-Gabinet-Konga Marek, Szymon Kilan",
                     "id": 351,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "409a",
                     "name": "409a-Gabinet-Katarzyna Pawęska",
                     "id": 352,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 },
                 {
                     "name_blank": "Hol - 4 piętro",
                     "name": "Hol - 4 piętro",
                     "id": 355,
                     "level": 4,
-                    "build": "c2"
+                    "build": "C2"
                 }
             ]
         },
@@ -2185,1568 +2185,1568 @@
                     "name": "18-Sala rad wykładów",
                     "id": 359,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Dziekanat",
                     "name": "Dziekanat",
                     "id": 360,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "1",
                     "name": "1-Pomieszczenie techniczne",
                     "id": 361,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "16",
                     "name": "16-Pomieszczenie techniczne",
                     "id": 363,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - Parter",
                     "name": "Toaleta męska - Parter",
                     "id": 364,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "14",
                     "name": "14-Pomieszczenie porządkowe",
                     "id": 365,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - Parter",
                     "name": "Toaleta dla niepełnosprawnych - Parter",
                     "id": 366,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - Parter",
                     "name": "Toaleta damska - Parter",
                     "id": 367,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "11",
                     "name": "11-Korytarz",
                     "id": 369,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Dziekanat",
                     "name": "Dziekanat",
                     "id": 370,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "3",
                     "name": "3-Pomieszczenie ochrony",
                     "id": 371,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "2C",
                     "name": "2C-Sala wykładowa IIC",
                     "id": 372,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "6",
                     "name": "6-Pokój",
                     "id": 373,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "1C",
                     "name": "1C-Sala wykładowa IC",
                     "id": 374,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - Parter",
                     "name": "Hol - Parter",
                     "id": 376,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "27",
                     "name": "27-Pomieszczenia techniczne",
                     "id": 377,
                     "level": 0,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "115A",
                     "name": "115A-Pokój-Dorota Kasowska",
                     "id": 378,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "115",
                     "name": "115-Sala ćwiczeniowa",
                     "id": 379,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "117",
                     "name": "117-Sala ćwiczeniowa",
                     "id": 380,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "118",
                     "name": "118-Pokój",
                     "id": 381,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "4C",
                     "name": "4C-Sala wykładowa IVC",
                     "id": 382,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "3C",
                     "name": "3C-Sala wykładowa IIIC",
                     "id": 383,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "113",
                     "name": "113-Pokój-Kamil Konowalik, Katarzyna Szczepańska",
                     "id": 384,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "112",
                     "name": "112-Pokój-Aleksandra Halarewicz",
                     "id": 385,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "111",
                     "name": "111-Pokój-Ludwik Żołnierz",
                     "id": 386,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "110",
                     "name": "110-Pokój-Jacek Urbaniak",
                     "id": 387,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 1 piętro",
                     "name": "Toaleta męska - 1 piętro",
                     "id": 389,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 390,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 1 piętro",
                     "name": "Toaleta damska - 1 piętro",
                     "id": 391,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "133",
                     "name": "133-Pomieszczenie techniczne",
                     "id": 392,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "134",
                     "name": "134-Laboratorium ogólne i ekologi",
                     "id": 393,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "135",
                     "name": "135-Bufet",
                     "id": 394,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "107",
                     "name": "107-Pokój-Jerzy Fabiszewski",
                     "id": 395,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "106",
                     "name": "106-Pokój-Mirosława Pietryka, Dorota Richter",
                     "id": 396,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "105",
                     "name": "105-Pokój-Magda Podlaska",
                     "id": 397,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "104",
                     "name": "104-Pokój-Ewa Fundali, Anna Koszelnik-Leszek",
                     "id": 398,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 1 piętro",
                     "name": "Toaleta damska - 1 piętro",
                     "id": 400,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 1 piętro",
                     "name": "Toaleta męska - 1 piętro",
                     "id": 401,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "139",
                     "name": "139-Pomieszczenie pomocnicze",
                     "id": 402,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "136",
                     "name": "136-Sala klub pracowników",
                     "id": 403,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "137",
                     "name": "137-Sala konferencyjna",
                     "id": 404,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "138",
                     "name": "138-Dział rekrutacji",
                     "id": 405,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "121",
                     "name": "121-Pokój hodowlany",
                     "id": 406,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "122",
                     "name": "122-Zielnik",
                     "id": 407,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "123",
                     "name": "123-Pracownia mikroskopowa",
                     "id": 408,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "124",
                     "name": "124-Pokój-Daniel Pruchniewicz",
                     "id": 409,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "125",
                     "name": "125-Pokój-Barbara Matuła, Dominika Potrząsaj",
                     "id": 410,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "126",
                     "name": "126-Sala seminaryjna",
                     "id": 411,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "127",
                     "name": "127-Pokój-Iuliia Sheliuk, Jan Matuła",
                     "id": 412,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "128",
                     "name": "128-Pracownia ekologii",
                     "id": 413,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "129",
                     "name": "129-Pokój przygotowawczy",
                     "id": 414,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "140",
                     "name": "140-Pomieszczenia kuchenne",
                     "id": 416,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - 1 piętro",
                     "name": "Hol - 1 piętro",
                     "id": 417,
                     "level": 1,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 2 piętro",
                     "name": "Toaleta damska - 2 piętro",
                     "id": 419,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 420,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "246",
                     "name": "246-Sala seminaryjna",
                     "id": 421,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "245",
                     "name": "245-Sala ćwiczeniowa",
                     "id": 422,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "201",
                     "name": "201-Pokój wegetacyjny",
                     "id": 423,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "244",
                     "name": "244-Sala ćwiczeniowa",
                     "id": 424,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "243",
                     "name": "243-Laboratorium",
                     "id": 425,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 426,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "241",
                     "name": "241-Pomieszczenie porządkowe",
                     "id": 427,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "237",
                     "name": "237-Sala ćwiczeniowa",
                     "id": 429,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "236",
                     "name": "236-Sala seminaryjna",
                     "id": 430,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 431,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 2 piętro",
                     "name": "Toaleta damska - 2 piętro",
                     "id": 432,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "235",
                     "name": "235-Pracownia botaniczna",
                     "id": 433,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "234",
                     "name": "234-Pokój-Karol Wolski",
                     "id": 434,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "213",
                     "name": "213-Pomieszczenie techniczne",
                     "id": 435,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "215",
                     "name": "215-Pokój-Lilianna Głąb, Małgorzata Cieciura-Olczyk",
                     "id": 436,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "216",
                     "name": "216-Pokój-Zygmunt Mikołajczyk, Agnieszka Dradrach",
                     "id": 437,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "217",
                     "name": "217-Pokój-Marek Liszewski",
                     "id": 438,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "218",
                     "name": "218-Pokój-Anna Jama-Rodzeńska, Marta Czarniecka-Wiera",
                     "id": 439,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "219",
                     "name": "219-Magazyn podręczny laboratorium",
                     "id": 440,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "220",
                     "name": "220-Pomieszczenie socjalne",
                     "id": 441,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "229",
                     "name": "229-Magazyn okazów do ćwiczeń",
                     "id": 442,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "230",
                     "name": "230-Pokój gospodarczy",
                     "id": 443,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "214",
                     "name": "214-Centrala telefoniczna",
                     "id": 444,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "231",
                     "name": "231-Pokój-Chathura Perera, Hassanali Mollashahi",
                     "id": 445,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "232",
                     "name": "232-Pokój-Leszek Kordas",
                     "id": 446,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "233",
                     "name": "233-Pokój-Roman Wacławowicz",
                     "id": 447,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "221",
                     "name": "221-Pokój-Magadalena Serafin-Anderzejewska",
                     "id": 448,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "222",
                     "name": "222-Pokój-Józef Sowiński",
                     "id": 449,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "223",
                     "name": "223-Pokój-Anna Wondołowska-Grabowska",
                     "id": 450,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "224",
                     "name": "224-Pokój-Zofia Kubińska, Volodymyr Sudak",
                     "id": 451,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "225",
                     "name": "225-Pokój-Andrzej Kotecki",
                     "id": 452,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "226",
                     "name": "226-Pokój-Magdalena Żuk, Jan Szopa-Skórkowski",
                     "id": 453,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "227",
                     "name": "227-Pokój-Marcin Kozak",
                     "id": 454,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "228",
                     "name": "228-Pokój-Waldemar Helios, Tetiana Slodkovska",
                     "id": 455,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "212",
                     "name": "212-Pokój-Elzbieta Pytlarz, Małgorzata Radała",
                     "id": 457,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "211",
                     "name": "211-Pokój-Janina Zawieja",
                     "id": 459,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "210",
                     "name": "210-Pokój-Danuta Parylak",
                     "id": 460,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "209",
                     "name": "209-Sekretariat-Magdalena Szymura, Joanna Walczak-Łakomy, Marta Gas-Smereka",
                     "id": 461,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "207",
                     "name": "207-Pomieszczenie techniczne",
                     "id": 462,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "206",
                     "name": "206-Pokój-Ewa Tendziagolska",
                     "id": 463,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "205",
                     "name": "205-Pokój-Wiesław Wojciechowski",
                     "id": 464,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "204",
                     "name": "204-Pokój-Piotr Sobkowicz",
                     "id": 465,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "203",
                     "name": "203-Pokój-Piotr Kuc, Agnieszka Lejman",
                     "id": 466,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Aula Jana Pawła II",
                     "name": "Aula Jana Pawła II",
                     "id": 468,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - 2 piętro",
                     "name": "Hol - 2 piętro",
                     "id": 469,
                     "level": 2,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "302",
                     "name": "302-Sala ćwiczeniowa",
                     "id": 471,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "301",
                     "name": "301-Pomieszczenie pomocnicze",
                     "id": 472,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "351",
                     "name": "351-Sala ćwiczeniowa",
                     "id": 473,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "350",
                     "name": "350-Sala ćwiczeniowa",
                     "id": 474,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "303",
                     "name": "303-Biblioteka (magistranci, doktoranci)",
                     "id": 475,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "349",
                     "name": "349-Pokój",
                     "id": 476,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "349A",
                     "name": "349A-Pokój-Kamila Twardowska, Joanna Magiera-Dulewicz",
                     "id": 477,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "348",
                     "name": "348-Pomieszczenie techniczne",
                     "id": 478,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "347",
                     "name": "347-Sala ćwiczeniowa",
                     "id": 479,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "346",
                     "name": "346-Laboratorium - zakład fitopatolofii i myrkologii, zakład entomologii",
                     "id": 480,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 3 piętro",
                     "name": "Toaleta męska - 3 piętro",
                     "id": 481,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "344",
                     "name": "344-Pomieszczenie porządkowe",
                     "id": 482,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "341",
                     "name": "341-Laboratorium-Janina Jaworska",
                     "id": 483,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "340",
                     "name": "340-Sala ćwiczeniowa",
                     "id": 484,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 485,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 3 piętro",
                     "name": "Toaleta damska - 3 piętro",
                     "id": 486,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "339",
                     "name": "339-Biblioteka składzik",
                     "id": 487,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "337",
                     "name": "337-Sala ćwiczeniowa",
                     "id": 488,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "335",
                     "name": "335-Pokój-Katarzyna Wróblewska",
                     "id": 489,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "334",
                     "name": "334-Pokój-Przemysław Babelewski, Regina Dębicz",
                     "id": 490,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "333",
                     "name": "333-Sala seminaryjna",
                     "id": 491,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "315",
                     "name": "315-Pokój",
                     "id": 492,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "316",
                     "name": "316-Pomieszczenie pomocnicze czytelnia",
                     "id": 493,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "317",
                     "name": "317-Pokój-Adam Szewczuk",
                     "id": 494,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "318",
                     "name": "318-Pokój-Ireneusz Sosna",
                     "id": 496,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "319",
                     "name": "319-Pokój-Ewelina Gudarowska",
                     "id": 497,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "320",
                     "name": "320-Pokój-Maria Linczar-Małańczuk",
                     "id": 498,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "321",
                     "name": "321-Pomieszczenie pomocnicze",
                     "id": 499,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "322",
                     "name": "322-Pomieszczenie pomocnicze",
                     "id": 500,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "332",
                     "name": "332-Pomieszczenie pomocnicze",
                     "id": 501,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "331",
                     "name": "331-Pomieszczenie pomocnicze",
                     "id": 502,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "323",
                     "name": "323-Pokój-Cecylia Uklańska-Pusz, Agnieszka Balbierz",
                     "id": 503,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "324",
                     "name": "324-Pokój-Katarzyna Adamczewska-Sowińska",
                     "id": 504,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "325",
                     "name": "325-Pokój-Jan Krężel",
                     "id": 505,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "326",
                     "name": "326-Pokój-Piotr Chohura",
                     "id": 506,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "327",
                     "name": "327-Pokój-Marta Czaplicka",
                     "id": 507,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "328",
                     "name": "328-Sekretariat-Magdalena Rowińska",
                     "id": 508,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "329",
                     "name": "329-Pokój-Anita Biesiada",
                     "id": 509,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "330",
                     "name": "330-Pokój-Miron Lewandowski, Kacper Parypa",
                     "id": 510,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "314",
                     "name": "314-Pokój-Jacek Twardowski",
                     "id": 511,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "313",
                     "name": "313-Pokój-Zdzisław Klukowski",
                     "id": 512,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "312",
                     "name": "312-Pokój-Iwona Gruss",
                     "id": 513,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "311B",
                     "name": "311B-Pokój",
                     "id": 515,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "311",
                     "name": "311-Sekretariat-Bożena Nizio, Elżbieta Pląskowska",
                     "id": 516,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "308",
                     "name": "308-Pokój-Krzysztof Matkowski",
                     "id": 517,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "307",
                     "name": "307-Pokój-Michal Hurej",
                     "id": 518,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "306",
                     "name": "306-Pokój-Agata Kaczmarek",
                     "id": 519,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "305",
                     "name": "305-Pokój-Katarzyna Patejuk, Marta Jurga",
                     "id": 520,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "309",
                     "name": "309-Pomieszczenie techniczne",
                     "id": 522,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - 3 piętro",
                     "name": "Hol - 3 piętro",
                     "id": 523,
                     "level": 3,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "455",
                     "name": "455-Pomieszczenie socjalne",
                     "id": 524,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "425",
                     "name": "425-Pokój-Małgorzata Krotowska, Aneta Lenart, Dorota Kowalik",
                     "id": 525,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "426",
                     "name": "426-Pokój-Marek Stachowiak, Tomasz Szuk",
                     "id": 526,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "427",
                     "name": "427-Pokój-Izabela Kurtyka-Marcak, Irena Kropsz-Wydra",
                     "id": 527,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "428",
                     "name": "428-Pokój-Magdalena Raftowicz, Krzysztof Prymon, Agnieszka Krześ",
                     "id": 528,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "429",
                     "name": "429-Pokój-Anna Kapała, Jakub Żurek",
                     "id": 529,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "430",
                     "name": "430-Pokój-Tomasz Pilawka, Katarzyna Furdak",
                     "id": 530,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "431",
                     "name": "431-Pokój-Hanna Adamska, Stanisław Minta",
                     "id": 531,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "432",
                     "name": "432-Pokój-Krzysztof Rutkiewicz",
                     "id": 532,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "433",
                     "name": "433-Pokój-Barbara Kurtkowska",
                     "id": 533,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "434",
                     "name": "434-Pokój-Wojciech Majcher",
                     "id": 534,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "435",
                     "name": "435-Pokój-Bożena Tańska-Hus",
                     "id": 535,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "436",
                     "name": "436-Pokój-Magdalena Kalisiak-Mędelska",
                     "id": 536,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "437",
                     "name": "437-Sala seminaryjna",
                     "id": 537,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "438",
                     "name": "438-Pokój-Justyna Janowska-Biernat, Danuta Gonet",
                     "id": 538,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "439",
                     "name": "439-Pokój-Monika Przybylska",
                     "id": 539,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "440",
                     "name": "440-Sala seminaryjna",
                     "id": 540,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "441",
                     "name": "441-Pomieszczenie socjalne",
                     "id": 541,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "442",
                     "name": "442-Pomieszczenie pomocnicze",
                     "id": 542,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "443",
                     "name": "443-Pracownia nasienia",
                     "id": 543,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "444",
                     "name": "444-Sala ćwiczeń",
                     "id": 544,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "423",
                     "name": "423-Pokój-Marta Preisner, Kamil Kostyn, Aleksandra Boba, Krzysztof Marczewski",
                     "id": 545,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "422",
                     "name": "422-Pokój-Dariusz Zalewski, Bartosz Kozak",
                     "id": 546,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "445",
                     "name": "445-Laboratorium",
                     "id": 547,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "421",
                     "name": "421-Pokój socjalny",
                     "id": 548,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 4 piętro",
                     "name": "Toaleta damska - 4 piętro",
                     "id": 549,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 550,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "420",
                     "name": "420-Pokój-Henry Bujak, Ewa Sawicka-Sienkiewicz",
                     "id": 551,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "419B",
                     "name": "419B-Pomieszczenie techniczne",
                     "id": 552,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "419",
                     "name": "419-Sekretariat-Jolanta Górecka",
                     "id": 553,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "448",
                     "name": "448-Pomieszczenie porządkowe",
                     "id": 554,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "418",
                     "name": "418-Pokój-Sylwia Lewandowska, Sandra Rychel-Bielska",
                     "id": 555,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 4 piętro",
                     "name": "Toaleta męska - 4 pietro",
                     "id": 556,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "450",
                     "name": "450-Pokój",
                     "id": 557,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "417",
                     "name": "417-Pokój-Kamila Nowosad",
                     "id": 558,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "416",
                     "name": "416-Pokój",
                     "id": 559,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "415",
                     "name": "415-Pokój-Renata Galek",
                     "id": 560,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "451",
                     "name": "451-Sala ćwiczeniowa",
                     "id": 561,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "452",
                     "name": "452-Biblioteka",
                     "id": 562,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "453",
                     "name": "453-Sala komputerowa",
                     "id": 563,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "454",
                     "name": "454-Sala komputerowa",
                     "id": 564,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 4 piętro",
                     "name": "Toaleta męska - 4 pietro",
                     "id": 565,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 4 piętro",
                     "name": "Toaleta damska - 4 piętro",
                     "id": 566,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "403",
                     "name": "403-Pokój-Magalena Bednik, Michal Dudek, Mateusz Krupski",
                     "id": 567,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "403A",
                     "name": "403A-Sala zajęciowa",
                     "id": 568,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "404",
                     "name": "404-Pokój-Marta Buzar, Tadeusz Czuj, Agnieszka Łacka, Alicja Trybuła",
                     "id": 569,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "405",
                     "name": "405-Sala wykładowa",
                     "id": 570,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "405A",
                     "name": "405A-Centrum Zasobów i Wsparcia Dydaktyki-Joanna Markowska",
                     "id": 571,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "406",
                     "name": "406-Pokój-Jacek Markowski, Joanna Borowiec-Jaskólska, Monika Brząkała, Marta Burdzy, Artur Majchrzak, Kamila Pawłowska",
                     "id": 572,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "407",
                     "name": "407-Biuro Karier",
                     "id": 573,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "408",
                     "name": "408-Sala konferencyjna",
                     "id": 574,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "409",
                     "name": "409-Pomieszczenie techniczne",
                     "id": 575,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "410",
                     "name": "410-Pokój-Łukasz Baszkiewicz",
                     "id": 576,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "411",
                     "name": "411-Pokój-Patrycja Krzemieniec",
                     "id": 577,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "412",
                     "name": "412-Pokój-Jan Kaczmarek",
                     "id": 578,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "413",
                     "name": "413-Konsultacje",
                     "id": 579,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "414",
                     "name": "414-Sala ćwiczeniowa",
                     "id": 580,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "414A",
                     "name": "414A-Pomieszczenie pomocnicze",
                     "id": 581,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - 4 piętro",
                     "name": "Hol - 4 piętro",
                     "id": 582,
                     "level": 4,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "501",
                     "name": "501-Wentylatoria",
                     "id": 583,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta męska - 5 piętro",
                     "name": "Toaleta męska - 5 piętro",
                     "id": 584,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Toaleta damska - 5 piętro",
                     "name": "Toaleta damska - 5 piętro",
                     "id": 585,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "514",
                     "name": "514-Pomieszczenie porządkowe",
                     "id": 586,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "513",
                     "name": "513-Biuro karier",
                     "id": 587,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "504",
                     "name": "504-Pokój-Kamila Twardowska",
                     "id": 588,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "505",
                     "name": "505-Pokój-Wojciech Pusz",
                     "id": 589,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "506",
                     "name": "506-Biblioteka zakładu entymologii rolniczej pokój socjalny",
                     "id": 590,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "507",
                     "name": "507-Sala ćwiczeniowa",
                     "id": 591,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "508",
                     "name": "508-Sala ćwiczeniowa",
                     "id": 592,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "509",
                     "name": "509-Biblioteka",
                     "id": 593,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "510",
                     "name": "510-Pokój-Anna Karczewska",
                     "id": 594,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "511",
                     "name": "511-Pomieszczenie techniczne",
                     "id": 595,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "512",
                     "name": "512-Pokój-Bernard Gałka",
                     "id": 596,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 },
                 {
                     "name_blank": "Hol - 5 piętro",
                     "name": "Hol - 5 piętro",
                     "id": 597,
                     "level": 5,
-                    "build": "c3"
+                    "build": "C3"
                 }
             ]
         },
@@ -3866,1029 +3866,1029 @@
                     "name": "0.14h-Zaplecze labolatoriów",
                     "id": 622,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.15h",
                     "name": "0.15h-Labolatorium geodezyjne",
                     "id": 623,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.19h",
                     "name": "0.19h-Pomieszczenie techniczne",
                     "id": 624,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.17h",
                     "name": "0.17h-Rozdzielnia",
                     "id": 625,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.18h",
                     "name": "0.18h-Pomieszczenie techniczne",
                     "id": 626,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - Piwnica",
                     "name": "Toaleta dla niepełnosprawnych - Piwnica",
                     "id": 627,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.29h",
                     "name": "0.29h-Punkt dystrybucyjny",
                     "id": 628,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.36h",
                     "name": "0.36h-Pomieszczenie techniczne",
                     "id": 629,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.11h",
                     "name": "0.11h-Pokój",
                     "id": 630,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - Piwnica",
                     "name": "Toaleta damska - Piwnica",
                     "id": 631,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - Piwnica",
                     "name": "Toaleta męska - Piwnica",
                     "id": 632,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.22h",
                     "name": "0.22h-Węzeł sanitarny dla labolatorium",
                     "id": 633,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.23bh",
                     "name": "0.23bh-Labolatorium badań geotechnicznych 6",
                     "id": 634,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.23ah",
                     "name": "0.23ah-Labolatorium badań geotechnicznych 5",
                     "id": 635,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.25h",
                     "name": "0.25h-Pomieszczenie wezła ciepłowniczego",
                     "id": 636,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.26h",
                     "name": "0.26h-Pomieszczenie techniczne",
                     "id": 637,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.28h",
                     "name": "0.28h-Pomieszczenie techniczne",
                     "id": 638,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.27h",
                     "name": "0.27h-Pomieszczenie techniczne",
                     "id": 639,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.09h",
                     "name": "0.09h-Pokój przygotowań i magazyn próbek",
                     "id": 640,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.10ah",
                     "name": "0.10ah-Labolatorium badań geotechnicznych 1",
                     "id": 641,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.10bh",
                     "name": "0.10bh-Labolatorium badań geotechnicznych 2",
                     "id": 642,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.10ch",
                     "name": "0.10ch-Labolatorium badań geotechnicznych 3",
                     "id": 643,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "0.10dh",
                     "name": "0.10dh-Labolatorium badań geotechnicznych 4",
                     "id": 644,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - Piwnica",
                     "name": "Hol - Piwnica",
                     "id": 650,
                     "level": -1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.12h",
                     "name": "1.12h-Pomieszczenie gospodarcze",
                     "id": 653,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.11h",
                     "name": "1.11h-Pomieszczenie ochrony",
                     "id": 655,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.25h",
                     "name": "1.25h-Punkt dystrybucyjny",
                     "id": 656,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.10h",
                     "name": "1.10h-Sala",
                     "id": 657,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - Parter",
                     "name": "Toaleta damska - Parter",
                     "id": 658,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - Parter",
                     "name": "Toaleta męska - Parter",
                     "id": 659,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.15h",
                     "name": "1.15h-Pomieszczenie gospodarcze",
                     "id": 660,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - Parter",
                     "name": "Toaleta dla niepełnosprawnych - Parter",
                     "id": 661,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.17h",
                     "name": "1.17h-Archiwum dziekanatu",
                     "id": 662,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.18h",
                     "name": "1.18h-Archiwum dziekanatu",
                     "id": 663,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Dziekanat wydziału inżynierii kształtownia środowiska i geodezji",
                     "name": "Dziekanat wydziału inżynierii kształtownia środowiska i geodezji",
                     "id": 664,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.08h",
                     "name": "1.08h-Gabinet",
                     "id": 665,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.07h",
                     "name": "1.07h-Gabinet-Iwona Wenda-Zając",
                     "id": 666,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.06h",
                     "name": "1.06h-Gabinet-Bernard Kontny",
                     "id": 667,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.23h",
                     "name": "1.23h-Pomieszczenie gospodarcze",
                     "id": 668,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.22h",
                     "name": "1.22h-Gabinet-Robert Głowski, Piotr Gołuch",
                     "id": 669,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.21h",
                     "name": "1.21h-Gabinet-Beata Raszka, Renata Gubańska",
                     "id": 670,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "1.20h",
                     "name": "1.20h-Sala konferencyjna",
                     "id": 671,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - Parter",
                     "name": "Hol - Parter",
                     "id": 675,
                     "level": 0,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.20h",
                     "name": "2.20h-Serwerownia",
                     "id": 682,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.19h",
                     "name": "2.19h-Gabinet-Grzegorz Chrobak, Małgorzata Świąder",
                     "id": 683,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.18h",
                     "name": "2.18h-Gabinet-Beata Raszka",
                     "id": 684,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.17h",
                     "name": "2.17h-Gabinet-Rengin Aslnoglu, Iwona Kaczmarek, Maciej Zathey",
                     "id": 685,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.16h",
                     "name": "2.16h-Gabinet-Halina Dzieżyc, Piotr Kunicki",
                     "id": 686,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.15h",
                     "name": "2.15h-Gabinet",
                     "id": 687,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.14h",
                     "name": "2.14h-Gabinet-Marek Furmankiewicz",
                     "id": 688,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.13h",
                     "name": "2.13h-Gabinet-Piotr Krajewski",
                     "id": 689,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.12h",
                     "name": "2.12h-Gabinet-Jan Kazak",
                     "id": 690,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.11h",
                     "name": "2.11h-Sekretariat-Mariola Kunicka",
                     "id": 691,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.10h",
                     "name": "2.10h-Gabinet-Szymon Szewrański",
                     "id": 692,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.31h",
                     "name": "2.31h-Punkt dystrybucyjny",
                     "id": 693,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.08h",
                     "name": "2.08h-Pokój socjalny",
                     "id": 694,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 1 piętro",
                     "id": 695,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.06h",
                     "name": "2.06h-Gabinet-Aleksander Drobny, Joanna Lipsa",
                     "id": 696,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.07h",
                     "name": "2.07h-Gabinet-Olgierd Kempa, Tomasz Szuszkiewicz",
                     "id": 697,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.05h",
                     "name": "2.05h-Labolatorium komputerowe katastru",
                     "id": 698,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.04h",
                     "name": "2.04h-Labolatorium budownictwa i infrastruktury",
                     "id": 699,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.28h",
                     "name": "2.28h-Pracownia projektowa gospodarki przestrzennej",
                     "id": 700,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.27h",
                     "name": "2.27h-Labolatorium komputerowe projektowania krajobrazu",
                     "id": 701,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - 1 piętro",
                     "name": "Toaleta męska - 1 piętro",
                     "id": 702,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - 1 piętro",
                     "name": "Toaleta damska - 1 piętro",
                     "id": 703,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.24h",
                     "name": "2.24h-Gabinet-Monika Lebiedzińska, Aleksandra Lubańska, Sandra Nawrocka, Marta Sawras",
                     "id": 704,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.23h",
                     "name": "2.23h-Gabinet-Iga Kołodyńska, Marta Sylla",
                     "id": 705,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.29h",
                     "name": "2.29h-Pomieszczenie gospodarcze",
                     "id": 706,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - 1 piętro",
                     "name": "Hol - 1 piętro",
                     "id": 709,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "2.21h",
                     "name": "2.21h-Sala wykładowa",
                     "id": 713,
                     "level": 1,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.19h",
                     "name": "3.19h-Labolatorium specjalistyczne inżynierii bezpieczeństwa 1",
                     "id": 714,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.18h",
                     "name": "3.18h-Gabinet-Marian Kuchniarz",
                     "id": 715,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.17h",
                     "name": "3.17h-Gabinet-Barbara Mastalska-Cetera",
                     "id": 716,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.16h",
                     "name": "3.16h-Gabinet-Paweł Swianiewicz",
                     "id": 717,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.15h",
                     "name": "3.15h-Gabinet-Tomasz Malczyk",
                     "id": 718,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.14h",
                     "name": "3.14h-Centrum modelowania procesów hydrologicznych",
                     "id": 719,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - 2 piętro",
                     "name": "Toaleta męska - 2 piętro",
                     "id": 720,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - 2 piętro",
                     "name": "Toaleta damska - 2 piętro",
                     "id": 721,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.11h",
                     "name": "3.11h-Pracownia inżynierii ekologicznej",
                     "id": 722,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.10h",
                     "name": "3.10h-Pracownia inżynierii ekologicznej",
                     "id": 723,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.09h",
                     "name": "3.09h-Gabinet-Robert Kalabarczyk",
                     "id": 724,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.08h",
                     "name": "3.08h-Pokój socjalny biblioteki i czytelni",
                     "id": 725,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.07h",
                     "name": "3.07h-Bibliotek i czytelnia",
                     "id": 726,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.06h",
                     "name": "3.06h-Gabinet-Katarzyna Tokarczyk-Dorociak, Marcin Sobota",
                     "id": 727,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.05h",
                     "name": "3.05h-Gabinet-Monika Ziemiańska, Oleksandra Strashok",
                     "id": 728,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.04h",
                     "name": "3.04h-Gabinet-Karolina Zalewska Kamila Pawlowska Joanna Dobrzanska",
                     "id": 729,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.03",
                     "name": "3.03-Gabinet-Justyna Jaworek, Łukasz Pardela",
                     "id": 730,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.31h",
                     "name": "3.31h-Pokój socjalny pracowników",
                     "id": 731,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.34",
                     "name": "3.34-Punkt dystrybucyjny",
                     "id": 732,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 2 piętro",
                     "id": 733,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.30h",
                     "name": "3.30h-Labolatorium specjalistyczne inżynierii bezpieczeństwa",
                     "id": 734,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.29h",
                     "name": "3.29h-Gabinet-Eleonora Gonda-Soroczyńska, Tadeusz Lasota",
                     "id": 735,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.28h",
                     "name": "3.28h-Gabinet-Monika Płuciennik, Katarzyna Przybyła",
                     "id": 736,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.27h",
                     "name": "3.27h-Gabinet-Jakub Szczepański",
                     "id": 737,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.26h",
                     "name": "3.26h-Gabinet-Zofia Więckowicz, Agnieszka Stacherzak",
                     "id": 738,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.25h",
                     "name": "3.25h-Gabinet-Alina Kulczyk-Dynowska",
                     "id": 739,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.24h",
                     "name": "3.24h-Gabinet-Zbigniew Piepiora",
                     "id": 740,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.22h",
                     "name": "3.22h-Gabinet- Maria Hełdak",
                     "id": 741,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.23h",
                     "name": "3.23h-Biblioteka",
                     "id": 742,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.21h",
                     "name": "3.21h-Pokój doktorantów",
                     "id": 743,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.20h",
                     "name": "3.20h-Pomieszczenie gospodarcze",
                     "id": 744,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "3.33h",
                     "name": "3.33h-Sala seminaryjna",
                     "id": 746,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - 2 piętro",
                     "name": "Hol - 2 piętro",
                     "id": 748,
                     "level": 2,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.15h",
                     "name": "4.15h-Pomieszczenie gospodarcze",
                     "id": 750,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.16h",
                     "name": "4.16h-Sekretariat katedry architektury krajobrazu-Jolanta Just-Maruszewska, Beata Kwiecień",
                     "id": 751,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.17h",
                     "name": "4.17h-Magazyn",
                     "id": 752,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.18h",
                     "name": "4.18h-Gabinet",
                     "id": 753,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.19h",
                     "name": "4.19h-Gabinet-Bartosz Jawecki",
                     "id": 754,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.20h",
                     "name": "4.20h-Gabinet-Marek Lorenc",
                     "id": 755,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.21h",
                     "name": "4.21h-Gabinet-Justyna Rubaszek",
                     "id": 756,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.22h",
                     "name": "4.22h-Gabinet-Aleksandra Lis",
                     "id": 757,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.23h",
                     "name": "4.23h-Gabinet-Maciej Filipiak",
                     "id": 758,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.24h",
                     "name": "4.24h-Gabinet-Jerzy Potyrała",
                     "id": 759,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 3 piętro",
                     "id": 760,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.26h",
                     "name": "4.26h-Punkt dystrybucyjny",
                     "id": 761,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.03h",
                     "name": "4.03h-Pokój socjalny pracowników",
                     "id": 762,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.04h",
                     "name": "4.04h-Gabinet-Kornelia Kwiecińska, Elżbieta Szopińska",
                     "id": 763,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.05h",
                     "name": "4.05h-Gabinet-Renata Gubańska",
                     "id": 764,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.06h",
                     "name": "4.06h-Gabinet-Jacek Brudziński, Janusz Gubański",
                     "id": 765,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.07h",
                     "name": "4.07h-Pracownia plastyczna",
                     "id": 766,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.07ah",
                     "name": "4.07ah-Magazyn pracowni plastycznej 1",
                     "id": 767,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.07bh",
                     "name": "4.07bh-Magazyn pracowni plastycznej 2",
                     "id": 768,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.08h",
                     "name": "4.08h-Gabinet-Ewa Podhajska, Magdalena Zienowicz",
                     "id": 769,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.09h",
                     "name": "4.09h-Gabinet-Irena Niedźwiecka-Filipiak",
                     "id": 770,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.10h",
                     "name": "4.10h-Pokój gościnny-Anna Borcz",
                     "id": 771,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - 3 piętro",
                     "name": "Toaleta damska - 3 piętro",
                     "id": 772,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - 3 piętro",
                     "name": "Toaleta męska - 3 piętro",
                     "id": 773,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.13h",
                     "name": "4.13h-Labolatorium szaty roślinnej",
                     "id": 774,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "4.14h",
                     "name": "4.14h-Labolatorium światła i fotografii",
                     "id": 775,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - 3 piętro",
                     "name": "Hol - 3 piętro",
                     "id": 779,
                     "level": 3,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.04",
                     "name": "5.04-Pomieszczenie socjalne studentów",
                     "id": 780,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.03h",
                     "name": "5.03h-Pracownia audiosfery i akustyki środowiska",
                     "id": 781,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.02h",
                     "name": "5.02h-Sala indywidualnej pracy studentów",
                     "id": 782,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.05h",
                     "name": "5.05h-Pokój socjalny pracowniczy",
                     "id": 783,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.14h",
                     "name": "5.14h-Punkt dystrybucyjny",
                     "id": 784,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "name": "Toaleta dla niepełnosprawnych - 4 piętro",
                     "id": 785,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta damska - 4 piętro",
                     "name": "Toaleta damska - 4 piętro",
                     "id": 786,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Toaleta męska - 4 piętro",
                     "name": "Toaleta męska - 4 pietro",
                     "id": 787,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.13h",
                     "name": "5.13h-Zaplecze labolatorium i pokój badań biochemicznych",
                     "id": 788,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.11h",
                     "name": "5.11h-Pomieszczenie gospodarcze",
                     "id": 789,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.10eh",
                     "name": "5.10eh-Pokój chromatografii",
                     "id": 790,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.09h",
                     "name": "5.09h-Pomieszczenie sanitarne",
                     "id": 791,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.10ch",
                     "name": "5.10ch-Pokój icp",
                     "id": 792,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.10fh",
                     "name": "5.10fh-Pokój przechowywania",
                     "id": 793,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.10bh",
                     "name": "5.10bh-Pokój wagowy",
                     "id": 794,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "Hol - 4 piętro",
                     "name": "Hol - 4 piętro",
                     "id": 798,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 },
                 {
                     "name_blank": "5.10h",
                     "name": "5.10h-Centralne wydziałowe labolatorium badań środowiskowych",
                     "id": 800,
                     "level": 4,
-                    "build": "c5"
+                    "build": "C5"
                 }
             ]
         }
