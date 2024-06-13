@@ -3,162 +3,162 @@
         {
             "C1 GEODEZJA": [
                 {
-                    "name_blank": "-1.23",
-                    "name": "-1.23-Gabinet-Skn Geodetow",
+                    "name_blank": "023",
+                    "name": "023-Gabinet-Skn Geodetow",
                     "id": 1,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.24",
-                    "name": "-1.24-Warsztat",
+                    "name_blank": "024",
+                    "name": "024-Warsztat",
                     "id": 2,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.25",
-                    "name": "-1.25-Magazyn",
+                    "name_blank": "025",
+                    "name": "025-Magazyn",
                     "id": 3,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.1",
-                    "name": "-1.1-Serwerownia",
+                    "name_blank": "01",
+                    "name": "01-Serwerownia",
                     "id": 4,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.2",
-                    "name": "-1.2-Laboratorium",
+                    "name_blank": "02",
+                    "name": "02-Laboratorium",
                     "id": 5,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.3",
-                    "name": "-1.3-Gabinet-Kazimierz Ćmielewski",
+                    "name_blank": "03",
+                    "name": "03-Gabinet-Kazimierz Ćmielewski",
                     "id": 6,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.4",
-                    "name": "-1.4-Magazyn sprzętu geodezyjnego",
+                    "name_blank": "04",
+                    "name": "04-Magazyn sprzętu geodezyjnego",
                     "id": 7,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.5",
-                    "name": "-1.5-Gabinet-Janusz Kuchmister",
+                    "name_blank": "05",
+                    "name": "05-Gabinet-Janusz Kuchmister",
                     "id": 8,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.6",
-                    "name": "-1.6-Pomieszczenie socjalne",
+                    "name_blank": "06",
+                    "name": "06-Pomieszczenie socjalne",
                     "id": 9,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.9",
-                    "name": "-1.9-Laboratorium",
+                    "name_blank": "09",
+                    "name": "09-Laboratorium",
                     "id": 10,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.10",
-                    "name": "-1.10-Laboratorium",
+                    "name_blank": "010",
+                    "name": "010-Laboratorium",
                     "id": 11,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.11",
-                    "name": "-1.11-Laboratorium",
+                    "name_blank": "011",
+                    "name": "011-Laboratorium",
                     "id": 12,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.11",
-                    "name": "-1.11-Magazyn szkła laboaratoryjnego",
+                    "name_blank": "011",
+                    "name": "011-Magazyn szkła laboaratoryjnego",
                     "id": 13,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.13",
-                    "name": "-1.13-Ucieralnia",
+                    "name_blank": "013",
+                    "name": "013-Ucieralnia",
                     "id": 14,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.14",
-                    "name": "-1.14-Magazyn",
+                    "name_blank": "014",
+                    "name": "014-Magazyn",
                     "id": 15,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.15",
-                    "name": "-1.15-Pomieszczenie pomocnicze",
+                    "name_blank": "015",
+                    "name": "015-Pomieszczenie pomocnicze",
                     "id": 16,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.16",
-                    "name": "-1.16-Pomieszczenie pomocnicze",
+                    "name_blank": "016",
+                    "name": "016-Pomieszczenie pomocnicze",
                     "id": 17,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.17",
-                    "name": "-1.17-Węzeł cieplny",
+                    "name_blank": "017",
+                    "name": "017-Węzeł cieplny",
                     "id": 18,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.18",
-                    "name": "-1.18-Rozdzielnia główna",
+                    "name_blank": "018",
+                    "name": "018-Rozdzielnia główna",
                     "id": 19,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.19",
-                    "name": "-1.19-Destylatornia",
+                    "name_blank": "019",
+                    "name": "019-Destylatornia",
                     "id": 20,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.20",
-                    "name": "-1.20-Suszarnia roslin",
+                    "name_blank": "020",
+                    "name": "020-Suszarnia roslin",
                     "id": 21,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.21",
-                    "name": "-1.21-Węzeł cieplny",
+                    "name_blank": "021",
+                    "name": "021-Węzeł cieplny",
                     "id": 22,
                     "level": -1,
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.22",
-                    "name": "-1.22-Warsztat",
+                    "name_blank": "022",
+                    "name": "022-Warsztat",
                     "id": 23,
                     "level": -1,
                     "build": "C1"
@@ -171,8 +171,8 @@
                     "build": "C1"
                 },
                 {
-                    "name_blank": "-1.8",
-                    "name": "-1.8-Laboratorium",
+                    "name_blank": "08",
+                    "name": "08-Laboratorium",
                     "id": 28,
                     "level": -1,
                     "build": "C1"
